@@ -1,7 +1,7 @@
 
 
 Generated from clippings in file kindle/documents/My Clippings.txt
-on 2019-11-20 22:27:53 CET
+on 2019-12-11 17:25:33 CET
 by the zitat script (http://sagallesab.wordpress.com/zitat).
 
 
@@ -50,6 +50,228 @@ the most important property of the system of real numbers, its continuity.
 one of the fundamental laws of formation of mathematical concepts: They are brought into being by a series of successive abstractions and generalizations, each resting on a combination of experience with preceding abstract concepts.
 
 /#735-736的标注. 添加于 2019年7月7日星期日 下午7:08:29./
+
+* Alfie Kohn
+
+** No Contest
+
+*** “he cannot imagine its absence, so he cannot consider its --
+
+“he cannot imagine its absence, so he cannot consider its presence.”
+
+/Highlight on Location 68-69. Added on Thursday, November 28, 2019 11:47:12 PM./
+
+*** a look at what it really means to try to beat other --
+
+a look at what it really means to try to beat other people, a careful investigation of this arrangement that requires some people to fail in order that others can succeed.
+
+/Highlight on Location 73-74. Added on Thursday, November 28, 2019 11:48:18 PM./
+
+*** To say that an activity is structurally competitive is to --
+
+To say that an activity is structurally competitive is to say that it is characterized by what I will call mutually exclusive goal attainment
+
+/Highlight on Location 118-119. Added on Friday, November 29, 2019 9:33:53 AM./
+
+*** This means, very simply, that my success requires your --
+
+This means, very simply, that my success requires your failure.
+
+/Highlight on Location 119-120. Added on Friday, November 29, 2019 9:34:05 AM./
+
+*** Our fates are negatively linked. --
+
+Our fates are negatively linked.
+
+/Highlight on Location 120-120. Added on Friday, November 29, 2019 9:34:11 AM./
+
+*** If I must try to defeat you in order to get what I want, --
+
+If I must try to defeat you in order to get what I want, then what I want is scarce by definition.
+
+/Highlight on Location 124-124. Added on Friday, November 29, 2019 9:36:23 AM./
+
+*** How can we do our best when we are spending our energies --
+
+How can we do our best when we are spending our energies trying to make others lose—and fearing that they will make us lose?
+
+/Highlight on Location 214-214. Added on Friday, November 29, 2019 9:57:03 AM./
+
+*** intentional competition could be understood in terms of --
+
+intentional competition could be understood in terms of self-esteem needs: we try to beat others in an effort to prove our own worth. Ultimately this strategy reveals itself as futile, since making our self-esteem contingent on winning means that it will always be in doubt. The more we compete, the more we need to compete.
+
+/Highlight on Location 3604-3606. Added on Friday, November 29, 2019 10:04:30 AM./
+
+*** Escaping this trap ultimately means finding more --
+
+Escaping this trap ultimately means finding more successful ways of securing our self-esteem: building an unconditional sense of trust in ourselves that will make it unnecessary to keep demonstrating our superiority.
+
+/Highlight on Location 3606-3608. Added on Friday, November 29, 2019 10:04:48 AM./
+
+*** comparing oneself to others is not the only way to measure --
+
+comparing oneself to others is not the only way to measure our progress. We can look instead to our own past performance or to some absolute standard to see how well we are doing.
+
+/Highlight on Location 3617-3618. Added on Friday, November 29, 2019 10:07:44 AM./
+
+*** If we are obliged to participate in structural --
+
+If we are obliged to participate in structural competition, we can still work to reduce personal competitiveness. At the very least, we can shift to what I have called “process competition” by directing attention away from the results of an activity. If we are playing a competitive game, we ought not to keep score. If it will be obvious who wins, we should at least avoid awarding any prizes or making a fuss over the victor. By minimizing the significance of winning, we simultaneously soften the blow of losing. Whenever we take part in a contest, we can try to nest it in fellowship: by making a special effort to fortify the bonds between competitors, the destructive effects of having to work against each other can be eased a bit.
+
+/Highlight on Location 3620-3625. Added on Friday, November 29, 2019 10:11:11 AM./
+
+*** The psychological and interpersonal damage wrought by --
+
+The psychological and interpersonal damage wrought by competition is so severe that we should also let children know of it in explicit terms. There are school programs to tell children about the abuse of drugs, including tobacco and alcohol. Why not do the same with regard to mutually exclusive goal attainment? Surely the evidence is clear enough and the stakes high enough. Granted that what we do is more important than what we say; above all, we should not set children against one another and we should not act in such a way as to present them with competitive role models.
+
+/Highlight on Location 3640-3643. Added on Friday, November 29, 2019 5:23:36 PM./
+
+*** “to change behavior we must discover the institutional --
+
+“to change behavior we must discover the institutional supports which maintain the existing undesirable behavior and then design programs to alter these environments.”
+
+/Highlight on Location 3669-3670. Added on Friday, November 29, 2019 5:27:25 PM./
+
+*** It is the fact of having to participate in contests that --
+
+It is the fact of having to participate in contests that leads us to try to outdo others. And it is the fact of having to participate in contests that we are going to have to change if we want to move in healthier directions.
+
+/Highlight on Location 3672-3674. Added on Thursday, December 5, 2019 9:39:33 AM./
+
+*** The value orientation which holds competition high is --
+
+The value orientation which holds competition high is perpetuated as individuals participate in institutions which help to shape their perception of reality. There is, in other words, a convergence of social forces which fosters a common perception of the world so that it is viewed in competitive terms. Added to this institutional factor is the dissipation of forces that would inhibit competition.
+
+/Highlight on Location 3680-3683. Added on Thursday, December 5, 2019 9:41:23 AM./
+
+*** Our psychological state and our relationships with others --
+
+Our psychological state and our relationships with others not only are correlated with the extent of our intentional competitiveness but are changed by a framework of structural competition.
+
+/Highlight on Location 3685-3686. Added on Thursday, December 5, 2019 9:41:47 AM./
+
+*** “the psychological orientations of the subjects --
+
+“the psychological orientations of the subjects [including] their views of themselves and of the others in their group were considerably different as a function of the distributive system under which they worked.”
+
+/Highlight on Location 3686-3688. Added on Thursday, December 5, 2019 9:42:02 AM./
+
+*** “It may be more fruitful to introduce new games than to --
+
+“It may be more fruitful to introduce new games than to change old orientations. We may come closer to achieving our objectives if we simply let cooperative games do the shaping.”
+
+/Highlight on Location 3694-3695. Added on Thursday, December 5, 2019 9:43:04 AM./
+
+*** To the extent that a man is rewarded for putting the --
+
+To the extent that a man is rewarded for putting the organization’s goals first, harmonizing his own efforts with those of his colleagues, and making himself personally attractive to the people around him, he will develop situationally specific orientations in which co-operation, harmony, teamwork, etc. are seen as instrumental to success, intrinsically pleasurable, and morally desirable. From his job, such orientations can be expected to spill over to his family, community, and even society as a whole. This, it will be recalled, is precisely the sort of thing we found in the laboratory.
+
+/Highlight on Location 3697-3701. Added on Thursday, December 5, 2019 9:44:32 AM./
+
+*** HOW TO PREVENT SOCIAL CHANGE13   Making our society less --
+
+HOW TO PREVENT SOCIAL CHANGE13   Making our society less competitive ultimately depends on reducing structural competition. Unfortunately, bringing about structural change of any kind requires overcoming enormous resistance. It is much easier to describe how change can be blocked than how it can be furthered. For those so inclined, then, here are five simple ways to perpetuate the status quo. 1. LIMIT YOUR VISION:
+
+/Highlight on Location 3713-3717. Added on Thursday, December 5, 2019 6:52:29 PM./
+
+*** By pretending, for example, that psychological disturbance --
+
+By pretending, for example, that psychological disturbance has nothing to do with the societal forces that shape personality development, you can help see to it that those forces continue unabated. It follows that all intervention should be done at the individual level. It is fine to help, say, homeless people on a case-by-case basis, but inquiring into the policy decisions and economic arrangements that have brought about their predicament would only serve to invite drastic changes—and this is what we want to avoid at all costs.
+
+/Highlight on Location 3718-3722. Added on Thursday, December 5, 2019 6:52:51 PM./
+
+*** 2.    ADAPT: The best way to keep the status quo intact is --
+
+2.    ADAPT: The best way to keep the status quo intact is to make sure that individuals adjust themselves to serve its needs. Such adaptation once was enforced by crude, authoritarian methods of “reeducation.” Today this is hardly necessary. A wealth of advice is available on how to become successful—what to wear, how to negotiate, and so forth—and virtually all of it proceeds from the premise that you should adjust yourself to conditions as you find them. Adaptation is a critical part of the self-help model: you must succeed within the institutions and according to the rules that already exist. To do well is to fit in, and to fit in is to fortify the structures into which you are being fit.
+
+/Highlight on Location 3724-3728. Added on Thursday, December 5, 2019 6:53:29 PM./
+
+*** 3.    THINK ABOUT YOURSELF: Implicit in any exhortations --
+
+3.    THINK ABOUT YOURSELF: Implicit in any exhortations to succeed by “giving them what they want” is the suggestion that you should be totally preoccupied with your own well-being. The more you limit your concerns to yourself, the more you help to sustain the larger system. But this does not apply merely to material success. Even therapeutic and spiritual enterprises are useful for preserving the status quo because in encouraging you to attend to your own needs, they effectively direct attention away from social structures. Groom yourself and let the rest of the world go on its way—what better strategy is there for perpetuating existing structures? A few people may argue, it is true, that personal growth can be a route to social change. But most of the human potential movement will not require you to wrestle with this question, since social change is irrelevant to its goals and techniques.
+
+/Highlight on Location 3729-3735. Added on Thursday, December 5, 2019 7:36:30 PM./
+
+*** Terry Orlick offers noncompetitive games as a way of --
+
+Terry Orlick offers noncompetitive games as a way of reconceptualizing recreation. “Why not create and play games that make us more cooperative, honest and considerate of others?”
+
+/Highlight on Location 3797-3799. Added on Monday, December 9, 2019 11:08:11 PM./
+
+*** On the political scene, Benjamin Barber has argued --
+
+On the political scene, Benjamin Barber has argued persuasively that the adversarial and individualistic underpinnings of politics as we know it are actually inimical to democracy; in their place he proposes a consensus-based system that is similar to the cooperative resolution of conflict discussed in chapter
+
+/Highlight on Location 3802-3804. Added on Monday, December 9, 2019 11:09:25 PM./
+
+*** On the political scene, Benjamin Barber has argued --
+
+On the political scene, Benjamin Barber has argued persuasively that the adversarial and individualistic underpinnings of politics as we know it are actually inimical to democracy; in their place he proposes a consensus-based system that is similar to the cooperative resolution of conflict discussed in chapter 6.
+
+/Highlight on Location 3802-3804. Added on Monday, December 9, 2019 11:09:38 PM./
+
+*** With respect to global rivalry, Morton Deutsch, among --
+
+With respect to global rivalry, Morton Deutsch, among others, emphasizes that “the old notion of ‘national security’ must be replaced by the new notion of ‘mutual security.’”
+
+/Highlight on Location 3805-3806. Added on Monday, December 9, 2019 11:09:45 PM./
+
+*** Despite the productivity and sense of fulfillment that --
+
+Despite the productivity and sense of fulfillment that come from working together, we often act as if cooperation is something for which we must sit passively and wait, like a beautiful sunset. In fact, there is scarcely an arena of human life which cannot be transformed into a cooperative enterprise.
+
+/Highlight on Location 3811-3813. Added on Monday, December 9, 2019 11:11:05 PM./
+
+*** To take this perspective is to move beyond our customary --
+
+To take this perspective is to move beyond our customary individualistic frame of reference. Even if it seems appropriate for me to compete—overlooking for the moment the price I pay for doing so—I need to ask whether it is in our collective interest to keep competing. (That such a discrepancy can exist is, of course, the lesson of the Prisoner’s Dilemma game described earlier.)
+
+/Highlight on Location 3830-3832. Added on Monday, December 9, 2019 11:14:39 PM./
+
+*** Replacing structural competition with cooperation requires --
+
+Replacing structural competition with cooperation requires collective action, and collective action requires education and organization.
+
+/Highlight on Location 3833-3834. Added on Monday, December 9, 2019 11:14:58 PM./
+
+*** As with other features of the status quo, the stakes are --
+
+As with other features of the status quo, the stakes are highest here for those with the least power. People who have systematically been denied the opportunity to earn a decent wage, to lead a life with dignity, to make decisions about what affects them, may think it peculiar to be told that competition is destructive. After all, they might argue, “my only hope is to enter the race and try to win, to beat them at their own game.” It is not a coincidence that this is precisely the response to oppression encouraged by those who hold the power. First, this strategy rarely works (even in conventional terms) because the deck is stacked: those who already are winners are in better shape to win succeeding contests.
+
+/Highlight on Location 3838-3842. Added on Monday, December 9, 2019 11:17:22 PM./
+
+*** Second, to participate in competition is to help --
+
+Second, to participate in competition is to help perpetuate an arrangement that caused the problem in the first place.
+
+/Highlight on Location 3847-3848. Added on Monday, December 9, 2019 11:17:32 PM./
+
+*** No one stands to benefit more from a noncompetitive --
+
+No one stands to benefit more from a noncompetitive society than those who have been cheated by a competitive society.
+
+/Highlight on Location 3848-3849. Added on Monday, December 9, 2019 11:17:39 PM./
+
+** Punished by Rewards
+
+*** T(HERE IS A TIME to admire the grace and persuasive power --
+
+T(HERE IS A TIME to admire the grace and persuasive power of an influential idea, and there is a time to fear its hold over us. The time to worry is when the idea is so widely shared that we no longer even notice it, when it is so deeply rooted that it feels to us like plain common sense. At the point when objections are not answered anymore because they are no longer even raised, we are not in control: we do not have the idea; it has us.
+
+/Highlight on Location 97-100. Added on Monday, December 9, 2019 11:44:24 PM./
+
+*** The core of pop behaviorism is "Do this and you'll get --
+
+The core of pop behaviorism is "Do this and you'll get that." The wisdom of this technique is very rarely held up for inspection; all that is open to question is what exactly people will receive and under what circumstances it will be promised and delivered.
+
+/Highlight on Location 104-106. Added on Monday, December 9, 2019 11:45:44 PM./
+
+*** To take what people want or need and offer it on a --
+
+To take what people want or need and offer it on a contingent basis in order to control how they act—this is where the trouble lies.
+
+/Highlight on Location 115-116. Added on Tuesday, December 10, 2019 9:32:51 AM./
 
 * Atwood, Margaret
 
@@ -413,6 +635,24 @@ A class that provides the interface to a variety of other classes is often calle
 
 /Highlight on Location 2530-2531. Added on Wednesday, November 20, 2019 8:30:44 PM./
 
+*** The :public can be read as “is derived from” or “is a --
+
+The :public can be read as “is derived from” or “is a subtype of.”
+
+/Highlight on Location 2553-2554. Added on Friday, November 22, 2019 9:54:34 AM./
+
+*** The flip side of this flexibility is that objects must be --
+
+The flip side of this flexibility is that objects must be manipulated through pointers or references
+
+/Highlight on Location 2628-2628. Added on Friday, November 22, 2019 10:00:38 AM./
+
+*** A string literal is a sequence of characters surrounded by --
+
+A string literal is a sequence of characters surrounded by double quotes.
+
+/Highlight on Location 247-247. Added on Friday, November 22, 2019 6:23:11 PM./
+
 * CA Graeme Falco CPA
 
 ** Building Wealth and Being Happy: A Practical Guide
@@ -524,6 +764,70 @@ Knowing the rules and strengths and weaknesses of different types of accounts ca
 The “saving and waiting” part of FI is long. It’s also your life, so learn to enjoy it.
 
 /Highlight on Location 1732-1733. Added on Monday, March 27, 2017 6:44:58 PM./
+
+* Cao XueQing
+
+** 世界少年文学经典文库：红楼梦
+
+*** 贾宝玉是小说的核心人物。 --
+
+贾宝玉是小说的核心人物。
+
+/Highlight on Location 32-32. Added on Tuesday, November 26, 2019 7:04:37 PM./
+
+*** 女儿是水做的骨肉，男人是泥做的骨肉，我见了女儿便清爽，见了男子便觉得浊臭逼人 --
+
+女儿是水做的骨肉，男人是泥做的骨肉，我见了女儿便清爽，见了男子便觉得浊臭逼人
+
+/Highlight on Location 34-35. Added on Tuesday, November 26, 2019 7:05:18 PM./
+
+*** 他虽取了功名，但终离了俗世，归僧归道 --
+
+他虽取了功名，但终离了俗世，归僧归道
+
+/Highlight on Location 37-38. Added on Tuesday, November 26, 2019 7:06:27 PM./
+
+*** 她喜静不喜动，喜散不喜聚。 --
+
+她喜静不喜动，喜散不喜聚。
+
+/Highlight on Location 43-43. Added on Tuesday, November 26, 2019 7:08:01 PM./
+
+*** 曹雪芹一生恰好经历了曹家盛极而衰的过程。 --
+
+曹雪芹一生恰好经历了曹家盛极而衰的过程。
+
+/Highlight on Location 57-58. Added on Tuesday, November 26, 2019 7:18:28 PM./
+
+*** 举家食粥酒常赊 --
+
+举家食粥酒常赊
+
+/Highlight on Location 59-59. Added on Tuesday, November 26, 2019 7:19:03 PM./
+
+*** 举家食粥酒常赊” --
+
+举家食粥酒常赊”
+
+/Highlight on Location 59-59. Added on Tuesday, November 26, 2019 7:19:10 PM./
+
+*** 坐于石边高谈阔论。此石听了，不觉打动凡心，也想要到人间去享一享这荣华富贵。 --
+
+坐于石边高谈阔论。此石听了，不觉打动凡心，也想要到人间去享一享这荣华富贵。 两位仙人听了笑道：“那红尘中有些乐事，但不能永远依恃，瞬息间则又乐极悲生，终究是到头一梦，还不如不去的好。
+
+/Highlight on Location 102-104. Added on Tuesday, November 26, 2019 7:26:23 PM./
+
+*** 一味崇仙好道，只爱烧丹炼汞，余者一概不在心上。 --
+
+一味崇仙好道，只爱烧丹炼汞，余者一概不在心上。
+
+/Highlight on Location 128-128. Added on Wednesday, November 27, 2019 7:37:55 PM./
+
+*** 不以功名为念，每日只以观花修竹，酌酒吟诗为乐， --
+
+不以功名为念，每日只以观花修竹，酌酒吟诗为乐，
+
+/Highlight on Location 139-139. Added on Wednesday, November 27, 2019 7:40:43 PM./
 
 * Carl Sagan
 
@@ -2130,6 +2434,162 @@ every year, the power that once ran the space program migrated into stuff they p
 "It's apparently scared the shit out of zottas who'd been set on keeping immortality to themselves. The dirty secret of upload is that it's got a serious fucking walkaway problem. When you think you might be able to live forever -- your kids might live forever -- everyone you know might live forever -- something happens."
 
 /Highlight on Location 1972-1974. Added on Wednesday, November 20, 2019 8:20:36 PM./
+
+*** It's a race: either the walkaways release immortality to --
+
+It's a race: either the walkaways release immortality to the world, or the zottas install themselves as permanent god-emperors."
+
+/Highlight on Location 1984-1984. Added on Tuesday, November 26, 2019 9:31:01 AM./
+
+*** The you that is you is actually the space of things that --
+
+The you that is you is actually the space of things that you might think in response to some stimulus."
+
+/Highlight on Location 2032-2032. Added on Thursday, November 28, 2019 10:07:28 AM./
+
+*** Give it a generation and there won't be anyone alive --
+
+Give it a generation and there won't be anyone alive cognitively capable of an existential crisis.
+
+/Highlight on Location 2036-2037. Added on Thursday, November 28, 2019 10:09:07 AM./
+
+*** everything that makes you recognizable happened in the --
+
+everything that makes you recognizable happened in the interactions of physical matter in your body, following physical rules from the universe."
+
+/Highlight on Location 2038-2039. Added on Thursday, November 28, 2019 10:10:11 AM./
+
+*** In first aid, they taught you it was more important that --
+
+In first aid, they taught you it was more important that someone did something than it was that the perfect person do the best thing.
+
+/Highlight on Location 2117-2118. Added on Thursday, November 28, 2019 6:25:30 PM./
+
+*** The only thing that will hurt that zotta is telling people --
+
+The only thing that will hurt that zotta is telling people how to do their own uploads, making it walkaway."
+
+/Highlight on Location 2123-2124. Added on Thursday, November 28, 2019 6:27:37 PM./
+
+*** Research at Walkaway U was eclectic. It produced --
+
+Research at Walkaway U was eclectic. It produced interesting things. For a decade, word around the world's top research institutes was that the most creative, wildest work happened in walkaway. It leaked into default: Self-replicating beer and semi-biological feedstock decomposers that broke down manufactured goods into slurries ready to be dumped back into printers. A lot of radio stuff, things you could only pull off through cooperative models of spectrum management, where any radio could speak in any frequency, all radios cooperating to steer clear of each other, dynamically adjusting their gain, shaping their transmissions with smart phased arrays.
+
+/Highlight on Location 2151-2156. Added on Thursday, November 28, 2019 6:33:53 PM./
+
+*** These people know things. They do things. --
+
+These people know things. They do things.
+
+/Highlight on Location 2165-2165. Added on Thursday, November 28, 2019 6:42:09 PM./
+
+*** Think of all the stuff we do because we're haunted by --
+
+Think of all the stuff we do because we're haunted by death. If we can get scanning and simming, that's the real end of scarcity -- no more reason to move off the cross-hairs, unless reanimating takes longer than the inconvenience of running away. That's powerful."
+
+/Highlight on Location 2176-2178. Added on Thursday, November 28, 2019 6:47:11 PM./
+
+*** "Once you've got your money in a big enough pile, it keeps --
+
+"Once you've got your money in a big enough pile, it keeps on piling.
+
+/Highlight on Location 2182-2183. Added on Thursday, November 28, 2019 6:49:41 PM./
+
+*** "Solved it. I'm stable -- metastable. I can self-regulate. --
+
+"Solved it. I'm stable -- metastable. I can self-regulate. Not only that, I can self-regulate without conscious effort -- without even knowing I'm doing it.
+
+/Highlight on Location 2212-2213. Added on Thursday, November 28, 2019 6:56:15 PM./
+
+*** The only stable state you can boot a sim into is one where --
+
+The only stable state you can boot a sim into is one where it doesn't have a meltdown about being a sim.
+
+/Highlight on Location 2221-2221. Added on Thursday, November 28, 2019 6:57:26 PM./
+
+*** for anyone who has even the narrowest possibility-space --
+
+for anyone who has even the narrowest possibility-space for coping with existential angst, there will never be any reason to die, ever. Fuck you, Prometheus, we have stolen fire from the fucking gods!"
+
+/Highlight on Location 2222-2224. Added on Thursday, November 28, 2019 6:58:02 PM./
+
+*** "I don't want to have more of this conversation, thank --
+
+"I don't want to have more of this conversation, thank you, good-bye."
+
+/Highlight on Location 2252-2252. Added on Thursday, November 28, 2019 7:02:20 PM./
+
+*** Every human was a hyper-dense node of intense emotional --
+
+Every human was a hyper-dense node of intense emotional and material investment. Speaking meant someone had spent thousands of hours cooing to you. Those lean muscles, the ringing tone of command -- their inputs were from all over the world, carefully administered. The merc was more than a person: like a spaceship launch, her existence implied thousands of skilled people, generations of experts, wars, treaties, scholarship and supply-chain management. Every one of them was all that.
+
+/Highlight on Location 2270-2273. Added on Thursday, November 28, 2019 7:09:27 PM./
+
+*** the pilot rocking in his cradle. He -- she saw a russet --
+
+the pilot rocking in his cradle. He -- she saw a russet beard poking around the head-brace, teeth behind the peeled-back lips -- rolled with the mecha, and something about how he did it made her think that he didn't have a lot of experience.
+
+/Highlight on Location 2433-2434. Added on Monday, December 2, 2019 8:31:38 PM./
+
+*** we don't want to hoard immortality, we want to share it. --
+
+we don't want to hoard immortality, we want to share it. To viralize it. People who know they can't die will be better people than people who worry about the end. How could you blind yourself with short-term thinking if you're planning life everlasting?"
+
+/Highlight on Location 2344-2346. Added on Tuesday, December 3, 2019 9:32:30 AM./
+
+*** "When I was your age, we didn't have abandoned zones or --
+
+"When I was your age, we didn't have abandoned zones or free hardware designs. People without a place to stay were homeless -- vagrants, beggars. If you worried about zottas, you went to protests and got your head knocked in. People still thought the answer to their problems was to get a job, and anyone who didn't get a job was broken or lazy, or if you were a bleeding heart, someone failed by society. Hardly anyone said the world would be better if you didn't have to work at all.
+
+/Highlight on Location 2388-2391. Added on Tuesday, December 3, 2019 9:55:26 AM./
+
+*** There's more people than ever who don't have any love for --
+
+There's more people than ever who don't have any love for the way things are. Every one of them would happily jettison everything they think of as normal for the chance to do something weird that might be better."
+
+/Highlight on Location 2399-2400. Added on Tuesday, December 3, 2019 9:56:21 AM./
+
+*** Watching the new B&B conjure itself had been a conversion --
+
+Watching the new B&B conjure itself had been a conversion experience, a proof of the miraculous on Earth.
+
+/Highlight on Location 2415-2416. Added on Tuesday, December 3, 2019 10:02:38 AM./
+
+*** They'd walked away from the old B&B when those assholes --
+
+They'd walked away from the old B&B when those assholes had shown up, and pulled a new one from the realm of pure information. That was their destiny. Things could be walked away from and made anew, no one would ever have to fight. Not yet -- they couldn't scan people at volume, couldn't decant them into flesh. But there would come a day that Gretyl had spoken of, when there would be no reason to fear death. That would be the end of physical coercion.
+
+/Highlight on Location 2416-2419. Added on Tuesday, December 3, 2019 10:03:03 AM./
+
+*** one reason to get into uploading is your overwhelming --
+
+one reason to get into uploading is your overwhelming existential terror at the thought of dying.
+
+/Highlight on Location 2623-2624. Added on Sunday, December 8, 2019 1:32:11 AM./
+
+*** Iceweasel tried to learn to relax. The B&B didn't need --
+
+Iceweasel tried to learn to relax. The B&B didn't need that much work to keep going. A chart making the rounds in their social-spaces showed how if everyone put in an eight hour shift every three days, they'd have double the hours they needed. One crew was ideologically committed to doing nothing, creating a "safe space" for "post-work." She understood. Sitting on her ass, especially in public, made her feel guilty. Unworkers were moral cover for people experimenting with doing SFO for a day or a month (or a year).
+
+/Highlight on Location 2625-2628. Added on Sunday, December 8, 2019 1:34:09 AM./
+
+*** the sense that they added our research to theirs, but we --
+
+the sense that they added our research to theirs, but we never saw what they made of our work.
+
+/Highlight on Location 2649-2649. Added on Tuesday, December 10, 2019 9:58:41 AM./
+
+*** In the future we'll figure out how to simulate everything, --
+
+In the future we'll figure out how to simulate everything, so we will. There will be a lot more simulated universes in the whole history of the real universe than there will be real universes. So it's more likely that you're a sim than real, whatever real means."
+
+/Highlight on Location 2656-2658. Added on Tuesday, December 10, 2019 9:59:48 AM./
+
+*** You haven't known freedom until you've experienced --
+
+You haven't known freedom until you've experienced cognitive liberty, the right to choose your state of mind."
+
+/Highlight on Location 2661-2661. Added on Tuesday, December 10, 2019 10:00:27 AM./
 
 * Culadasa John Yates;Matthew Immergut;Jeremy Graves
 
@@ -4845,6 +5305,14 @@ When your mind has developed this wisdom of anatta, sometimes you don’t even k
 
 /Bookmark on page 46. Added on Wednesday, April 26, 2017 10:22:46 AM./
 
+** Wealth of Networks - How Social Production Transforms Markets and Freedom, The
+
+*** the networked environment makes possible a new modality of --
+
+the networked environment makes possible a new modality of organizing production: radically decentralized, collaborative, and nonproprietary; based on sharing resources and outputs among widely distributed, loosely connected individuals who cooperate with each other without relying on either market signals or managerial commands. This is what I call "commons-based peer production."
+
+/Highlight on Location 1919-1921. Added on Wednesday, November 27, 2019 7:32:45 PM./
+
 ** 中华成语大词典 v1.0 - by kindlefere.com
 
 *** 一路货色、 --
@@ -6247,6 +6715,192 @@ Inequality of knowledge is always curable by instruction.
 
 /Highlight on Location 2278-2279. Added on Tuesday, October 29, 2019 10:19:51 AM./
 
+*** RULE 11, therefore, can be stated as follows: RESPECT THE --
+
+RULE 11, therefore, can be stated as follows: RESPECT THE DIFFERENCE BETWEEN KNOWLEDGE AND MERE PERSONAL OPINION, BY GIVING REASONS FOR ANY CRITICAL JUDGMENT YOU MAKE.
+
+/Highlight on Location 2311-2313. Added on Friday, December 6, 2019 4:26:03 PM./
+
+*** we would not want to be understood as claiming that there --
+
+we would not want to be understood as claiming that there is a great deal of “absolute” knowledge available to men.
+
+/Highlight on Location 2313-2314. Added on Friday, December 6, 2019 4:26:52 PM./
+
+*** Most knowledge, however, lacks that degree of --
+
+Most knowledge, however, lacks that degree of absoluteness. What we know, we know subject to correction; we know it because all, or at least the weight, of the evidence supports it, but we are not and cannot be certain that new evidence will not sometime invalidate what we now believe is true.
+
+/Highlight on Location 2315-2317. Added on Friday, December 6, 2019 4:27:05 PM./
+
+*** Knowledge, if you please, consists in those opinions that --
+
+Knowledge, if you please, consists in those opinions that can be defended, opinions for which there is evidence of one kind or another.
+
+/Highlight on Location 2318-2319. Added on Friday, December 6, 2019 4:27:27 PM./
+
+*** Opinion, in the sense in which we have been employing the --
+
+Opinion, in the sense in which we have been employing the word, is unsupported judgment.
+
+/Highlight on Location 2320-2320. Added on Friday, December 6, 2019 4:27:53 PM./
+
+*** Let us suppose, however, that you are reading a good book. --
+
+Let us suppose, however, that you are reading a good book. That means it is a relatively intelligible one. And let us suppose that you are finally able to say “I understand.” If, in addition to understanding the book, you agree thoroughly with what the author says, the work is over. The analytical reading is completely done. You have been enlightened, and convinced or persuaded.
+
+/Highlight on Location 2336-2338. Added on Friday, December 6, 2019 4:31:03 PM./
+
+*** conditions that must be satisfied if controversy is to be --
+
+conditions that must be satisfied if controversy is to be well conducted. The first is this. Since men are animals as well as rational, it is necessary to acknowledge the emotions you bring to a dispute, or those that arise in the course of
+
+/Highlight on Location 2367-2369. Added on Friday, December 6, 2019 4:37:29 PM./
+
+*** conditions that must be satisfied if controversy is to be --
+
+conditions that must be satisfied if controversy is to be well conducted. The first is this. Since men are animals as well as rational, it is necessary to acknowledge the emotions you bring to a dispute, or those that arise in the course of it.
+
+/Highlight on Location 2367-2369. Added on Friday, December 6, 2019 4:37:34 PM./
+
+*** Second, you must make your own assumptions explicit. You --
+
+Second, you must make your own assumptions explicit. You must know what your prejudices—that is, your prejudgments—are.
+
+/Highlight on Location 2371-2372. Added on Friday, December 6, 2019 4:37:45 PM./
+
+*** Third and finally, an attempt at impartiality is a good --
+
+Third and finally, an attempt at impartiality is a good antidote for the blindness that is almost inevitable in partisanship.
+
+/Highlight on Location 2375-2376. Added on Friday, December 6, 2019 4:38:20 PM./
+
+*** talking back. After he has said, “I understand but I --
+
+talking back. After he has said, “I understand but I disagree,” he can make the following remarks to the author: (1) “You are uninformed”; (2) “You are misinformed”; (3) “You are illogical—your reasoning is not cogent”; (4) “Your analysis is incomplete.”
+
+/Highlight on Location 2389-2391. Added on Friday, December 6, 2019 4:41:36 PM./
+
+*** 1. To say that an author is uninformed is to say that he --
+
+1. To say that an author is uninformed is to say that he lacks some piece of knowledge that is relevant to the problem he is trying to solve. Notice here that unless the knowledge, if possessed by the author, would have been relevant, there is no point in making this remark. To support the remark, you must be able yourself to state the knowledge that the author lacks and show how it is relevant, how it makes a difference to his conclusions.
+
+/Highlight on Location 2399-2402. Added on Friday, December 6, 2019 4:46:58 PM./
+
+*** Usually, in science and history, the lack of information --
+
+Usually, in science and history, the lack of information is discovered by later researches.
+
+/Highlight on Location 2405-2405. Added on Friday, December 6, 2019 4:47:26 PM./
+
+*** Improved techniques of observation and prolonged --
+
+Improved techniques of observation and prolonged investigation make this the way things happen for the most part. But in philosophy, it may happen otherwise. There is just as likely to be loss as gain with the passage of time.
+
+/Highlight on Location 2405-2407. Added on Friday, December 6, 2019 4:47:50 PM./
+
+*** 2. To say that an author is misinformed is to say that he --
+
+2. To say that an author is misinformed is to say that he asserts what is not the case. His error here may be owing to lack of knowledge, but the error is more than that. Whatever its cause, it consists in making assertions contrary to fact. The author is proposing as true or more probable what is in fact false or less probable. He is claiming to have knowledge he does not possess. This kind of defect should be pointed out, of course, only if it is relevant to the author’s conclusions. And to support the remark you must be able to argue the truth or greater probability of a position contrary to the author’s.
+
+/Highlight on Location 2409-2414. Added on Friday, December 6, 2019 4:49:25 PM./
+
+*** Lack of relevant knowledge makes it impossible to solve --
+
+Lack of relevant knowledge makes it impossible to solve certain problems or support certain conclusions. Erroneous suppositions, however, lead to wrong conclusions and untenable solutions.
+
+/Highlight on Location 2423-2424. Added on Friday, December 6, 2019 4:58:09 PM./
+
+*** 3. To say that an author is illogical is to say that he --
+
+3. To say that an author is illogical is to say that he has committed a fallacy in reasoning. In general, fallacies are of two sorts. There is the non sequitur, which means that what is drawn as a conclusion simply does not follow from the reasons offered. And there is the occurrence of inconsistency, which means that two things the author has tried to say are incompatible.
+
+/Highlight on Location 2426-2428. Added on Friday, December 6, 2019 4:59:22 PM./
+
+*** 4. To say that an author’s analysis is incomplete is to --
+
+4. To say that an author’s analysis is incomplete is to say that he has not solved all the problems he started with, or that he has not made as good a use of his materials as possible, that he did not see all their implications and ramifications, or that he has failed to make distinctions that are relevant to his undertaking. It is not enough to say that a book is incomplete. Anyone can say that of any book. Men are finite, and so are their works, every last one. There is no point in making this remark, therefore, unless the reader can define the inadequacy precisely, either by his own efforts as a knower or through the help of other books.
+
+/Highlight on Location 2463-2467. Added on Friday, December 6, 2019 5:08:38 PM./
+
+*** I. The First Stage of Analytical Reading: Rules for --
+
+I. The First Stage of Analytical Reading: Rules for Finding What a Book Is About 1. Classify the book according to kind and subject matter. 2. State what the whole book is about with the utmost brevity. 3. Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole. 4. Define the problem or problems the author has tried to solve. II. The Second Stage of Analytical Reading: Rules for Interpreting a Book’s Contents 5. Come to terms with the author by interpreting his key words. 6. Grasp the author’s leading propositions by dealing with his most important sentences. 7. Know the author’s arguments, by finding them in, or constructing them out of, sequences of sentences. 8. Determine which of his problems the author has solved, and which he has not; and of the latter, decide which the author knew he had failed to solve. III. The Third Stage of Analytical Reading: Rules for Criticizing a Book as a Communication of Knowledge A. General Maxims of Intellectual Etiquette 9. Do not begin criticism until you have completed your outline and your interpretation of the book. (Do not say you agree, disagree, or suspend judgment, until you can say “I understand.”) 10. Do not disagree disputatiously or contentiously. 11. Demonstrate that you recognize the difference between knowledge and mere personal opinion by presenting good reasons for any critical judgment you make. B. Special Criteria for Points of Criticism 12. Show wherein the author is uninformed. 13. Show wherein the author is misinformed. 14. Show wherein the author is illogical. 15. Show wherein the author’s analysis or account is incomplete.
+
+/Highlight on Location 2492-2511. Added on Friday, December 6, 2019 7:21:46 PM./
+
+*** No higher commendation can be given any work of the human --
+
+No higher commendation can be given any work of the human mind than to praise it for the measure of truth it has achieved; by the same token, to criticize it adversely for its failure in this respect is to treat it with the seriousness that a serious work deserves. Yet, strangely enough, in recent
+
+/Highlight on Location 2520-2522. Added on Friday, December 6, 2019 7:23:46 PM./
+
+*** No higher commendation can be given any work of the human --
+
+No higher commendation can be given any work of the human mind than to praise it for the measure of truth it has achieved; by the same token, to criticize it adversely for its failure in this respect is to treat it with the seriousness that a serious work deserves. Yet, strangely enough, in recent years, for the first time in Western history, there is a dwindling concern with this criterion of excellence.
+
+/Highlight on Location 2520-2523. Added on Friday, December 6, 2019 7:23:57 PM./
+
+*** Many readers, and most particularly those who review --
+
+Many readers, and most particularly those who review current publications, employ other standards for judging, and praising or condemning, the books they read—their novelty, their sensationalism, their seductiveness, their force, and even their power to bemuse or befuddle the mind, but not their truth, their clarity, or their power to enlighten.
+
+/Highlight on Location 2524-2526. Added on Friday, December 6, 2019 7:24:29 PM./
+
+*** They have, perhaps, been brought to this pass by the fact --
+
+They have, perhaps, been brought to this pass by the fact that so much of current writing outside the sphere of the exact sciences manifests so little concern with truth.
+
+/Highlight on Location 2526-2528. Added on Friday, December 6, 2019 7:26:12 PM./
+
+*** if you are reading for enlightenment, there is really no --
+
+if you are reading for enlightenment, there is really no end to the inquiry that, at every stage of learning, is renewed by the question, What of it?
+
+/Highlight on Location 2533-2534. Added on Friday, December 6, 2019 7:27:21 PM./
+
+*** Any aid to reading that lies outside the book being read --
+
+Any aid to reading that lies outside the book being read we may speak of as extrinsic. By “intrinsic reading” we mean reading a book in itself, quite apart from all other books. By “extrinsic reading” we mean reading a book in the light of other books.
+
+/Highlight on Location 2555-2556. Added on Friday, December 6, 2019 7:30:56 PM./
+
+*** extrinsic aids to reading fall into four categories. In --
+
+extrinsic aids to reading fall into four categories. In the order in which we will discuss them in this chapter, they are: first, relevant experiences; second, other books; third, commentaries and abstracts; fourth, reference books.
+
+/Highlight on Location 2570-2572. Added on Friday, December 6, 2019 7:33:06 PM./
+
+*** Common experience is most relevant to the reading of --
+
+Common experience is most relevant to the reading of fiction, on the one hand, and to the reading of philosophy, on the other.
+
+/Highlight on Location 2592-2593. Added on Friday, December 6, 2019 7:36:18 PM./
+
+*** Special experience is mainly relevant to the reading of --
+
+Special experience is mainly relevant to the reading of scientific works.
+
+/Highlight on Location 2597-2598. Added on Friday, December 6, 2019 7:37:00 PM./
+
+*** Both common and special experience are relevant to the --
+
+Both common and special experience are relevant to the reading of history books.
+
+/Highlight on Location 2601-2601. Added on Friday, December 6, 2019 7:38:15 PM./
+
+*** ask yourself whether you can give a concrete example of a --
+
+ask yourself whether you can give a concrete example of a point that you feel you understand.
+
+/Highlight on Location 2607-2608. Added on Friday, December 6, 2019 7:43:16 PM./
+
+*** First of all, the backbone or essence of a story is its --
+
+First of all, the backbone or essence of a story is its plot, not its positions on issues. Second, even the most talkative characters seldom take clear positions on an issue—they tend to talk, in the story, about other matters, mainly emotional relations.
+
+/Highlight on Location 4801-4803. Added on Saturday, December 7, 2019 1:13:11 PM./
+
 * Vicki Robin
 
 ** Your Money or Your Life
@@ -6575,6 +7229,24 @@ life according to Buddhism is nothing but suffering and pain.
 
 /Highlight on Location 428-428. Added on Thursday, October 31, 2019 10:14:09 AM./
 
+*** ‘whatever is impermanent is dukkha’ --
+
+‘whatever is impermanent is dukkha’
+
+/Highlight on Location 461-461. Added on Monday, December 9, 2019 11:48:31 PM./
+
+*** if you have no attachment to the person, if you are --
+
+if you have no attachment to the person, if you are completely detached, that is freedom, liberation
+
+/Highlight on Location 469-470. Added on Monday, December 9, 2019 11:49:31 PM./
+
+*** The conception of dukkha may be viewed from three aspects: --
+
+The conception of dukkha may be viewed from three aspects: (1) dukkha as ordinary suffering (dukkha-dukkha), (2) dukkha as produced by change (vipariṇāma-dukkha) and (3) dukkha as conditioned states (saṃkhāra-dukkha).
+
+/Highlight on Location 481-483. Added on Monday, December 9, 2019 11:51:57 PM./
+
 *** consequently the country will be peaceful and --
 
 consequently the country will be peaceful and
@@ -6592,6 +7264,40 @@ You should forget yourself completely, and lose yourself in what you do.
 All great work—artistic, poetic, intellectual or spiritual—is produced at those moments when its creators are lost completely in their actions, when they forget themselves altogether, and are free from self-consciousness.
 
 /#1374-1375的标注. 添加于 2019年3月12日星期二 上午9:45:41./
+
+* Weir, Andy
+
+** Martian: A Novel, The
+
+*** Everyone on the mission had two specialties. I’m a --
+
+Everyone on the mission had two specialties. I’m a botanist and mechanical engineer; basically, the mission’s fix-it man who played with plants. The mechanical engineering might save my life if something breaks.
+
+/Highlight on Location 194-196. Added on Tuesday, December 10, 2019 7:10:01 PM./
+
+*** Of course, I don’t have any plan for surviving four years --
+
+Of course, I don’t have any plan for surviving four years on one year of food. But one thing at a time here. For now, I’m well fed and have a purpose: Fix the damn radio.
+
+/Highlight on Location 202-203. Added on Tuesday, December 10, 2019 7:13:22 PM./
+
+*** People have been using human waste as fertilizer for --
+
+People have been using human waste as fertilizer for centuries. It’s even got a pleasant name: “night soil.” Normally, it’s not an ideal way to grow crops, because it spreads disease: Human waste has pathogens in it that, you guessed it, infect humans. But it’s not a problem for me. The only pathogens in this waste are the ones I already have.
+
+/Highlight on Location 247-249. Added on Wednesday, December 11, 2019 12:42:16 AM./
+
+*** Get to work, bacteria. I’m counting on you. --
+
+Get to work, bacteria. I’m counting on you.
+
+/Highlight on Location 285-285. Added on Wednesday, December 11, 2019 12:47:16 AM./
+
+*** They say no plan survives first contact with --
+
+They say no plan survives first contact with implementation.
+
+/Highlight on Location 649-650. Added on Wednesday, December 11, 2019 10:00:53 AM./
 
 * 万维钢
 
@@ -6973,6 +7679,62 @@ gghhh
 
 * 東野圭吾
 
+** 嫌疑犯Ｘ的獻身
+
+*** 學長也對理工科有自卑情結嗎？ --
+
+學長也對理工科有自卑情結嗎？
+
+/Highlight on Location 632-632. Added on Tuesday, December 3, 2019 7:05:37 PM./
+
+*** 不怕一萬只怕萬一 --
+
+不怕一萬只怕萬一
+
+/Highlight on Location 637-637. Added on Tuesday, December 3, 2019 7:06:37 PM./
+
+*** 那樣的做法如果靠人工作業來調查，規模太過龐大，所以他們才會使用電腦吧；不過也因此無法完美判斷那個證明是否正確。如果連 --
+
+那樣的做法如果靠人工作業來調查，規模太過龐大，所以他們才會使用電腦吧；不過也因此無法完美判斷那個證明是否正確。如果連確認都得使用電腦，那就不是真正的數學
+
+/Highlight on Location 870-871. Added on Sunday, December 8, 2019 9:35:21 PM./
+
+*** 他始終抱著一個信念：好的定理必然有美妙自然又簡單的證明 --
+
+他始終抱著一個信念：好的定理必然有美妙自然又簡單的證明
+
+/Highlight on Location 873-874. Added on Sunday, December 8, 2019 9:36:51 PM./
+
+*** 雖然兩人都有同樣的野心：企圖以理論建構世上的一切，但採取的方式卻正好相反。石神試圖藉由數式的堆砌達成此一目標，而湯川 --
+
+雖然兩人都有同樣的野心：企圖以理論建構世上的一切，但採取的方式卻正好相反。石神試圖藉由數式的堆砌達成此一目標，而湯川卻先從觀察著手，接著發現問題，加以解決說明。石神喜歡模擬推演，湯川則注重實驗
+
+/Highlight on Location 888-890. Added on Sunday, December 8, 2019 9:41:10 PM./
+
+*** 他在那間大學根本無法從事任何研究。教授們只顧著爭權奪利和明哲保身，既沒有栽培優秀學者的意識，也沒有完成劃時代研究的野 --
+
+他在那間大學根本無法從事任何研究。教授們只顧著爭權奪利和明哲保身，既沒有栽培優秀學者的意識，也沒有完成劃時代研究的野心。
+
+/Highlight on Location 928-929. Added on Sunday, December 8, 2019 9:51:51 PM./
+
+*** 數學很像尋寶，他想。必須先看清該從哪一點進攻，思索通往解答的挖掘路徑，然後按照計劃逐步擬定數式，得到線索。如果甚麼都 --
+
+數學很像尋寶，他想。必須先看清該從哪一點進攻，思索通往解答的挖掘路徑，然後按照計劃逐步擬定數式，得到線索。如果甚麼都沒得到，就得更改路線。只要這樣埋頭苦幹，有耐心、但卻大膽地走下去，最後就能找到從未被人發掘過的寶藏──也就是正確解答。 　　如果用這個比喻，那麼檢證別人的解法，就好像只是沿著別人挖掘的路徑前進，感覺上似乎很簡單。但實際上並非如此。如果沿著錯誤路線前進，找到假寶藏做出某種結論，有時要證明那個寶藏是假的，會比尋找真寶藏更困難。
+
+/Highlight on Location 954-959. Added on Sunday, December 8, 2019 10:10:29 PM./
+
+*** 你已經不想回大學做研究了嗎？」 　　石神搖搖頭。 　　「在大學能做的事，我一個人也能做。 --
+
+你已經不想回大學做研究了嗎？」 　　石神搖搖頭。 　　「在大學能做的事，我一個人也能做。
+
+/Highlight on Location 1006-1007. Added on Monday, December 9, 2019 12:25:30 AM./
+
+*** 靖子在陪酒時代就已領悟到，在外面還能關心別人的男人通常有個幸福家庭。 　　 --
+
+靖子在陪酒時代就已領悟到，在外面還能關心別人的男人通常有個幸福家庭。 　　
+
+/Highlight on Location 1106-1107. Added on Monday, December 9, 2019 7:02:20 PM./
+
 ** 白夜行
 
 *** 重蹈覆轍啊 --
@@ -7178,6 +7940,498 @@ gghhh
 之前在信息沙漠中挣扎，思想无从发育
 
 /Highlight on Location 81-81. Added on Wednesday, November 20, 2019 8:57:47 PM./
+
+*** 我们生活的目标，简而言之我们的人生观，是谁提供的 --
+
+我们生活的目标，简而言之我们的人生观，是谁提供的
+
+/Highlight on Location 178-178. Added on Thursday, November 21, 2019 9:25:52 AM./
+
+*** 我们生活的目标，简而言之我们的人生观，是谁提供的？ --
+
+我们生活的目标，简而言之我们的人生观，是谁提供的？
+
+/Highlight on Location 178-178. Added on Thursday, November 21, 2019 9:25:59 AM./
+
+*** 政治家都曾经是人生观的权威制定者 --
+
+政治家都曾经是人生观的权威制定者
+
+/Highlight on Location 179-179. Added on Thursday, November 21, 2019 9:26:19 AM./
+
+*** 国家对于国民已经不是有趣的存在 --
+
+国家对于国民已经不是有趣的存在
+
+/Highlight on Location 186-186. Added on Thursday, November 21, 2019 9:27:30 AM./
+
+*** 人头马一开，好事自然来 --
+
+人头马一开，好事自然来
+
+/Highlight on Location 198-199. Added on Thursday, November 21, 2019 9:32:23 AM./
+
+*** 如果把好生活作为人生观来鼓吹的话，商人必将成为这话语的最终垄断者 --
+
+如果把好生活作为人生观来鼓吹的话，商人必将成为这话语的最终垄断者
+
+/Highlight on Location 199-199. Added on Thursday, November 21, 2019 9:32:42 AM./
+
+*** 人类各个民族曾经提出过的几乎所有的主导人生观，都是建立在人类历史的这一基调之上的，都折射出此种生存状况的基本氛围：生 --
+
+人类各个民族曾经提出过的几乎所有的主导人生观，都是建立在人类历史的这一基调之上的，都折射出此种生存状况的基本氛围：生存是严酷而艰难的。
+
+/Highlight on Location 207-208. Added on Thursday, November 21, 2019 9:35:02 AM./
+
+*** 君子居无求安，食无求饱 --
+
+君子居无求安，食无求饱
+
+/Highlight on Location 209-209. Added on Thursday, November 21, 2019 9:35:25 AM./
+
+*** 孟子说：“生于忧患，死于安乐。 --
+
+孟子说：“生于忧患，死于安乐。
+
+/Highlight on Location 209-209. Added on Thursday, November 21, 2019 9:35:57 AM./
+
+*** 人有享不了的福，没有受不了的苦 --
+
+人有享不了的福，没有受不了的苦
+
+/Highlight on Location 211-211. Added on Thursday, November 21, 2019 9:36:54 AM./
+
+*** 人生有两种悲剧：一种是没有得到你心里想要的东西；另一种是得到了。 --
+
+人生有两种悲剧：一种是没有得到你心里想要的东西；另一种是得到了。
+
+/Highlight on Location 220-220. Added on Thursday, November 21, 2019 9:39:34 AM./
+
+*** 我们以往建立在温饱未解决之上的价值观和人生观，不是将被掀桌子、卷地毯、全军覆没吗 --
+
+我们以往建立在温饱未解决之上的价值观和人生观，不是将被掀桌子、卷地毯、全军覆没吗
+
+/Highlight on Location 224-225. Added on Thursday, November 21, 2019 9:40:30 AM./
+
+*** 怎样填补生活意义的真空，成了一大问题 --
+
+怎样填补生活意义的真空，成了一大问题
+
+/Highlight on Location 227-227. Added on Thursday, November 21, 2019 9:40:58 AM./
+
+*** 如果某一种行为不利于生存和繁衍，该行为将随着其载体被淘汰而消亡 --
+
+如果某一种行为不利于生存和繁衍，该行为将随着其载体被淘汰而消亡
+
+/Highlight on Location 247-248. Added on Thursday, November 21, 2019 9:46:57 AM./
+
+*** 自然选择没有使人快乐的意图，而我们基因的远期利益常常是要由一些不愉快的经历来保护的。 --
+
+自然选择没有使人快乐的意图，而我们基因的远期利益常常是要由一些不愉快的经历来保护的。
+
+/Highlight on Location 250-251. Added on Thursday, November 21, 2019 9:48:14 AM./
+
+*** 将电极放在三只老鼠的下脑丘，老鼠面前放置三个杠杆，压第一个杠杆释放食物，压第二个释放饮料，压第三个释放迅速而短暂的快 --
+
+将电极放在三只老鼠的下脑丘，老鼠面前放置三个杠杆，压第一个杠杆释放食物，压第二个释放饮料，压第三个释放迅速而短暂的快感，老鼠很快分辨出三个杠杆并只选择第三个，直到饿死。（
+
+/Highlight on Location 268-270. Added on Thursday, November 21, 2019 9:57:36 AM./
+
+*** 一味沉溺对快乐的追求将带来灭顶之灾 --
+
+一味沉溺对快乐的追求将带来灭顶之灾
+
+/Highlight on Location 270-271. Added on Thursday, November 21, 2019 9:58:36 AM./
+
+*** 快乐必须足够短暂，以使我们可以将注意力集中到下一项任务 --
+
+快乐必须足够短暂，以使我们可以将注意力集中到下一项任务
+
+/Highlight on Location 277-278. Added on Thursday, November 21, 2019 10:01:41 AM./
+
+*** 快乐必须足够短暂，以使我们可以将注意力集中到下一项任务上。 --
+
+快乐必须足够短暂，以使我们可以将注意力集中到下一项任务上。
+
+/Highlight on Location 277-278. Added on Thursday, November 21, 2019 10:01:46 AM./
+
+*** 多的快乐只会使我们无法专注于基本的生存 --
+
+多的快乐只会使我们无法专注于基本的生存
+
+/Highlight on Location 279-279. Added on Thursday, November 21, 2019 10:02:07 AM./
+
+*** 舒适，牛逼，刺激 --
+
+舒适，牛逼，刺激
+
+/Highlight on Location 315-315. Added on Thursday, November 21, 2019 10:14:15 AM./
+
+*** 三种需求 --
+
+三种需求
+
+/Highlight on Location 308-309. Added on Thursday, November 21, 2019 10:14:33 AM./
+
+*** 望文生义 --
+
+望文生义
+
+/Highlight on Location 318-318. Added on Thursday, November 21, 2019 10:15:44 AM./
+
+*** 我以为，讲到人的行为的基本动机，未达生物学意义上的本能，就是未达根源 --
+
+我以为，讲到人的行为的基本动机，未达生物学意义上的本能，就是未达根源
+
+/Highlight on Location 321-322. Added on Thursday, November 21, 2019 10:18:29 AM./
+
+*** 追求牛逼是不轻松的，英雄的行为更是远离舒适的 --
+
+追求牛逼是不轻松的，英雄的行为更是远离舒适的
+
+/Highlight on Location 329-329. Added on Thursday, November 21, 2019 10:24:04 AM./
+
+*** 我们以不变的身体遭遇着剧变的环境 --
+
+我们以不变的身体遭遇着剧变的环境
+
+/Highlight on Location 347-348. Added on Thursday, November 21, 2019 10:28:52 AM./
+
+*** 不能承受之轻是什么？就是刺激太少了 --
+
+不能承受之轻是什么？就是刺激太少了
+
+/Highlight on Location 349-349. Added on Thursday, November 21, 2019 10:29:30 AM./
+
+*** 人为地寻找刺激是当代社会中最重要的生活内容。如何寻找刺激，寻找什么样的刺激，是我们面临的重要选择。 --
+
+人为地寻找刺激是当代社会中最重要的生活内容。如何寻找刺激，寻找什么样的刺激，是我们面临的重要选择。
+
+/Highlight on Location 351-352. Added on Thursday, November 21, 2019 10:30:32 AM./
+
+*** 需求是本能的，生理的。意义是文化的，是一种手段。意义不是天然的，是人造的。 --
+
+需求是本能的，生理的。意义是文化的，是一种手段。意义不是天然的，是人造的。
+
+/Highlight on Location 358-359. Added on Thursday, November 21, 2019 10:33:37 AM./
+
+*** 但是因为全人类曾经面临着一个共同难题——生存的挣扎，已经得到解决，适用于一切人的生活意义不复存在了。每个人必须为自己 --
+
+但是因为全人类曾经面临着一个共同难题——生存的挣扎，已经得到解决，适用于一切人的生活意义不复存在了。每个人必须为自己寻找意义
+
+/Highlight on Location 360-361. Added on Thursday, November 21, 2019 10:34:08 AM./
+
+*** 意义不能被赋予，而必须被发现 --
+
+意义不能被赋予，而必须被发现
+
+/Highlight on Location 362-362. Added on Thursday, November 21, 2019 10:34:31 AM./
+
+*** 我们的身体同祖先相差不多，我们的生活环境同祖先相比却截然不同，针对需求而言，其中最本质的差别是我们即将彻底解决温饱问 --
+
+我们的身体同祖先相差不多，我们的生活环境同祖先相比却截然不同，针对需求而言，其中最本质的差别是我们即将彻底解决温饱问题。
+
+/Highlight on Location 368-369. Added on Thursday, November 21, 2019 10:55:57 PM./
+
+*** 物质资源不再是炫耀的恰当手段了 --
+
+物质资源不再是炫耀的恰当手段了
+
+/Highlight on Location 372-373. Added on Thursday, November 21, 2019 10:56:45 PM./
+
+*** 我们牛逼的愿望大大高于我们的身体条件 --
+
+我们牛逼的愿望大大高于我们的身体条件
+
+/Highlight on Location 374-374. Added on Thursday, November 21, 2019 10:57:13 PM./
+
+*** 这一社会的精神特质宣告：假如你心情低落，那就吃 --
+
+这一社会的精神特质宣告：假如你心情低落，那就吃
+
+/Highlight on Location 382-382. Added on Thursday, November 21, 2019 10:58:48 PM./
+
+*** 发生了一个悖论：因为温饱的解决，发生了空虚和无聊的问题；我们却在解决温饱上面加大砝码，来应对空虚和无聊的问题 --
+
+发生了一个悖论：因为温饱的解决，发生了空虚和无聊的问题；我们却在解决温饱上面加大砝码，来应对空虚和无聊的问题
+
+/Highlight on Location 384-385. Added on Thursday, November 21, 2019 10:59:55 PM./
+
+*** 思想家有两种：一种是宣扬一个大思想，另一种有无穷的不同凡响的大小思想 --
+
+思想家有两种：一种是宣扬一个大思想，另一种有无穷的不同凡响的大小思想
+
+/Highlight on Location 401-402. Added on Friday, November 22, 2019 9:38:59 AM./
+
+*** 山崎正和 1984/1988：柔性个人主义 --
+
+山崎正和 1984/1988：柔性个人主义
+
+/Highlight on Location 413-413. Added on Friday, November 22, 2019 9:42:33 AM./
+
+*** 文明国家的活力，不仅来自年轻人生物意义上的朝气，也来自高龄群体因社会经历而具有的多样性。人们在相互间的游戏中发现了生 --
+
+文明国家的活力，不仅来自年轻人生物意义上的朝气，也来自高龄群体因社会经历而具有的多样性。人们在相互间的游戏中发现了生活的意义，在与具体人的具体游戏之前是不知道的。进入二十世纪后，趣味的领导阶层销声匿迹，大众只好左顾右盼，相互模仿。炫耀性消费的前提是，社会在价值观上是同质的。银制的餐具不是工具，是道具，是反工具。 威廉斯，乔治 1962／2001：《适应与自然选择》，上海科学技术出版社 现代进化论思想的经典之作。
+
+/Highlight on Location 414-419. Added on Friday, November 22, 2019 9:45:16 AM./
+
+*** 文明国家的活力，不仅来自年轻人生物意义上的朝气，也来自高龄群体因社会经历而具有的多样性。人们在相互间的游戏中发现了生 --
+
+文明国家的活力，不仅来自年轻人生物意义上的朝气，也来自高龄群体因社会经历而具有的多样性。人们在相互间的游戏中发现了生活的意义，在与具体人的具体游戏之前是不知道的
+
+/Highlight on Location 414-416. Added on Friday, November 22, 2019 9:45:32 AM./
+
+*** 文明靠创造不同于暴力和劳作的刺激行为，及从事和享受这些活动的技巧组成。最刺激的良性行为要求最高的技巧，不幸最渴望强刺 --
+
+文明靠创造不同于暴力和劳作的刺激行为，及从事和享受这些活动的技巧组成。最刺激的良性行为要求最高的技巧，不幸最渴望强刺激的人大多不能和不愿学习这些技巧
+
+/Highlight on Location 430-432. Added on Friday, November 22, 2019 9:50:21 AM./
+
+*** 个人舒适、社会舒适、刺激。经济学家只注重第一种。 --
+
+个人舒适、社会舒适、刺激。经济学家只注重第一种。
+
+/Highlight on Location 434-434. Added on Friday, November 22, 2019 9:51:38 AM./
+
+*** 消费者的需求和满足的来源可分为三个范畴：个人舒适、社会舒适、刺激。经济学家只注重第一种。原因或许是它简单。社会舒适和 --
+
+消费者的需求和满足的来源可分为三个范畴：个人舒适、社会舒适、刺激。经济学家只注重第一种。原因或许是它简单。社会舒适和刺激则可以多样的方式和目标来满足。兴奋源上的差别是民族、阶级、教育因素决定的，不是先天而是习惯、接触、训练导致的。教育不能改变人的本能，但可以给并未减少的本能提供新的渠道。社会应该资助人们接触艺术，接触艺术教育。
+
+/Highlight on Location 434-437. Added on Friday, November 22, 2019 9:51:50 AM./
+
+*** 广义的经济民主应该既包括生产权，也包括消费权 --
+
+广义的经济民主应该既包括生产权，也包括消费权
+
+/Highlight on Location 496-496. Added on Monday, November 25, 2019 9:28:11 AM./
+
+*** 大异其趣。 --
+
+大异其趣。
+
+/Highlight on Location 502-502. Added on Monday, November 25, 2019 9:56:48 AM./
+
+*** 工业拥有了复制的能力 --
+
+工业拥有了复制的能力
+
+/Highlight on Location 503-503. Added on Monday, November 25, 2019 9:58:56 AM./
+
+*** 销售比生产更要紧 --
+
+销售比生产更要紧
+
+/Highlight on Location 506-506. Added on Monday, November 25, 2019 10:00:16 AM./
+
+*** 从消极地满足需求转向积极地创造需求 --
+
+从消极地满足需求转向积极地创造需求
+
+/Highlight on Location 508-508. Added on Monday, November 25, 2019 10:02:01 AM./
+
+*** 需求带动供应”，“顾客是上帝”。但其实这是标准的意识形 --
+
+需求带动供应”，“顾客是上帝”。但其实这是标准的意识形
+
+/Highlight on Location 512-513. Added on Monday, November 25, 2019 10:04:02 AM./
+
+*** 需求带动供应”，“顾客是上帝”。但其实这是标准的意识形态 --
+
+需求带动供应”，“顾客是上帝”。但其实这是标准的意识形态
+
+/Highlight on Location 512-513. Added on Monday, November 25, 2019 10:04:07 AM./
+
+*** “需求带动供应”，“顾客是上帝”。但其实这是标准的意识形态 --
+
+“需求带动供应”，“顾客是上帝”。但其实这是标准的意识形态
+
+/Highlight on Location 512-513. Added on Monday, November 25, 2019 10:04:14 AM./
+
+*** 发明已经变成了需要之母 --
+
+发明已经变成了需要之母
+
+/Highlight on Location 537-537. Added on Monday, November 25, 2019 10:10:43 AM./
+
+*** 19世纪驯化出工人，20世纪驯化出消费者 --
+
+19世纪驯化出工人，20世纪驯化出消费者
+
+/Highlight on Location 546-547. Added on Monday, November 25, 2019 10:14:34 AM./
+
+*** 现代消费的十大特征 --
+
+现代消费的十大特征
+
+/Highlight on Location 556-556. Added on Monday, November 25, 2019 6:59:17 PM./
+
+*** 第二，市场化继续拓展，很多曾经由国家提供的服务在不同程度上转移给市场。比如住房和教育 --
+
+第二，市场化继续拓展，很多曾经由国家提供的服务在不同程度上转移给市场。比如住房和教育
+
+/Highlight on Location 557-558. Added on Monday, November 25, 2019 7:01:03 PM./
+
+*** 第三，购物场所增加，购物方式多样。 --
+
+第三，购物场所增加，购物方式多样。
+
+/Highlight on Location 558-558. Added on Monday, November 25, 2019 7:01:18 PM./
+
+*** 第四，越来越重视设计，重视商品的外观、款式和包装 --
+
+第四，越来越重视设计，重视商品的外观、款式和包装
+
+/Highlight on Location 561-561. Added on Monday, November 25, 2019 7:01:25 PM./
+
+*** 第六，借贷消费（分期付款，信用卡） --
+
+第六，借贷消费（分期付款，信用卡）
+
+/Highlight on Location 564-565. Added on Monday, November 25, 2019 7:01:45 PM./
+
+*** 第七，购物成为仅次于电视的休闲方式。 --
+
+第七，购物成为仅次于电视的休闲方式。
+
+/Highlight on Location 565-565. Added on Monday, November 25, 2019 7:02:02 PM./
+
+*** 第八，观看体育比赛和旅游成为重要的消费手段 --
+
+第八，观看体育比赛和旅游成为重要的消费手段
+
+/Highlight on Location 566-566. Added on Monday, November 25, 2019 7:02:37 PM./
+
+*** 第九，用商品塑造自我 --
+
+第九，用商品塑造自我
+
+/Highlight on Location 567-567. Added on Monday, November 25, 2019 7:02:42 PM./
+
+*** 第十，出现了越来越多的与消费关联的“上瘾症”，比如吃喝癖、购物癖、收藏癖，等等 --
+
+第十，出现了越来越多的与消费关联的“上瘾症”，比如吃喝癖、购物癖、收藏癖，等等
+
+/Highlight on Location 567-568. Added on Monday, November 25, 2019 7:02:58 PM./
+
+*** 对消费社会的产生，大抵上说有两种解释。一种是认为消费是厂商造就的。另一种认为，消费者的积极参与是消费产生和继续的基础 --
+
+对消费社会的产生，大抵上说有两种解释。一种是认为消费是厂商造就的。另一种认为，消费者的积极参与是消费产生和继续的基础，其后面的动机是炫耀自身、证明或掩盖地位、显示身份
+
+/Highlight on Location 569-571. Added on Monday, November 25, 2019 7:04:35 PM./
+
+*** 炫耀的欲望毫无疑问是有其生物学基础的。 --
+
+炫耀的欲望毫无疑问是有其生物学基础的。
+
+/Highlight on Location 583-583. Added on Monday, November 25, 2019 7:07:08 PM./
+
+*** 性特征的炫耀是动物的一种本能 --
+
+性特征的炫耀是动物的一种本能
+
+/Highlight on Location 581-581. Added on Monday, November 25, 2019 7:07:22 PM./
+
+*** 从哺乳动物到人类，都有一种模仿高地位的同类的倾向 --
+
+从哺乳动物到人类，都有一种模仿高地位的同类的倾向
+
+/Highlight on Location 601-601. Added on Monday, November 25, 2019 7:12:16 PM./
+
+*** 之所以能说这是骗局，是因为满足民众某项需求的方式本来很多，而商人认准了其中最能帮助自己赚钱的那种方式，精心策划了种种 --
+
+之所以能说这是骗局，是因为满足民众某项需求的方式本来很多，而商人认准了其中最能帮助自己赚钱的那种方式，精心策划了种种策略去诱惑、干扰和破坏顾客的选择
+
+/Highlight on Location 636-637. Added on Monday, December 9, 2019 7:26:46 PM./
+
+*** 商人们的目标就是赚钱。对他们来说，可赚钱无意义的事情做，不赚钱有意义的事情不做 --
+
+商人们的目标就是赚钱。对他们来说，可赚钱无意义的事情做，不赚钱有意义的事情不做
+
+/Highlight on Location 642-643. Added on Monday, December 9, 2019 11:54:24 PM./
+
+*** 他们竭力影响民众用“消费”取代“生活”。最终，很多实际上不需要的东西 --
+
+他们竭力影响民众用“消费”取代“生活”。最终，很多实际上不需要的东西
+
+/Highlight on Location 643-644. Added on Monday, December 9, 2019 11:55:05 PM./
+
+*** 一方面，商人们的目标就是赚钱。对他们来说，可赚钱无意义的事情做，不赚钱有意义的事情不做。另一方面，他们竭力影响民众用 --
+
+一方面，商人们的目标就是赚钱。对他们来说，可赚钱无意义的事情做，不赚钱有意义的事情不做。另一方面，他们竭力影响民众用“消费”取代“生活”。最终，很多实际上不需要的东西充塞进生活，很多需要的东西无人供应、逐渐消失，乃至人们放弃或遗忘了最初的渴望
+
+/Highlight on Location 642-645. Added on Monday, December 9, 2019 11:55:29 PM./
+
+*** 这种生产—消费的模式造就出双重人格。一方面，它要人们遵从资本主义的工作伦理，拼命地工作，以最小的投入换取最大的收益。 --
+
+这种生产—消费的模式造就出双重人格。一方面，它要人们遵从资本主义的工作伦理，拼命地工作，以最小的投入换取最大的收益。另一方面，它要人们疯狂地消费，随着商品频繁地更新换代，最终每个人都在以最大的付出换取最小的收获。前者是一种异化，后者是另一种异化。二者合在一起是第三种、最为荒诞的异化
+
+/Highlight on Location 645-648. Added on Monday, December 9, 2019 11:56:43 PM./
+
+*** 业是追求社会地位的虚荣心带来的副产品 --
+
+业是追求社会地位的虚荣心带来的副产品
+
+/Highlight on Location 668-669. Added on Tuesday, December 10, 2019 12:01:31 AM./
+
+*** 我们也许低估了灵长目动物对社会地位的渴 --
+
+我们也许低估了灵长目动物对社会地位的渴
+
+/Highlight on Location 669-670. Added on Tuesday, December 10, 2019 12:01:39 AM./
+
+*** 我们也许低估了灵长目动物对社会地位的渴求 --
+
+我们也许低估了灵长目动物对社会地位的渴求
+
+/Highlight on Location 669-670. Added on Tuesday, December 10, 2019 12:01:43 AM./
+
+*** 工作的目的是为了其结 --
+
+工作的目的是为了其结
+
+/Highlight on Location 3053-3053. Added on Tuesday, December 10, 2019 12:50:32 AM./
+
+*** 工作的目的是为了其结果 --
+
+工作的目的是为了其结果
+
+/Highlight on Location 3053-3053. Added on Tuesday, December 10, 2019 12:50:39 AM./
+
+*** 游戏不是为了结果，而是为着过程中的愉快 --
+
+游戏不是为了结果，而是为着过程中的愉快
+
+/Highlight on Location 3054-3055. Added on Tuesday, December 10, 2019 12:50:58 AM./
+
+*** 其次，多数人的工作在不同程度上带有被迫的性质，或是为他人所迫，或是为自身的生存所迫。而游戏不包含类似的被迫，它是自愿 --
+
+其次，多数人的工作在不同程度上带有被迫的性质，或是为他人所迫，或是为自身的生存所迫。而游戏不包含类似的被迫，它是自愿的，因而常常是愉快的。
+
+/Highlight on Location 3055-3056. Added on Tuesday, December 10, 2019 12:51:24 AM./
+
+*** 越是地位高的人的工作，游戏性越强；越是地位低的人的工作，越是同游戏呈现尖锐的对立 --
+
+越是地位高的人的工作，游戏性越强；越是地位低的人的工作，越是同游戏呈现尖锐的对立
+
+/Highlight on Location 3066-3067. Added on Tuesday, December 10, 2019 9:24:55 AM./
+
+*** 工作者从中得到的乐趣越多，他所得到的薪水也越 --
+
+工作者从中得到的乐趣越多，他所得到的薪水也越
+
+/Highlight on Location 3068-3068. Added on Tuesday, December 10, 2019 9:25:45 AM./
+
+*** 工作者从中得到的乐趣越多，他所得到的薪水也越高。 --
+
+工作者从中得到的乐趣越多，他所得到的薪水也越高。
+
+/Highlight on Location 3068-3068. Added on Tuesday, December 10, 2019 9:25:50 AM./
+
+*** 社会阶层的划分除了收入、社会声望等因素外，还有一点值得参考，就是工作中的趣味性 --
+
+社会阶层的划分除了收入、社会声望等因素外，还有一点值得参考，就是工作中的趣味性
+
+/Highlight on Location 3069-3070. Added on Tuesday, December 10, 2019 9:26:21 AM./
 
 ** 神似祖先 (视点文丛)
 
