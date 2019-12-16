@@ -1,8 +1,8 @@
 
 
 Generated from clippings in file kindle/documents/My Clippings.txt
-on 2019-12-11 17:25:33 CET
-by the zitat script (http://sagallesab.wordpress.com/zitat).
+on 2019-12-16 14:02:58 CET
+by the zitat script https://github.com/RCoeurjoly/zitat.
 
 
 * A. D. Aleksandrov;A. N. Kolmogorov;M. A. Lavrent’ev
@@ -7299,6 +7299,72 @@ They say no plan survives first contact with implementation.
 
 /Highlight on Location 649-650. Added on Wednesday, December 11, 2019 10:00:53 AM./
 
+*** Obviously, I’ll have to use a rover. And guess what? They --
+
+Obviously, I’ll have to use a rover. And guess what? They weren’t designed for massive overland journeys. This is going to be a research effort, with a bunch of experimentation. I’ll have to become my own little NASA, figuring out how to explore far from the Hab. The good news is I have lots of time to figure it out. Almost four years. Some stuff is obvious. I’ll need to use a rover. It’ll take a long time, so I’ll need to bring supplies. I’ll need to recharge en route, and rovers don’t have solar cells, so I’ll need to steal some from the Hab’s solar farm. During the trip I’ll need to breathe, eat, and drink.
+
+/Highlight on Location 1034-1039. Added on Wednesday, December 11, 2019 7:00:15 PM./
+
+*** Part of the battery power goes to heating the rover. Mars --
+
+Part of the battery power goes to heating the rover. Mars is really cold. Normally, we were expected to do all EVAs in under five hours. But I’ll be living in it twenty-four and a half hours a day. According to the specs, the heating equipment soaks up 400 watts. Keeping it on would eat up 9800 watt hours per day. Over half my power supply, every day! But I do have a free source of heat: me.
+
+/Highlight on Location 1047-1050. Added on Wednesday, December 11, 2019 7:03:04 PM./
+
+*** Sirius 1 is complete! More accurately, Sirius 1 was --
+
+Sirius 1 is complete! More accurately, Sirius 1 was aborted after one hour. I guess you could call it a “failure,” but I prefer the term “learning experience.”
+
+/Highlight on Location 1127-1129. Added on Wednesday, December 11, 2019 7:16:53 PM./
+
+*** I’m no stranger to Mars. I’ve been here a long time. But --
+
+I’m no stranger to Mars. I’ve been here a long time. But I’ve never been out of sight of the Hab before today. You wouldn’t think that would make a difference, but it does. As I made my way toward the RTG’s burial site, it hit me: Mars is a barren wasteland and I am completely alone here. I already knew that, of course. But there’s a difference between knowing it and really experiencing it. All around me there was nothing but dust, rocks, and endless empty desert in all directions. The planet’s famous red color is from iron oxide coating everything. So it’s not just a desert. It’s a desert so old it’s literally rusting.
+
+/Highlight on Location 1177-1182. Added on Wednesday, December 11, 2019 7:24:11 PM./
+
+*** The Hab is my only hint of civilization, and seeing it --
+
+The Hab is my only hint of civilization, and seeing it disappear made me way more uncomfortable than I like to admit.
+
+/Highlight on Location 1182-1183. Added on Wednesday, December 11, 2019 7:24:20 PM./
+
+*** It’s a strange feeling. Everywhere I go, I’m the first. --
+
+It’s a strange feeling. Everywhere I go, I’m the first. Step outside the rover? First guy ever to be there! Climb a hill? First guy to climb that hill! Kick a rock? That rock hadn’t moved in a million years! I’m the first guy to drive long-distance on Mars. The first guy to spend more than thirty-one sols on Mars. The first guy to grow crops on Mars. First, first, first!
+
+/Highlight on Location 1552-1555. Added on Saturday, December 14, 2019 7:25:00 PM./
+
+*** With no magnetic field, Mars has no defense against harsh --
+
+With no magnetic field, Mars has no defense against harsh solar radiation. If I were exposed to it, I’d get so much cancer, the cancer would have cancer.
+
+/Highlight on Location 1691-1692. Added on Saturday, December 14, 2019 8:16:32 PM./
+
+*** Nobody thinks about it, but statistically they’re in more --
+
+Nobody thinks about it, but statistically they’re in more danger than Watney right now. He’s on a planet. They’re in space.”
+
+/Highlight on Location 1985-1986. Added on Sunday, December 15, 2019 10:40:38 PM./
+
+*** No mere luxury, the centripetal gravity of Hermes kept --
+
+No mere luxury, the centripetal gravity of Hermes kept them fit. Without it, they would have spent their first week on Mars barely able to walk. Zero-g exercise regimens could keep the heart and bones healthy, but none had been devised that would give them full function from Sol
+
+/Highlight on Location 2240-2241. Added on Monday, December 16, 2019 8:52:08 AM./
+
+*** No mere luxury, the centripetal gravity of Hermes kept --
+
+No mere luxury, the centripetal gravity of Hermes kept them fit. Without it, they would have spent their first week on Mars barely able to walk. Zero-g exercise regimens could keep the heart and bones healthy, but none had been devised that would give them full function from Sol 1.
+
+/Highlight on Location 2240-2241. Added on Monday, December 16, 2019 8:52:13 AM./
+
+*** They say once you grow crops somewhere, you have --
+
+They say once you grow crops somewhere, you have officially “colonized” it. So technically, I colonized Mars.
+
+/Highlight on Location 2285-2286. Added on Monday, December 16, 2019 9:01:18 AM./
+
 * 万维钢
 
 ** 高手：精英的见识和我们的时代
@@ -7734,6 +7800,186 @@ gghhh
 靖子在陪酒時代就已領悟到，在外面還能關心別人的男人通常有個幸福家庭。 　　
 
 /Highlight on Location 1106-1107. Added on Monday, December 9, 2019 7:02:20 PM./
+
+*** 幹我們這行本來就得不斷重複這種揮棒落空的滋味。跟你們這種只要道理講得通，就能獲得肯定的世界可是大不相同 --
+
+幹我們這行本來就得不斷重複這種揮棒落空的滋味。跟你們這種只要道理講得通，就能獲得肯定的世界可是大不相同
+
+/Highlight on Location 1191-1192. Added on Wednesday, December 11, 2019 9:24:58 PM./
+
+*** 賃居的出租旅館房間 --
+
+賃居的出租旅館房間
+
+/Highlight on Location 1209-1209. Added on Wednesday, December 11, 2019 9:30:02 PM./
+
+*** 在此我要聲明，我現在教你們的，只不過是數學這個世界的小小入口。因為如果不知道那是在哪裏，自然也就無法進入。當然，討厭 --
+
+在此我要聲明，我現在教你們的，只不過是數學這個世界的小小入口。因為如果不知道那是在哪裏，自然也就無法進入。當然，討厭數學的人可以不用進去。我之所以要考試，只是想確認你們是否起碼知道入口在哪裏
+
+/Highlight on Location 1279-1281. Added on Wednesday, December 11, 2019 9:43:40 PM./
+
+*** 石神心頭一跳。同時，也暗自為老友的慧眼咋舌 --
+
+石神心頭一跳。同時，也暗自為老友的慧眼咋舌
+
+/Highlight on Location 1334-1335. Added on Wednesday, December 11, 2019 9:54:34 PM./
+
+*** 我七點左右就回家了。」 　　「然後就按照慣例，待在家裏和數學超級難題格鬥 --
+
+我七點左右就回家了。」 　　「然後就按照慣例，待在家裏和數學超級難題格鬥
+
+/Highlight on Location 1355-1356. Added on Wednesday, December 11, 2019 9:58:54 PM./
+
+*** 擬一個別人無法解答的問題，和解答那個問題，何者比較困難 --
+
+擬一個別人無法解答的問題，和解答那個問題，何者比較困難
+
+/Highlight on Location 1373-1374. Added on Wednesday, December 11, 2019 10:02:52 PM./
+
+*** 請節哀順變，你一定很辛苦吧？ --
+
+請節哀順變，你一定很辛苦吧？
+
+/Highlight on Location 1414-1414. Added on Wednesday, December 11, 2019 10:13:29 PM./
+
+*** 真的是一轉眼就過去了。起先她只是嚷著腰痛去醫院掛號，然後醫生就突然把我叫去告訴我病情。住院，開刀，照顧病人──簡直像 --
+
+真的是一轉眼就過去了。起先她只是嚷著腰痛去醫院掛號，然後醫生就突然把我叫去告訴我病情。住院，開刀，照顧病人──簡直像被放在自動輸送帶上一樣。時間就這麼迷迷糊糊地過去了，然後她就過世了
+
+/Highlight on Location 1415-1416. Added on Wednesday, December 11, 2019 10:15:28 PM./
+
+*** 岸谷在草薙耳邊囁嚅 --
+
+岸谷在草薙耳邊囁嚅
+
+/Highlight on Location 2030-2030. Added on Friday, December 13, 2019 5:16:08 PM./
+
+*** 之前，我們的刑警應該已經來打擾好幾次了。」 　　園子頷首 --
+
+之前，我們的刑警應該已經來打擾好幾次了。」 　　園子頷首
+
+/Highlight on Location 2047-2048. Added on Friday, December 13, 2019 5:19:52 PM./
+
+*** 你的意思是石神不是那麼殘酷的人嗎？」草薙問。湯川帶著冷靜的目光搖頭。 --
+
+你的意思是石神不是那麼殘酷的人嗎？」草薙問。湯川帶著冷靜的目光搖頭。 　　「不是感情上的問題，而是企圖用殺人逃離痛苦的方法不夠合理。因為殺人之後，又會因此產生別的痛苦。石神不會做那種蠢事。反過來說，只要合乎邏輯，就算再怎麼殘酷的事他也做得出來
+
+/Highlight on Location 2140-2142. Added on Friday, December 13, 2019 5:47:05 PM./
+
+*** 石神這個人很單純。他尋求的解答，向來很簡單。他絕不會同時追求好幾樣東西，而他用來達成目的的手段也很簡單。所以他從不遲 --
+
+石神這個人很單純。他尋求的解答，向來很簡單。他絕不會同時追求好幾樣東西，而他用來達成目的的手段也很簡單。所以他從不遲疑，也不會為一點小事輕易動搖。不過，這也等於表示他不擅長生存之道。不是贏得全部就是全盤皆輸，他的人生隨時伴隨著這種危險。
+
+/Highlight on Location 2177-2180. Added on Friday, December 13, 2019 5:56:28 PM./
+
+*** 您應該不至於沒察覺他的心意吧？關於這點，您有甚麼想法？」 --
+
+您應該不至於沒察覺他的心意吧？關於這點，您有甚麼想法？」 　　這個唐突的問題令她困惑，當下的氣氛也不容她笑著敷衍了事。
+
+/Highlight on Location 2193-2194. Added on Friday, December 13, 2019 6:00:54 PM./
+
+*** 然而石神並不排斥森岡這種質疑的態度，對於為何要學習某種東西抱有疑問，是理所當然的。唯有當這個疑問解除了，才會產生求學 --
+
+然而石神並不排斥森岡這種質疑的態度，對於為何要學習某種東西抱有疑問，是理所當然的。唯有當這個疑問解除了，才會產生求學的目的，也才能通往理解數學本質之路。
+
+/Highlight on Location 2216-2218. Added on Friday, December 13, 2019 8:28:56 PM./
+
+*** 石神抱著公事包走出家門，公事包裏，放著他在這個世上最在乎的東西。是他目前正在研究的某個數學理論的相關檔案。與其說目前 --
+
+石神抱著公事包走出家門，公事包裏，放著他在這個世上最在乎的東西。是他目前正在研究的某個數學理論的相關檔案。與其說目前，說是多年來持續研究至今，或許更為正確。畢竟，連大學的畢業論文，他都是以那個理論為研究主題，而且至今尚未完成。 　　要完成這個數學理論，恐怕還得再耗費二十年以上的光陰，他暗自估算著。弄得不好，說不定還得更久。正因為如此艱難，他堅信這才是最適合數學家投注一生的課題。而且，他也自負除了自己之外無人能夠完成。 　　如果能夠完成不須考慮其他，也不用被雜務剝奪時間，可以專心研究的話不知該有多好──石神常常馳騁在這樣的妄想中。每次只要想到有生之年不知是否能完成這個研究，他就惴惴不安地覺得把時間耗在其他不相干的事情實在可惜。 　　他決心不管去哪裏，都不能拋下這個檔案夾。他得珍惜分分秒秒，就算讓研究再進一步也好。只要有紙筆，這並非不可能。只要能繼續這個研究，他便別無所求
+
+/Highlight on Location 2378-2386. Added on Friday, December 13, 2019 9:04:57 PM./
+
+*** 你說過，看到那些遊民，就覺得他們過日子像時鐘一樣準確。你還記得嗎？」 --
+
+你說過，看到那些遊民，就覺得他們過日子像時鐘一樣準確。你還記得嗎？」 　　「記得。人一旦擺脫了時鐘反而會那樣──這是你說的吧？」 　　湯川滿意地點點頭。 　　「你我都不可能擺脫時鐘的束縛，彼此都已淪為社會這個時鐘的齒輪。一旦少了齒輪，時鐘就會出亂子。縱然自己渴望率性而為，周遭也不容許我們這樣做。這雖然同時也讓我們得到了安定，但失去自由也是不爭的事實。在遊民當中，似乎也有不少人不想回到原本的生活。
+
+/Highlight on Location 2401-2406. Added on Friday, December 13, 2019 9:08:12 PM./
+
+*** 設計別人解不開的問題，和解開那個問題，何者比較難──你還記得嗎？」 --
+
+設計別人解不開的問題，和解開那個問題，何者比較難──你還記得嗎？」 　　「記得。我的答案是，設計問題比較難。我向來認為，解答者應該對出題者心懷敬意
+
+/Highlight on Location 2482-2484. Added on Friday, December 13, 2019 9:34:21 PM./
+
+*** 工藤把菸灰撢落菸灰缸。 --
+
+工藤把菸灰撢落菸灰缸。
+
+/Highlight on Location 2504-2505. Added on Friday, December 13, 2019 9:38:27 PM./
+
+*** 在他們的世界裏，早已對某人在某一天突然消失習以為常 --
+
+在他們的世界裏，早已對某人在某一天突然消失習以為常
+
+/Highlight on Location 3019-3019. Added on Saturday, December 14, 2019 12:58:36 PM./
+
+*** 每天望著那些遊民，也許他平時就這麼想：他們到底是為何而活？難道只是這樣默默等死嗎？就算他們死了，恐怕也不會有任何人察 --
+
+每天望著那些遊民，也許他平時就這麼想：他們到底是為何而活？難道只是這樣默默等死嗎？就算他們死了，恐怕也不會有任何人察覺，更不會有任何人難過吧
+
+/Highlight on Location 3027-3029. Added on Saturday, December 14, 2019 1:01:26 PM./
+
+*** 被殺的是富樫慎二，可疑的是花岡靖子，他故意製造出這種構圖，好讓警方無法排除這個刻板概念 --
+
+被殺的是富樫慎二，可疑的是花岡靖子，他故意製造出這種構圖，好讓警方無法排除這個刻板概念
+
+/Highlight on Location 3056-3057. Added on Saturday, December 14, 2019 1:23:47 PM./
+
+*** 看似不在場證明的障眼法，其實障眼法是設計在隱瞞死者身分的部份。」 　　 --
+
+看似不在場證明的障眼法，其實障眼法是設計在隱瞞死者身分的部份。」 　　
+
+/Highlight on Location 3062-3063. Added on Saturday, December 14, 2019 1:25:42 PM./
+
+*** 她的確感到奇怪，警方為何問的是犯案翌日的不在場證明 --
+
+她的確感到奇怪，警方為何問的是犯案翌日的不在場證明
+
+/Highlight on Location 3107-3107. Added on Saturday, December 14, 2019 1:50:17 PM./
+
+*** 刑警問起不在場證明時，雖然她一一據實回答，但心裡其 --
+
+刑警問起不在場證明時，雖然她一一據實回答，但心裡其
+
+/Highlight on Location 3109-3109. Added on Saturday, December 14, 2019 1:50:26 PM./
+
+*** 刑警問起不在場證明時，雖然她一一據實回答，但心裡其實很想反問：為甚麼是三月十日 --
+
+刑警問起不在場證明時，雖然她一一據實回答，但心裡其實很想反問：為甚麼是三月十日
+
+/Highlight on Location 3109-3110. Added on Saturday, December 14, 2019 1:50:34 PM./
+
+*** 妳真的不要緊？如果有甚麼事，我希望妳毫不保留地告訴我 --
+
+妳真的不要緊？如果有甚麼事，我希望妳毫不保留地告訴我
+
+/Highlight on Location 3135-3136. Added on Saturday, December 14, 2019 1:57:06 PM./
+
+*** 他壓根沒有想和她們發生關連的慾望，他認為她們是自己不該碰觸的對象。同時他也發覺數學也是如此，對於崇高的東西，光是能沾 --
+
+他壓根沒有想和她們發生關連的慾望，他認為她們是自己不該碰觸的對象。同時他也發覺數學也是如此，對於崇高的東西，光是能沾到邊就夠幸福了。妄想博得名聲，只會有損尊嚴
+
+/Highlight on Location 3210-3211. Added on Saturday, December 14, 2019 2:43:45 PM./
+
+*** 身體受到束縛根本不算甚麼，他想。只要有紙和筆，就能做數學題。萬一手腳被綁，在腦中做同樣的事也就是了。縱使甚麼都看不見 --
+
+身體受到束縛根本不算甚麼，他想。只要有紙和筆，就能做數學題。萬一手腳被綁，在腦中做同樣的事也就是了。縱使甚麼都看不見，甚麼都聽不到，也沒人能把手伸到他腦子裏。那裏對他來說就是無垠樂園，沉睡著數學這個礦脈。要把那些礦藏統統挖出來，一生的時間未免太短。 　　他再次感到，自己並不需得到任何人的肯定。他的確有發表論文、受人評價的慾望，但那並非數學的本質。是誰第一個爬上那座山固然重要，但只要當事人自己明白那件事情的意義就夠了。 　　不過石神也是費了不少時間，才到達現在的境地。就在不久之前，他差點就失去了活著的意義。當時他甚至覺得，只擅長數學的自己，如果不能在那領域有所進展，就等於沒有存在價值了。每天他的腦子裏只有死這個念頭，反正自己死了也不會有人傷心、困擾，不僅如此，他甚至懷疑有誰會發現他的死。 　　那是一年前的事。當時石神在屋裏拿著一條繩子，正在找地方掛。公寓的房子，出乎意料地缺乏這種適合上吊的地方。最後他只好在柱子上釘個大釘子。把做成圓圈的繩子掛在那上面，確認加上體重後是否撐得住。柱子發出吱呀的聲音，但釘子沒彎，繩子也沒斷。 　　他已毫無留戀。沒有理由尋死，但也沒有理由活著，如此而已。 　　他站上台子，正要把脖子套進繩索時，門鈴響了。 　　那是扭轉命運的門鈴聲。 　　他沒有置之不理，是因為不想給任何人添麻煩。門外的某人，說不定是有甚麼急事才來找他
+
+/Highlight on Location 3190-3202. Added on Saturday, December 14, 2019 2:45:22 PM./
+
+*** 要完美地棄屍很困難，就算做得再怎麼巧妙，也無法將身分曝光的機率降到零。 --
+
+要完美地棄屍很困難，就算做得再怎麼巧妙，也無法將身分曝光的機率降到零。
+
+/Highlight on Location 3214-3215. Added on Saturday, December 14, 2019 3:06:14 PM./
+
+*** 或許遲早會被發現，但無所謂，警方絕對查不出死者的身分。在他們的記錄上富樫已經死了，同一個人不可能死兩次 --
+
+或許遲早會被發現，但無所謂，警方絕對查不出死者的身分。在他們的記錄上富樫已經死了，同一個人不可能死兩次
+
+/Highlight on Location 3230-3231. Added on Saturday, December 14, 2019 3:07:13 PM./
 
 ** 白夜行
 
