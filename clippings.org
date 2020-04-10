@@ -1,10 +1,3 @@
-
-
-Generated from clippings in file /home/rcl/kindle/documents/My Clippings.txt
-on [2020-04-10 16:02:45 CEST]
-by the zitat script https://github.com/RCoeurjoly/zitat.
-
-
 * A. D. Aleksandrov;A. N. Kolmogorov;M. A. Lavrent’ev
 ** Mathematics: Its Content, Methods and Meaning (Dover Books on Mathematics)
 *** one of the fundamental laws of formation of mathematical --
@@ -957,7 +950,7 @@ The law is not known as a good business model for anyone but lawyers
 The less you get paid by the stock market in thrills and spills, the more you will earn at it in cash.
 /Highlight on Location 505-506. [2017-02-22 7:29:10]./
 * Chris Farrell
-** ﻿The New Frugality
+** New Frugality, The
 *** Green is frugal and frugal is green. Turn down the --
 Green is frugal and frugal is green. Turn down the thermostat in winter, wear a sweater. Downsize, don’t buy more house than you need. Renovate rather than build. Don’t purchase prepared foods. Go for quality, not quantity. Use energy-efficient appliances. Recycle clothing, furniture, and other goods within your community. Engage in socially responsible investing. Use public transportation.
 /Highlight on Location 136-145. [2017-01-02 18:23:34]./
@@ -2624,7 +2617,7 @@ On April 25, 1999, the party, in
 On April 25, 1999, the party, in
 /#1561-1561的标注. [2018-10-09 7:28:47]./
 * Fisker, Jacob Lund;Averbach, Zev;Beaver, Ann
-** ﻿Early Retirement Extreme: A philosophical and practical guide to financial independence
+** Early Retirement Extreme: A philosophical and practical guide to financial independence
 *** In fact, by taking the other end of the bargain, saving as --
 In fact, by taking the other end of the bargain, saving as much as other people are spending on wants, it's possible to retire and live on invested savings after just five years of full-time work. Rather than increasing the amount of work to acquire more stuff, reducing this superficial need reduces the amount of necessary work. It's possible to reduce the amount of work all the way down to zero: financial independence.
 /Highlight on Location 322-325. [2017-01-01 13:18:03]./
@@ -3158,7 +3151,7 @@ a paradigm as a system of beliefs and assumptions that operate together to estab
 this unquestioning acceptance, and refusal to envision alternative explanations, leads to a festering of inconsistencies that pile up until a tipping point is reached where the existing paradigm is torn apart and replaced with a new explanatory paradigm better able to marshal the anomalies, insights, and new developments into a comprehensive new narrative.
 /Highlight on Location 293-296. [2020-01-15 9:09:04]./
 * Rutger Bregman
-** ﻿Utopia for Realists
+** Utopia for Realists
 *** we blame collective problems like unemployment, --
 we blame collective problems like unemployment, dissatisfaction, and depression on the individual. If success is a choice, then so is failure.
 /Highlight on Location 240-241. [2017-01-25 7:56:33]./
@@ -3484,7 +3477,7 @@ Dreams are the most vivid type of mental imagery most people are likely to exper
 “sensory-motor skills which have already been mastered in their rough outlines can be optimized by using lucid dreams.”
 /Highlight on Location 2768-2769. [2019-09-21 17:52:12]./
 * Steven Pinker
-** ﻿Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
+** Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
 *** faith, namely believing something without a good reason. --
 faith, namely believing something without a good reason.
 /Highlight on Location 6648-6648. [2019-06-29 18:53:06]./
@@ -3563,6 +3556,57 @@ too small for professionals to buy and that are not large enough to generate suf
 *** To utilize the magic formula strategy successfully, you --
 To utilize the magic formula strategy successfully, you must understand only two basic concepts. First, buying good companies at bargain prices makes sense. On average, this is what the magic formula does. Second, it can take Mr. Market several years to recognize a bargain. Therefore, the magic formula strategy requires patience
 /Highlight on page 161-161. [2019-09-09 8:50:08]./
+** 8a2505c9-aadf-4cf8-87b5-d61867500f49-3
+*** lapis lazuli mine culture here. There are gangs that prey --
+lapis lazuli mine culture here. There are gangs that prey on solo workers
+/Highlight on Location 1403-1403. [2019-05-19 15:44:53]./
+** [Xiong Di ].Yu Hua .Wen Zi Ban  - Unknown
+*** 英雄难 过美人关啊 --
+英雄难 过美人关啊
+/Highlight on page 20-20. [2017-01-10 17:58:42]./
+*** 男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里。” 童铁匠像个阔佬似的走进人民饭店，他坐下来以后就是个 --
+男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里。” 童铁匠像个阔佬似的走进人民饭店，他坐下来以后就是个 小气鬼了，他没有给李光头要一碗三鲜面，给他要了一碗阳春面。 李光头心里哼了一声，没有说话。等到阳春面端上来了，李光头 拿起筷子呼呼地吃了起来，吃得满头大汗，吃得鼻涕都流出来了。
+/Highlight on page 27-27. [2017-01-10 18:11:17]./
+*** 男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里 --
+男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里
+/Highlight on page 27-27. [2017-01-10 18:11:44]./
+*** 肉有肉价，菜有菜价 --
+肉有肉价，菜有菜价
+/Highlight on page 29-29. [2017-01-10 18:14:44]./
+*** 文章是自己的好，老婆是别人的好。 --
+文章是自己的好，老婆是别人的好。
+/Highlight on page 35-35. [2017-01-11 14:39:27]./
+*** 拖油瓶 --
+拖油瓶
+/Highlight on page 71-71. [2017-01-14 18:30:08]./
+** gnu.org
+*** C-c C-t     (org-todo) Changing the TODO state of an item --
+C-c C-t     (org-todo) Changing the TODO state of an item to DONE automatically stops the clock if it is running in this same item.
+/Highlight on Location 2970-2971. [2018-12-09 19:17:17]./
+*** C-c C-x C-d     (org-clock-display) Display time summaries --
+C-c C-x C-d     (org-clock-display) Display time summaries for each subtree in the current buffer. This puts overlays at the end of each headline, showing the total time recorded under that heading, including the time of any subheadings. You can use visibility cycling to study the tree, but the overlays disappear when you change the buffer (see
+/Highlight on Location 2975-2978. [2018-12-09 19:17:41]./
+*** C-c C-x C-d     (org-clock-display) Display time summaries --
+C-c C-x C-d     (org-clock-display) Display time summaries for each subtree in the current buffer. This puts overlays at the end of each headline, showing the total time recorded under that heading, including the time of any subheadings. You can use visibility cycling to study the tree, but the overlays disappear when you change the buffer
+/Highlight on Location 2975-2978. [2018-12-09 19:17:46]./
+*** C-c C-x C-d     (org-clock-display) Display time summaries --
+C-c C-x C-d     (org-clock-display) Display time summaries for each subtree in the current buffer. This puts overlays at the end of each headline, showing the total time recorded under that heading, including the time of any subheadings. You can use visibility cycling to study the tree, but the overlays disappear when you change the buffer
+/Highlight on Location 2975-2978. [2018-12-09 19:17:49]./
+*** C-c C-x C-o     (org-clock-out) Stop the clock --
+C-c C-x C-o     (org-clock-out) Stop the clock (clock-out). This inserts another timestamp at the same location where the clock was last started. It also directly computes the resulting time and inserts it after the time range as ‘=> HH:MM’. See the variable org-log-note-clock-out for the possibility to record an additional note together with the clock-out timestamp81. C-c C-x C-x     (org-clock-in-last) Reclock the last clocked task. With one C-u prefix argument, select the task from the clock history. With two C-u prefixes, force continuous clocking by starting the clock when the last clock stopped.
+/Highlight on Location 2953-2960. [2018-12-09 19:18:05]./
+*** C-c C-x C-i     (org-clock-in) !Start the clock on the --
+C-c C-x C-i     (org-clock-in) !Start the clock on the current item (clock-in). This inserts the CLOCK keyword together with a timestamp.
+/Highlight on Location 2936-2938. [2018-12-09 19:18:20]./
+*** C-c C-x C-j     (org-clock-goto) Jump to the headline of --
+C-c C-x C-j     (org-clock-goto) Jump to the headline of the currently clocked in task. With a C-u prefix arg, select the target task from a list of recently clocked tasks.
+/Highlight on Location 2973-2975. [2018-12-09 19:18:32]./
+*** C-c C-x C-r     (org-clock-report) Insert a dynamic block --
+C-c C-x C-r     (org-clock-report) Insert a dynamic block (see Dynamic blocks) containing a clock report as an Org mode table into the current file.
+/Highlight on Location 2987-2989. [2018-12-09 19:20:44]./
+*** you are also clocking your work, you may later want to --
+you are also clocking your work, you may later want to compare the planned effort with the actual working time, a great way to improve planning estimates.
+/Highlight on Location 3103-3104. [2018-12-09 20:30:37]./
 ** mapjourney6
 *** it is very important to feel worthy of love, of freedom, --
 it is very important to feel worthy of love, of freedom, peacefulness, deep wisdom, and understanding. You can only rise as high as your self esteem
@@ -3897,57 +3941,6 @@ the networked environment makes possible a new modality of organizing production
 *** 英国哲学家培根说“一切知识不过是记忆”。 --
 英国哲学家培根说“一切知识不过是记忆”。
 /Highlight on page 2. [2019-09-12 18:01:16]./
-** ﻿8a2505c9-aadf-4cf8-87b5-d61867500f49-3
-*** lapis lazuli mine culture here. There are gangs that prey --
-lapis lazuli mine culture here. There are gangs that prey on solo workers
-/Highlight on Location 1403-1403. [2019-05-19 15:44:53]./
-** ﻿[Xiong Di ].Yu Hua .Wen Zi Ban  - Unknown
-*** 英雄难 过美人关啊 --
-英雄难 过美人关啊
-/Highlight on page 20-20. [2017-01-10 17:58:42]./
-*** 男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里。” 童铁匠像个阔佬似的走进人民饭店，他坐下来以后就是个 --
-男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里。” 童铁匠像个阔佬似的走进人民饭店，他坐下来以后就是个 小气鬼了，他没有给李光头要一碗三鲜面，给他要了一碗阳春面。 李光头心里哼了一声，没有说话。等到阳春面端上来了，李光头 拿起筷子呼呼地吃了起来，吃得满头大汗，吃得鼻涕都流出来了。
-/Highlight on page 27-27. [2017-01-10 18:11:17]./
-*** 男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里 --
-男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里
-/Highlight on page 27-27. [2017-01-10 18:11:44]./
-*** 肉有肉价，菜有菜价 --
-肉有肉价，菜有菜价
-/Highlight on page 29-29. [2017-01-10 18:14:44]./
-*** 文章是自己的好，老婆是别人的好。 --
-文章是自己的好，老婆是别人的好。
-/Highlight on page 35-35. [2017-01-11 14:39:27]./
-*** 拖油瓶 --
-拖油瓶
-/Highlight on page 71-71. [2017-01-14 18:30:08]./
-** ﻿gnu.org
-*** C-c C-t     (org-todo) Changing the TODO state of an item --
-C-c C-t     (org-todo) Changing the TODO state of an item to DONE automatically stops the clock if it is running in this same item.
-/Highlight on Location 2970-2971. [2018-12-09 19:17:17]./
-*** C-c C-x C-d     (org-clock-display) Display time summaries --
-C-c C-x C-d     (org-clock-display) Display time summaries for each subtree in the current buffer. This puts overlays at the end of each headline, showing the total time recorded under that heading, including the time of any subheadings. You can use visibility cycling to study the tree, but the overlays disappear when you change the buffer (see
-/Highlight on Location 2975-2978. [2018-12-09 19:17:41]./
-*** C-c C-x C-d     (org-clock-display) Display time summaries --
-C-c C-x C-d     (org-clock-display) Display time summaries for each subtree in the current buffer. This puts overlays at the end of each headline, showing the total time recorded under that heading, including the time of any subheadings. You can use visibility cycling to study the tree, but the overlays disappear when you change the buffer
-/Highlight on Location 2975-2978. [2018-12-09 19:17:46]./
-*** C-c C-x C-d     (org-clock-display) Display time summaries --
-C-c C-x C-d     (org-clock-display) Display time summaries for each subtree in the current buffer. This puts overlays at the end of each headline, showing the total time recorded under that heading, including the time of any subheadings. You can use visibility cycling to study the tree, but the overlays disappear when you change the buffer
-/Highlight on Location 2975-2978. [2018-12-09 19:17:49]./
-*** C-c C-x C-o     (org-clock-out) Stop the clock --
-C-c C-x C-o     (org-clock-out) Stop the clock (clock-out). This inserts another timestamp at the same location where the clock was last started. It also directly computes the resulting time and inserts it after the time range as ‘=> HH:MM’. See the variable org-log-note-clock-out for the possibility to record an additional note together with the clock-out timestamp81. C-c C-x C-x     (org-clock-in-last) Reclock the last clocked task. With one C-u prefix argument, select the task from the clock history. With two C-u prefixes, force continuous clocking by starting the clock when the last clock stopped.
-/Highlight on Location 2953-2960. [2018-12-09 19:18:05]./
-*** C-c C-x C-i     (org-clock-in) !Start the clock on the --
-C-c C-x C-i     (org-clock-in) !Start the clock on the current item (clock-in). This inserts the CLOCK keyword together with a timestamp.
-/Highlight on Location 2936-2938. [2018-12-09 19:18:20]./
-*** C-c C-x C-j     (org-clock-goto) Jump to the headline of --
-C-c C-x C-j     (org-clock-goto) Jump to the headline of the currently clocked in task. With a C-u prefix arg, select the target task from a list of recently clocked tasks.
-/Highlight on Location 2973-2975. [2018-12-09 19:18:32]./
-*** C-c C-x C-r     (org-clock-report) Insert a dynamic block --
-C-c C-x C-r     (org-clock-report) Insert a dynamic block (see Dynamic blocks) containing a clock report as an Org mode table into the current file.
-/Highlight on Location 2987-2989. [2018-12-09 19:20:44]./
-*** you are also clocking your work, you may later want to --
-you are also clocking your work, you may later want to compare the planned effort with the actual working time, a great way to improve planning estimates.
-/Highlight on Location 3103-3104. [2018-12-09 20:30:37]./
 * Updike, John, Thoreau, Henry David, Shanley, J. Lyndon
 ** Walden
 *** Most of the luxuries, and many of the so called comforts --
@@ -4685,16 +4678,6 @@ I. Surveying the Field Preparatory to Syntopical Reading 1. Create a tentative 
 /Highlight on Location 4936-4953. [2019-12-19 21:44:10]./
 * Vicki Robin
 ** Your Money or Your Life
-*** What do you now spend to simply compensate for doing a job --
-What do you now spend to simply compensate for doing a job that claims the majority of your waking hours?
-/Highlight on Location 2560-2561. [2017-02-16 10:15:25]./
-*** Who is more financially independent—someone who can fix a --
-Who is more financially independent—someone who can fix a leaky faucet, or someone who must pay another person to fix it?
-/Highlight on Location 2564-2565. [2017-02-16 10:16:10]./
-*** If that is so, then asking the question “What would this --
-If that is so, then asking the question “What would this expenditure look like if I had the time and skills to maintain my possessions myself?” will lead you toward less dependence on money to fill your needs.  
-/Highlight on Location 2567-2569. [2017-02-16 10:17:15]./
-** ﻿Your Money or Your Life
 *** Rather, it’s to point out that while absolute poverty --
 Rather, it’s to point out that while absolute poverty deprives our bodies of necessities, relative poverty—being so much poorer than people no smarter or more willing to work than we are—makes us dissatisfied with our lot in life no matter how much we have.
 /Highlight on Location 213-215. [2017-01-03 10:13:42]./
@@ -4806,6 +4789,15 @@ Is there an aspect of suffering in the world that calls you to action?
 *** 3. Work with what is at hand, with the opportunities that --
 3. Work with what is at hand, with the opportunities that arise daily for responding to the simple needs of others.
 /Highlight on Location 2498-2499. [2017-01-10 14:35:16]./
+*** What do you now spend to simply compensate for doing a job --
+What do you now spend to simply compensate for doing a job that claims the majority of your waking hours?
+/Highlight on Location 2560-2561. [2017-02-16 10:15:25]./
+*** Who is more financially independent—someone who can fix a --
+Who is more financially independent—someone who can fix a leaky faucet, or someone who must pay another person to fix it?
+/Highlight on Location 2564-2565. [2017-02-16 10:16:10]./
+*** If that is so, then asking the question “What would this --
+If that is so, then asking the question “What would this expenditure look like if I had the time and skills to maintain my possessions myself?” will lead you toward less dependence on money to fill your needs.  
+/Highlight on Location 2567-2569. [2017-02-16 10:17:15]./
 * Walpola Rahula
 ** What the Buddha Taught: Revised and Expanded Edition with Texts from Suttas and Dhammapada
 *** consequently the country will be peaceful and --
@@ -5018,6 +5010,15 @@ The cost for my survival must have been hundreds of millions of dollars. All to 
 /Highlight on page 50. [2019-10-16 8:27:56]./
 * 余华
 ** 兄弟
+*** 还 --
+还
+/Highlight on Location 1307-1307. [2017-01-17 23:06:45]./
+*** 无师自通 --
+无师自通
+/Highlight on Location 2157-2157. [2017-01-20 15:19:00]./
+***  --
+
+/Bookmark on Location 3201. [2017-01-24 17:59:27]./
 *** 真是佛靠金装，人靠衣装啊 --
 真是佛靠金装，人靠衣装啊
 /Highlight on Location 3835-3835. [2017-01-31 7:59:16]./
@@ -5061,16 +5062,6 @@ passive aggressive
 *** 层峦叠翠的 --
 层峦叠翠的
 /Highlight on page 74. [2018-04-10 20:17:44]./
-** ﻿兄弟
-*** 还 --
-还
-/Highlight on Location 1307-1307. [2017-01-17 23:06:45]./
-*** 无师自通 --
-无师自通
-/Highlight on Location 2157-2157. [2017-01-20 15:19:00]./
-***  --
-
-/Bookmark on Location 3201. [2017-01-24 17:59:27]./
 * 余華
 ** 許三觀賣血記
 *** 在水裡 --
@@ -5872,7 +5863,7 @@ gghhh
 以最精细微妙的方式向人们施加力量并且最不容人们抗拒的一种社会现象是语言
 /Highlight on Location 237-238. [2019-11-07 10:22:14]./
 * 采铜
-** ﻿精进：如何成为一个很厉害的人
+** 精进：如何成为一个很厉害的人
 *** 先做好准备再上场”观念的一个致命问题是：我们永远都无法做好“完全”的准备 --
 先做好准备再上场”观念的一个致命问题是：我们永远都无法做好“完全”的准备
 /Highlight on Location 923-924. [2017-01-01 14:30:30]./
