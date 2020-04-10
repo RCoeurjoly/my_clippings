@@ -13,7 +13,7 @@ the Greeks. Since they did not have the concept of an irrational number and neve
 “by number we mean not so much a collection of units as an abstract ratio of a certain quantity to another quantity taken as the unit.” This number (ratio) may be integral, rational, or if the given magnitude is incommensurable with the unit, irrational.
 /Highlight on Location 940-942. [2019-09-13 20:52:38]./
 *** du irrational definition  --
-du irrational definition
+du irrational definition 
 /Note on Location 942. [2019-09-13 20:53:02]./
 *** A real number in its original sense is therefore nothing --
 A real number in its original sense is therefore nothing but the ratio of one magnitude to another taken as a unit;
@@ -1478,7 +1478,7 @@ even though śamatha is extraordinary, it’s still a conditioned mental state. 
 Meditation is a science, the systematic process of training the mind. It is the science of meditation that allows people from all walks of life to experience the same amazing benefits.
 /Highlight on page 22. [2019-09-11 18:05:11]./
 *** technology . not science  --
-technology . not science
+technology . not science 
 /Note on page 22. [2019-09-11 18:05:28]./
 *** Fully-developed meditation skills also give rise to unique --
 Fully-developed meditation skills also give rise to unique and wonderful mental states characterized by physical comfort and pleasure, joy and happiness, deep satisfaction, and profound inner peace—states that can open the mind to an intuitive appreciation of our interconnectedness and dispel the illusion of separateness created by our egos.
@@ -1523,7 +1523,7 @@ Awakening. This should be the goal of your practice.
 When life is lived in a fully conscious way, with wisdom, we can eventually overcome all harmful emotions and behavior. We won’t experience greed, even in the face of lack. Nor will we have ill will, even when confronted by aggression and hostility.
 /Highlight on page 25. [2019-09-11 18:38:23]./
 *** saint behaviour  --
-saint behaviour
+saint behaviour 
 /Note on page 25. [2019-09-11 18:38:42]./
 *** When life is lived in a fully conscious way, with wisdom, --
 When life is lived in a fully conscious way, with wisdom, we can eventually overcome all harmful emotions and behavior. We won’t experience greed, even in the face of lack. Nor will we have ill will, even when confronted by aggression and hostility.
@@ -3731,7 +3731,7 @@ The last decade has seen agile methods move into the mainstream, which means the
 Envio 026707222107 pedido 1202003010665548301 de grupo eci
 /Note on Location 493. [2020-03-05 18:21:37]./
 *** Envio 026707222107 pedido 1202003010665548301 de grupo eci --
-Envio 026707222107 pedido 1202003010665548301 de grupo eci calle castilla 47 saneamientos pereda hacia el oeste izquierda
+Envio 026707222107 pedido 1202003010665548301 de grupo eci calle castilla 47 saneamientos pereda hacia el oeste izquierda 
 /Note on Location 493. [2020-03-05 18:24:00]./
 *** BDD is a mechanism for fostering collaboration and --
 BDD is a mechanism for fostering collaboration and discovery through examples. The goal isn’t generating acceptance criteria or feature files; it isn’t automation; it isn’t testing; although BDD contains elements of all of these. I see teams obsessing about the number or density of feature files, or the degree of automation, or debating the merits of one tool over another. All of this is beside the point. The examples and scenarios of BDD are simply a form of documentation. More documentation isn’t better—better documentation is better! Don’t lose sight of the real goal, which is to use software to create business impact. BDD is just one way of staying focused on that goal, and is only useful to the extent that it helps with this. It isn’t an end in itself.
@@ -3901,6 +3901,18 @@ BDD involves the development team engaging in conversations with the customer th
 *** source dynamic language, and there are several --
 source dynamic language, and there are several Gherkin-based
 /Highlight on Location 3663-3664. [2020-04-07 14:29:56]./
+*** As with any code base, the maintenance of automated --
+As with any code base, the maintenance of automated acceptance tests can be costly if they’re not written well from the onset.
+/Highlight on Location 3861-3861. [2020-04-10 21:57:38]./
+*** Automated acceptance tests aren’t just for web testing. --
+Automated acceptance tests aren’t just for web testing.
+/Highlight on Location 3865-3866. [2020-04-10 21:58:22]./
+*** how BDD principles, techniques, and tools make traditional --
+how BDD principles, techniques, and tools make traditional test-driven development easier and more effective.
+/Highlight on Location 3869-3870. [2020-04-10 21:58:49]./
+*** You’ll see how BDD unit tests flow naturally from BDD --
+You’ll see how BDD unit tests flow naturally from BDD acceptance criteria.
+/Highlight on Location 3870-3870. [2020-04-10 21:59:08]./
 ** Wealth of Networks - How Social Production Transforms Markets and Freedom, The
 *** the networked environment makes possible a new modality of --
 the networked environment makes possible a new modality of organizing production: radically decentralized, collaborative, and nonproprietary; based on sharing resources and outputs among widely distributed, loosely connected individuals who cooperate with each other without relying on either market signals or managerial commands. This is what I call "commons-based peer production."
@@ -3951,7 +3963,7 @@ Most of the luxuries, and many of the so called comforts of life, are not only n
 *** Almost anything carried to its logical extreme becomes --
 Almost anything carried to its logical extreme becomes depressing, if not carcinogenic.
 /Highlight on Location 29-29. [2017-03-26 22:48:23]./
-* Van Doren, Charles;Mortimer J. Adler                           :nonFiction:
+* Van Doren, Charles;Mortimer J. Adler
 ** How to Read a Book (A Touchstone book)
 *** There is a sense in which we moderns are inundated with --
 There is a sense in which we moderns are inundated with facts to the detriment of understanding.
@@ -4721,7 +4733,7 @@ From this place, being suffocated under a mountain of clutter that must be store
 Hobbies are clutter-intensive when the ratio of what you have to what you use climbs—like
 /Highlight on Location 951-952. [2017-01-04 20:58:26]./
 *** 38k approx  --
-38k approx
+38k approx 
 /Note on Location 990. [2017-01-04 21:12:01]./
 *** earned. --
 earned.
@@ -4879,7 +4891,7 @@ There is no unmoving mover behind the movement. It is only movement. It is not c
 Now a question may be raised whether life has a beginning. According to the Buddha’s teaching the beginning of the life-stream of living beings is unthinkable.
 /Highlight on Location 605-606. [2020-01-26 17:04:16]./
 *** The beginning of life is complex chemistry  --
-The beginning of life is complex chemistry
+The beginning of life is complex chemistry 
 /Note on Location 606. [2020-01-26 17:04:52]./
 *** The Buddha says: ‘O bhikkhus, this cycle of continuity --
 The Buddha says: ‘O bhikkhus, this cycle of continuity (saṃsāra) is without a visible end, and the first beginning of beings wandering and running round, enveloped in ignorance (avijjā) and bound down by the fetters of thirst (desire, taṇhā) is not to be perceived.’
@@ -5026,7 +5038,7 @@ The cost for my survival must have been hundreds of millions of dollars. All to 
 近墨者黑，近朱者赤
 /Highlight on Location 4243-4243. [2017-01-31 18:16:14]./
 *** passive aggressive  --
-passive aggressive
+passive aggressive 
 /Note on Location 4741. [2017-02-01 14:26:24]./
 *** 宋钢，我相信你，你不会做出对不起我的事 --
 宋钢，我相信你，你不会做出对不起我的事
