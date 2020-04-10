@@ -3913,6 +3913,9 @@ how BDD principles, techniques, and tools make traditional test-driven developme
 *** You’ll see how BDD unit tests flow naturally from BDD --
 You’ll see how BDD unit tests flow naturally from BDD acceptance criteria.
 /Highlight on Location 3870-3870. [2020-04-10 21:59:08]./
+*** When you automate these scenarios, they become executable --
+When you automate these scenarios, they become executable specifications, but these will be reported as pending until you write the underlying code that actually exercises the application and verifies the outcomes.
+/Highlight on Location 3886-3887. [2020-04-10 22:07:44]./
 ** Wealth of Networks - How Social Production Transforms Markets and Freedom, The
 *** the networked environment makes possible a new modality of --
 the networked environment makes possible a new modality of organizing production: radically decentralized, collaborative, and nonproprietary; based on sharing resources and outputs among widely distributed, loosely connected individuals who cooperate with each other without relying on either market signals or managerial commands. This is what I call "commons-based peer production."
