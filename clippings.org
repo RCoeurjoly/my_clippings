@@ -12,8 +12,8 @@ the Greeks. Since they did not have the concept of an irrational number and neve
 *** “by number we mean not so much a collection of units as an --
 “by number we mean not so much a collection of units as an abstract ratio of a certain quantity to another quantity taken as the unit.” This number (ratio) may be integral, rational, or if the given magnitude is incommensurable with the unit, irrational.
 /Highlight on Location 940-942. [2019-09-13 20:52:38]./
-*** du irrational definition  --
-du irrational definition 
+*** du irrational definition --
+du irrational definition
 /Note on Location 942. [2019-09-13 20:53:02]./
 *** A real number in its original sense is therefore nothing --
 A real number in its original sense is therefore nothing but the ratio of one magnitude to another taken as a unit;
@@ -1477,8 +1477,8 @@ even though śamatha is extraordinary, it’s still a conditioned mental state. 
 *** Meditation is a science, the systematic process of --
 Meditation is a science, the systematic process of training the mind. It is the science of meditation that allows people from all walks of life to experience the same amazing benefits.
 /Highlight on page 22. [2019-09-11 18:05:11]./
-*** technology . not science  --
-technology . not science 
+*** technology . not science --
+technology . not science
 /Note on page 22. [2019-09-11 18:05:28]./
 *** Fully-developed meditation skills also give rise to unique --
 Fully-developed meditation skills also give rise to unique and wonderful mental states characterized by physical comfort and pleasure, joy and happiness, deep satisfaction, and profound inner peace—states that can open the mind to an intuitive appreciation of our interconnectedness and dispel the illusion of separateness created by our egos.
@@ -1522,8 +1522,8 @@ Awakening. This should be the goal of your practice.
 *** When life is lived in a fully conscious way, with wisdom, --
 When life is lived in a fully conscious way, with wisdom, we can eventually overcome all harmful emotions and behavior. We won’t experience greed, even in the face of lack. Nor will we have ill will, even when confronted by aggression and hostility.
 /Highlight on page 25. [2019-09-11 18:38:23]./
-*** saint behaviour  --
-saint behaviour 
+*** saint behaviour --
+saint behaviour
 /Note on page 25. [2019-09-11 18:38:42]./
 *** When life is lived in a fully conscious way, with wisdom, --
 When life is lived in a fully conscious way, with wisdom, we can eventually overcome all harmful emotions and behavior. We won’t experience greed, even in the face of lack. Nor will we have ill will, even when confronted by aggression and hostility.
@@ -3731,7 +3731,7 @@ The last decade has seen agile methods move into the mainstream, which means the
 Envio 026707222107 pedido 1202003010665548301 de grupo eci
 /Note on Location 493. [2020-03-05 18:21:37]./
 *** Envio 026707222107 pedido 1202003010665548301 de grupo eci --
-Envio 026707222107 pedido 1202003010665548301 de grupo eci calle castilla 47 saneamientos pereda hacia el oeste izquierda 
+Envio 026707222107 pedido 1202003010665548301 de grupo eci calle castilla 47 saneamientos pereda hacia el oeste izquierda
 /Note on Location 493. [2020-03-05 18:24:00]./
 *** BDD is a mechanism for fostering collaboration and --
 BDD is a mechanism for fostering collaboration and discovery through examples. The goal isn’t generating acceptance criteria or feature files; it isn’t automation; it isn’t testing; although BDD contains elements of all of these. I see teams obsessing about the number or density of feature files, or the degree of automation, or debating the merits of one tool over another. All of this is beside the point. The examples and scenarios of BDD are simply a form of documentation. More documentation isn’t better—better documentation is better! Don’t lose sight of the real goal, which is to use software to create business impact. BDD is just one way of staying focused on that goal, and is only useful to the extent that it helps with this. It isn’t an end in itself.
@@ -4753,8 +4753,8 @@ From this place, being suffocated under a mountain of clutter that must be store
 *** Hobbies are clutter-intensive when the ratio of what you --
 Hobbies are clutter-intensive when the ratio of what you have to what you use climbs—like
 /Highlight on Location 951-952. [2017-01-04 20:58:26]./
-*** 38k approx  --
-38k approx 
+*** 38k approx --
+38k approx
 /Note on Location 990. [2017-01-04 21:12:01]./
 *** earned. --
 earned.
@@ -4829,7 +4829,7 @@ What do you now spend to simply compensate for doing a job that claims the major
 Who is more financially independent—someone who can fix a leaky faucet, or someone who must pay another person to fix it?
 /Highlight on Location 2564-2565. [2017-02-16 10:16:10]./
 *** If that is so, then asking the question “What would this --
-If that is so, then asking the question “What would this expenditure look like if I had the time and skills to maintain my possessions myself?” will lead you toward less dependence on money to fill your needs.  
+If that is so, then asking the question “What would this expenditure look like if I had the time and skills to maintain my possessions myself?” will lead you toward less dependence on money to fill your needs.
 /Highlight on Location 2567-2569. [2017-02-16 10:17:15]./
 * Walpola Rahula
 ** What the Buddha Taught: Revised and Expanded Edition with Texts from Suttas and Dhammapada
@@ -4911,8 +4911,8 @@ There is no unmoving mover behind the movement. It is only movement. It is not c
 *** Now a question may be raised whether life has a beginning. --
 Now a question may be raised whether life has a beginning. According to the Buddha’s teaching the beginning of the life-stream of living beings is unthinkable.
 /Highlight on Location 605-606. [2020-01-26 17:04:16]./
-*** The beginning of life is complex chemistry  --
-The beginning of life is complex chemistry 
+*** The beginning of life is complex chemistry --
+The beginning of life is complex chemistry
 /Note on Location 606. [2020-01-26 17:04:52]./
 *** The Buddha says: ‘O bhikkhus, this cycle of continuity --
 The Buddha says: ‘O bhikkhus, this cycle of continuity (saṃsāra) is without a visible end, and the first beginning of beings wandering and running round, enveloped in ignorance (avijjā) and bound down by the fetters of thirst (desire, taṇhā) is not to be perceived.’
@@ -5058,8 +5058,8 @@ The cost for my survival must have been hundreds of millions of dollars. All to 
 *** 近墨者黑，近朱者赤 --
 近墨者黑，近朱者赤
 /Highlight on Location 4243-4243. [2017-01-31 18:16:14]./
-*** passive aggressive  --
-passive aggressive 
+*** passive aggressive --
+passive aggressive
 /Note on Location 4741. [2017-02-01 14:26:24]./
 *** 宋钢，我相信你，你不会做出对不起我的事 --
 宋钢，我相信你，你不会做出对不起我的事
@@ -5241,8 +5241,8 @@ gghhh
 *** 你已經不想回大學做研究了嗎？」 　　石神搖搖頭。 　　「在大學能做的事，我一個人也能做。 --
 你已經不想回大學做研究了嗎？」 　　石神搖搖頭。 　　「在大學能做的事，我一個人也能做。
 /Highlight on Location 1006-1007. [2019-12-09 12:25:30]./
-*** 靖子在陪酒時代就已領悟到，在外面還能關心別人的男人通常有個幸福家庭。 　　 --
-靖子在陪酒時代就已領悟到，在外面還能關心別人的男人通常有個幸福家庭。 　　
+*** 靖子在陪酒時代就已領悟到，在外面還能關心別人的男人通常有個幸福家庭。 --
+靖子在陪酒時代就已領悟到，在外面還能關心別人的男人通常有個幸福家庭。
 /Highlight on Location 1106-1107. [2019-12-09 19:02:20]./
 *** 幹我們這行本來就得不斷重複這種揮棒落空的滋味。跟你們這種只要道理講得通，就能獲得肯定的世界可是大不相同 --
 幹我們這行本來就得不斷重複這種揮棒落空的滋味。跟你們這種只要道理講得通，就能獲得肯定的世界可是大不相同
@@ -5307,8 +5307,8 @@ gghhh
 *** 被殺的是富樫慎二，可疑的是花岡靖子，他故意製造出這種構圖，好讓警方無法排除這個刻板概念 --
 被殺的是富樫慎二，可疑的是花岡靖子，他故意製造出這種構圖，好讓警方無法排除這個刻板概念
 /Highlight on Location 3056-3057. [2019-12-14 13:23:47]./
-*** 看似不在場證明的障眼法，其實障眼法是設計在隱瞞死者身分的部份。」 　　 --
-看似不在場證明的障眼法，其實障眼法是設計在隱瞞死者身分的部份。」 　　
+*** 看似不在場證明的障眼法，其實障眼法是設計在隱瞞死者身分的部份。」 --
+看似不在場證明的障眼法，其實障眼法是設計在隱瞞死者身分的部份。」
 /Highlight on Location 3062-3063. [2019-12-14 13:25:42]./
 *** 她的確感到奇怪，警方為何問的是犯案翌日的不在場證明 --
 她的確感到奇怪，警方為何問的是犯案翌日的不在場證明
