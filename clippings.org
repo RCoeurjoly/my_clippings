@@ -1,8 +1,8 @@
 * A. D. Aleksandrov;A. N. Kolmogorov;M. A. Lavrent’ev
 ** Mathematics: Its Content, Methods and Meaning (Dover Books on Mathematics)
 *** one of the fundamental laws of formation of mathematical --
-one of the fundamental laws of formation of mathematical concepts: They are brought into being by a series of successive abstractions and generalizations, each resting on a combination of experience with preceding abstract concepts.
-/#735-736的标注. [2019-07-07 19:08:29]./
+    one of the fundamental laws of formation of mathematical concepts: They are brought into being by a series of successive abstractions and generalizations, each resting on a combination of experience with preceding abstract concepts.
+    /#735-736的标注. [2019-07-07 19:08:29]./
 *** The interaction of mathematical theories leads to advances --
 The interaction of mathematical theories leads to advances in mathematics itself and also uncovers a rich treasure of mutual relations in the actual world reflected by the these theories.
 /Highlight on Location 872-873. [2019-09-13 17:20:40]./
@@ -457,38 +457,6 @@ Knowing the rules and strengths and weaknesses of different types of accounts ca
 *** The “saving and waiting” part of FI is long. It’s also --
 The “saving and waiting” part of FI is long. It’s also your life, so learn to enjoy it.
 /Highlight on Location 1732-1733. [2017-03-27 18:44:58]./
-* Cao XueQing
-** 世界少年文学经典文库：红楼梦
-*** 贾宝玉是小说的核心人物。 --
-贾宝玉是小说的核心人物。
-/Highlight on Location 32-32. [2019-11-26 19:04:37]./
-*** 女儿是水做的骨肉，男人是泥做的骨肉，我见了女儿便清爽，见了男子便觉得浊臭逼人 --
-女儿是水做的骨肉，男人是泥做的骨肉，我见了女儿便清爽，见了男子便觉得浊臭逼人
-/Highlight on Location 34-35. [2019-11-26 19:05:18]./
-*** 他虽取了功名，但终离了俗世，归僧归道 --
-他虽取了功名，但终离了俗世，归僧归道
-/Highlight on Location 37-38. [2019-11-26 19:06:27]./
-*** 她喜静不喜动，喜散不喜聚。 --
-她喜静不喜动，喜散不喜聚。
-/Highlight on Location 43-43. [2019-11-26 19:08:01]./
-*** 曹雪芹一生恰好经历了曹家盛极而衰的过程。 --
-曹雪芹一生恰好经历了曹家盛极而衰的过程。
-/Highlight on Location 57-58. [2019-11-26 19:18:28]./
-*** 举家食粥酒常赊 --
-举家食粥酒常赊
-/Highlight on Location 59-59. [2019-11-26 19:19:03]./
-*** 举家食粥酒常赊” --
-举家食粥酒常赊”
-/Highlight on Location 59-59. [2019-11-26 19:19:10]./
-*** 坐于石边高谈阔论。此石听了，不觉打动凡心，也想要到人间去享一享这荣华富贵。 --
-坐于石边高谈阔论。此石听了，不觉打动凡心，也想要到人间去享一享这荣华富贵。 两位仙人听了笑道：“那红尘中有些乐事，但不能永远依恃，瞬息间则又乐极悲生，终究是到头一梦，还不如不去的好。
-/Highlight on Location 102-104. [2019-11-26 19:26:23]./
-*** 一味崇仙好道，只爱烧丹炼汞，余者一概不在心上。 --
-一味崇仙好道，只爱烧丹炼汞，余者一概不在心上。
-/Highlight on Location 128-128. [2019-11-27 19:37:55]./
-*** 不以功名为念，每日只以观花修竹，酌酒吟诗为乐， --
-不以功名为念，每日只以观花修竹，酌酒吟诗为乐，
-/Highlight on Location 139-139. [2019-11-27 19:40:43]./
 * Carl Sagan
 ** Cosmos
 *** Technological advance required the freest possible pursuit --
@@ -1410,7 +1378,7 @@ What does a walkaway do when she can't walk away?
 What's more pathetic than a walkaway who stops walking?
 /Highlight on Location 3298-3298. [2020-04-08 23:15:45]./
 * Culadasa John Yates;Matthew Immergut;Jeremy Graves
-** Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science, The
+** Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science, The :spirituality:meditation:
 ***  --
 
 /#6225 的书签. [2018-08-06 13:12:54]./
@@ -2850,7 +2818,7 @@ Side effects are lies. Your function promises to do one thing, but it also does 
 Side effects are lies. Your function promises to do one thing, but it also does other hidden things. Sometimes it will make unexpected changes to the variables of its own class. Sometimes it will make them to the parameters passed into the function or to system globals.
 /Highlight on Location 1626-1628. [2019-10-04 8:48:14]./
 *** This side effect creates a temporal coupling. That is, --
-This side effect creates a temporal coupling. That is, checkPassword can only be called at certain times (in other words, when it is safe to initialize the session).
+    This side effect creates a temporal coupling. That is, checkPassword can only be called at certain times (in other words, when it is safe to initialize the session).
 /Highlight on Location 1645-1646. [2019-10-04 8:50:36]./
 *** This side effect creates a temporal coupling. That is, --
 This side effect creates a temporal coupling. That is, checkPassword can only be called at certain times (in other words, when it is safe to initialize the session). If it is called out of order, session data may be inadvertently lost. Temporal couplings are confusing, especially when hidden as a side effect.
@@ -3153,8 +3121,8 @@ this unquestioning acceptance, and refusal to envision alternative explanations,
 * Rutger Bregman
 ** Utopia for Realists
 *** we blame collective problems like unemployment, --
-we blame collective problems like unemployment, dissatisfaction, and depression on the individual. If success is a choice, then so is failure.
-/Highlight on Location 240-241. [2017-01-25 7:56:33]./
+    we blame collective problems like unemployment, dissatisfaction, and depression on the individual. If success is a choice, then so is failure.
+    /Highlight on Location 240-241. [2017-01-25 7:56:33]./
 *** And why is more than 60% of your income dependent on the --
 And why is more than 60% of your income dependent on the country where you just happen to have been born?34
 /Highlight on Location 294-295. [2017-01-25 8:05:44]./
@@ -3443,37 +3411,25 @@ A deliberate and wise application of attention is the root skill that every medi
 *** Once you learn the techniques, you should be able to get --
 Once you learn the techniques, you should be able to get to a point at which you can have lucid dreams any time you wish just by reminding yourself that you can do so.
 /#557-558的标注. [2018-08-03 18:21:08]./
-***  --
-
-/#1008 的书签. [2018-08-05 16:42:43]./
-***  --
-
-/#1008 的书签. [2018-08-05 17:05:15]./
 *** self- actualization, the need to fulfill one’s unique --
 self- actualization, the need to fulfill one’s unique potential.
 /Highlight on Location 1814-1814. [2019-09-15 23:13:11]./
-*** “What bread looks like depends upon whether you are --
-“What bread looks like depends upon whether you are hungry or not.”
+*** “What bread looks like depends upon whether you are --
+“What bread looks like depends upon whether you are hungry or not.”
 /Highlight on Location 1818-1819. [2019-09-15 23:14:01]./
 *** A schema is a model of, or theory about, some part of the --
 A schema is a model of, or theory about, some part of the world. It is “a kind of informal, private unarticulated theory about the nature of events, objects, or situations which we face. The total set of schemas we have available for interpreting our world,” writes the Stanford psychologist David Rumelhart, “in a sense constitutes our private theory of the nature of reality.”4
 /Highlight on Location 1832-1835. [2019-09-17 8:58:32]./
-*** “Dreams are real while they last, can we say more of --
+*** “Dreams are real while they last, can we say more of --
 “Dreams are real while they last, can we say more of life?”1
 /Highlight on Location 2429-2430. [2019-09-17 9:16:58]./
 *** Peak performers, he found, were relaxed, confident, --
 Peak performers, he found, were relaxed, confident, optimistic, focused on the present, highly energized, extremely aware of the environment, in control, and completely in touch with their powers and skills.1
 /Highlight on Location 2697-2699. [2019-09-17 9:19:13]./
 *** Dreams are the most vivid type of mental imagery most --
-Dreams are the most vivid type of mental imagery most people are likely to experience.
-/Highlight on Location 2712-2713. [2019-09-17 9:21:57]./
-*** Dreams are the most vivid type of mental imagery most --
-Dreams are the most vivid type of mental imagery most people are likely to experience. The more the mental rehearsal of a skill feels like the real thing, the greater the effect it is likely to have on waking performance. Because of this, lucid dreaming, in which
-/Highlight on Location 2712-2714. [2019-09-17 9:23:19]./
-*** Dreams are the most vivid type of mental imagery most --
 Dreams are the most vivid type of mental imagery most people are likely to experience. The more the mental rehearsal of a skill feels like the real thing, the greater the effect it is likely to have on waking performance.
 /Highlight on Location 2712-2713. [2019-09-17 9:23:22]./
-*** “sensory-motor skills which have already been mastered in --
+*** “sensory-motor skills which have already been mastered in --
 “sensory-motor skills which have already been mastered in their rough outlines can be optimized by using lucid dreams.”
 /Highlight on Location 2768-2769. [2019-09-21 17:52:12]./
 * Steven Pinker
@@ -3527,58 +3483,10 @@ Because the cultures of politics and journalism are largely innocent of the scie
 For it requires only the convictions that life is better than death, health is better than sickness, abundance is better than want, freedom is better than coercion, happiness is better than suffering, and knowledge is better than superstition and ignorance.
 /Highlight on Location 8741-8742. [2019-07-04 16:56:32]./
 * Unknown
-** (Exploring the Basic Income Guarantee) Guinevere Liberty Nell-Basic Income and the Free Market_ Austrian Economics and the Potential for Efficient Redi
-*** Early Austrian economists such as Menger, and later Hayek, --
-Early Austrian economists such as Menger, and later Hayek, maintained t he view t hat some inter vent ion was necessar y to “repair” damage done by past interventions, or to distribute the natural resources of the planet to its inhabitants
-/Highlight on page 4-4. [2017-01-28 16:00:48]./
-*** No economy today, and probably no economy ever, was a good --
-No economy today, and probably no economy ever, was a good approximation of the theoretical free market system, with equal starting positions and equality of opportunity
-/Highlight on page 4-4. [2017-01-28 16:01:53]./
-*** No government or anarchic system ever protected private --
-No government or anarchic system ever protected private property rights only and interfered in no other way; yet even if it did, it would have evolved from an earlier system that was imperfect in its approximation of free exchange
-/Highlight on page 4-4. [2017-01-28 16:02:12]./
-*** Developed economies such as the United States are inf --
-Developed economies such as the United States are inf luenced by rent-seeking and corporatism today, in addition to emerging from historical economies that were dominated by a slave-holding elite protected by the state. Austrians must acknowledge the nature of these past economies and the system, which has evolved out of them, that exists today. No economy today approximates a free market. Imperfect as it may be, the BIG may prove to be less imperfect, by many measures, than many existing and proposed policies
-/Highlight on page 4-4. [2017-01-28 16:04:58]./
-*** find (in Keynes’ words) a new way to “combine three --
-find (in Keynes’ words) a new way to “combine three things: economic efficiency, social justice and individual liberty.”
-/Highlight on page 9-9. [2017-01-28 16:25:06]./
-*** markets provide “an excellent way of processing --
-markets provide “an excellent way of processing information, while simultaneously providing incentives to act upon it.”
-/Highlight on page 10-10. [2017-01-28 16:26:24]./
-** (Little Books. Big Profits) Joel Greenblatt-The Little Book That Beats the Market-Wiley (2006)
-*** Another problem with these simple methods is that, though --
-Another problem with these simple methods is that, though they work well, they work far better with smallerand medium-capitalization stocks than with larger stocks. This should not be surprising, either. Companies that are
-/Highlight on page 172-172. [2019-09-09 8:34:32]./
-*** too small for professionals to buy and that are not large --
-too small for professionals to buy and that are not large enough to generate sufficient commission revenue to justify analyst coverage are more likely to be ignored or misunderstood. As a result, they are more likely to present opportunities to find bargain-priced stocks. This was the case in the magic formula study. The formula achieved the greatest performance with the smallest-capitalization stocks studied.
-/Highlight on page 173-173. [2019-09-09 8:34:47]./
-*** To utilize the magic formula strategy successfully, you --
-To utilize the magic formula strategy successfully, you must understand only two basic concepts. First, buying good companies at bargain prices makes sense. On average, this is what the magic formula does. Second, it can take Mr. Market several years to recognize a bargain. Therefore, the magic formula strategy requires patience
-/Highlight on page 161-161. [2019-09-09 8:50:08]./
 ** 8a2505c9-aadf-4cf8-87b5-d61867500f49-3
 *** lapis lazuli mine culture here. There are gangs that prey --
 lapis lazuli mine culture here. There are gangs that prey on solo workers
 /Highlight on Location 1403-1403. [2019-05-19 15:44:53]./
-** [Xiong Di ].Yu Hua .Wen Zi Ban  - Unknown
-*** 英雄难 过美人关啊 --
-英雄难 过美人关啊
-/Highlight on page 20-20. [2017-01-10 17:58:42]./
-*** 男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里。” 童铁匠像个阔佬似的走进人民饭店，他坐下来以后就是个 --
-男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里。” 童铁匠像个阔佬似的走进人民饭店，他坐下来以后就是个 小气鬼了，他没有给李光头要一碗三鲜面，给他要了一碗阳春面。 李光头心里哼了一声，没有说话。等到阳春面端上来了，李光头 拿起筷子呼呼地吃了起来，吃得满头大汗，吃得鼻涕都流出来了。
-/Highlight on page 27-27. [2017-01-10 18:11:17]./
-*** 男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里 --
-男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里
-/Highlight on page 27-27. [2017-01-10 18:11:44]./
-*** 肉有肉价，菜有菜价 --
-肉有肉价，菜有菜价
-/Highlight on page 29-29. [2017-01-10 18:14:44]./
-*** 文章是自己的好，老婆是别人的好。 --
-文章是自己的好，老婆是别人的好。
-/Highlight on page 35-35. [2017-01-11 14:39:27]./
-*** 拖油瓶 --
-拖油瓶
-/Highlight on page 71-71. [2017-01-14 18:30:08]./
 ** gnu.org
 *** C-c C-t     (org-todo) Changing the TODO state of an item --
 C-c C-t     (org-todo) Changing the TODO state of an item to DONE automatically stops the clock if it is running in this same item.
@@ -3689,31 +3597,6 @@ When your mind has developed this wisdom of anatta, sometimes you don’t
 *** When your mind has developed this wisdom of anatta, --
 When your mind has developed this wisdom of anatta, sometimes you don’t even know your name
 /55-55 页的标注. [2019-01-18 8:11:37]./
-** mergedLLPSI
-***  --
-
-/Bookmark on page 34. [2017-04-26 10:19:16]./
-***  --
-
-/Bookmark on page 34. [2017-04-26 10:20:09]./
-***  --
-
-/Bookmark on page 35. [2017-04-26 10:20:29]./
-***  --
-
-/Bookmark on page 36. [2017-04-26 10:20:43]./
-***  --
-
-/Bookmark on page 37. [2017-04-26 10:20:54]./
-***  --
-
-/Bookmark on page 39. [2017-04-26 10:22:06]./
-***  --
-
-/Bookmark on page 41. [2017-04-26 10:22:25]./
-***  --
-
-/Bookmark on page 46. [2017-04-26 10:22:46]./
 ** Unknown
 *** the context in which BDD was born. It was a response to a --
 the context in which BDD was born. It was a response to a triple conundrum: programmers didn’t want to write tests; testers didn’t want programmers writing tests; and business stakeholders didn’t see any value in anything that wasn’t production code. I didn’t think I was inventing a methodology—I was just trying to teach TDD to a bunch of programmers without scaring off the testers.
@@ -3736,9 +3619,6 @@ Envio 026707222107 pedido 1202003010665548301 de grupo eci calle castilla 47 san
 *** BDD is a mechanism for fostering collaboration and --
 BDD is a mechanism for fostering collaboration and discovery through examples. The goal isn’t generating acceptance criteria or feature files; it isn’t automation; it isn’t testing; although BDD contains elements of all of these. I see teams obsessing about the number or density of feature files, or the degree of automation, or debating the merits of one tool over another. All of this is beside the point. The examples and scenarios of BDD are simply a form of documentation. More documentation isn’t better—better documentation is better! Don’t lose sight of the real goal, which is to use software to create business impact. BDD is just one way of staying focused on that goal, and is only useful to the extent that it helps with this. It isn’t an end in itself.
 /Highlight on Location 494-500. [2020-03-05 18:25:19]./
-***  --
-
-/Bookmark on Location 506. [2020-03-05 18:34:04]./
 *** We even found a number of errors in the specifications --
 We even found a number of errors in the specifications along the way!
 /Highlight on Location 513-513. [2020-03-05 19:01:37]./
@@ -3841,9 +3721,6 @@ Executable specifications like this are similar to conventional unit tests, but 
 *** Writing low-level executable specifications this way is a --
 Writing low-level executable specifications this way is a little like writing detailed design documentation, with lots of examples, but using a tool that’s easy and even fun for developers.
 /Highlight on Location 1105-1106. [2020-03-14 11:18:27]./
-***  --
-
-/Highlight on Location 1126. [2020-03-14 11:27:00]./
 *** Experienced teams organize this documentation so that it’s --
 Experienced teams organize this documentation so that it’s easy to read and easy for everyone involved in the project to use (see figure 1.12). Developers can consult it to see how existing features work. Testers and business analysts can see how the features they specified have been implemented. Product owners and project managers can use summary views to judge the current state of the project, view progress, and decide what features can be released into production. Users can even use it to see what the application can do and how it works.
 /Highlight on Location 1126-1130. [2020-03-14 11:29:41]./
@@ -3954,7 +3831,7 @@ the networked environment makes possible a new modality of organizing production
 *** 如何應對「中國因素」 —— 一個結合威權政治和經濟實力的天朝宗主，是我 們這一代香港人的時代挑戰。 --
 如何應對「中國因素」 —— 一個結合威權政治和經濟實力的天朝宗主，是我 們這一代香港人的時代挑戰。
 /Highlight on page 13-13. [2020-01-03 14:20:47]./
-** 中华成语大词典 v1.0 - by kindlefere.com
+** 中华成语大词典
 *** 一路货色、 --
 一路货色、
 /#58-58的标注. [2019-07-08 17:40:11]./
@@ -3974,6 +3851,37 @@ the networked environment makes possible a new modality of organizing production
 *** 英国哲学家培根说“一切知识不过是记忆”。 --
 英国哲学家培根说“一切知识不过是记忆”。
 /Highlight on page 2. [2019-09-12 18:01:16]./
+* Guinevere Liberty Nell
+** Basic Income and the Free Market: Austrian Economics and the Potential for Efficient Redistribution (Exploring the Basic Income Guarantee)
+*** Early Austrian economists such as Menger, and later Hayek, --
+ Early Austrian economists such as Menger, and later Hayek, maintained t he view t hat some inter vent ion was necessar y to “repair” damage done by past interventions, or to distribute the natural resources of the planet to its inhabitants
+ /Highlight on page 4-4. [2017-01-28 16:00:48]./
+*** No economy today, and probably no economy ever, was a good --
+ No economy today, and probably no economy ever, was a good approximation of the theoretical free market system, with equal starting positions and equality of opportunity
+ /Highlight on page 4-4. [2017-01-28 16:01:53]./
+*** No government or anarchic system ever protected private --
+ No government or anarchic system ever protected private property rights only and interfered in no other way; yet even if it did, it would have evolved from an earlier system that was imperfect in its approximation of free exchange
+ /Highlight on page 4-4. [2017-01-28 16:02:12]./
+*** Developed economies such as the United States are inf --
+ Developed economies such as the United States are inf luenced by rent-seeking and corporatism today, in addition to emerging from historical economies that were dominated by a slave-holding elite protected by the state. Austrians must acknowledge the nature of these past economies and the system, which has evolved out of them, that exists today. No economy today approximates a free market. Imperfect as it may be, the BIG may prove to be less imperfect, by many measures, than many existing and proposed policies
+ /Highlight on page 4-4. [2017-01-28 16:04:58]./
+*** find (in Keynes’ words) a new way to “combine three --
+ find (in Keynes’ words) a new way to “combine three things: economic efficiency, social justice and individual liberty.”
+ /Highlight on page 9-9. [2017-01-28 16:25:06]./
+*** markets provide “an excellent way of processing --
+ markets provide “an excellent way of processing information, while simultaneously providing incentives to act upon it.”
+ /Highlight on page 10-10. [2017-01-28 16:26:24]./
+* Joel Greenblatt
+** The Little Book That Beats the Market
+*** Another problem with these simple methods is that, though --
+ Another problem with these simple methods is that, though they work well, they work far better with smallerand medium-capitalization stocks than with larger stocks. This should not be surprising, either. Companies that are
+ /Highlight on page 172-172. [2019-09-09 8:34:32]./
+*** too small for professionals to buy and that are not large --
+ too small for professionals to buy and that are not large enough to generate sufficient commission revenue to justify analyst coverage are more likely to be ignored or misunderstood. As a result, they are more likely to present opportunities to find bargain-priced stocks. This was the case in the magic formula study. The formula achieved the greatest performance with the smallest-capitalization stocks studied.
+ /Highlight on page 173-173. [2019-09-09 8:34:47]./
+*** To utilize the magic formula strategy successfully, you --
+ To utilize the magic formula strategy successfully, you must understand only two basic concepts. First, buying good companies at bargain prices makes sense. On average, this is what the magic formula does. Second, it can take Mr. Market several years to recognize a bargain. Therefore, the magic formula strategy requires patience
+ /Highlight on page 161-161. [2019-09-09 8:50:08]./
 * Updike, John, Thoreau, Henry David, Shanley, J. Lyndon
 ** Walden
 *** Most of the luxuries, and many of the so called comforts --
@@ -5027,6 +4935,38 @@ It wouldn’t be so bad if the MAV blew up. I wouldn’t know what hit me, but i
 *** The cost for my survival must have been hundreds of --
 The cost for my survival must have been hundreds of millions of dollars. All to save one dorky botanist. Why bother? Well, okay. I know the answer to that. Part of it might be what I represent: progress, science, and the interplanetary future we’ve dreamed of for centuries. But really, they did it because every human being has a basic instinct to help each other out. It might not seem that way sometimes, but it’s true.
 /Highlight on Location 5752-5756. [2019-12-18 18:55:10]./
+* 曹雪芹
+** 世界少年文学经典文库：红楼梦
+*** 贾宝玉是小说的核心人物。 --
+贾宝玉是小说的核心人物。
+/Highlight on Location 32-32. [2019-11-26 19:04:37]./
+*** 女儿是水做的骨肉，男人是泥做的骨肉，我见了女儿便清爽，见了男子便觉得浊臭逼人 --
+女儿是水做的骨肉，男人是泥做的骨肉，我见了女儿便清爽，见了男子便觉得浊臭逼人
+/Highlight on Location 34-35. [2019-11-26 19:05:18]./
+*** 他虽取了功名，但终离了俗世，归僧归道 --
+他虽取了功名，但终离了俗世，归僧归道
+/Highlight on Location 37-38. [2019-11-26 19:06:27]./
+*** 她喜静不喜动，喜散不喜聚。 --
+她喜静不喜动，喜散不喜聚。
+/Highlight on Location 43-43. [2019-11-26 19:08:01]./
+*** 曹雪芹一生恰好经历了曹家盛极而衰的过程。 --
+曹雪芹一生恰好经历了曹家盛极而衰的过程。
+/Highlight on Location 57-58. [2019-11-26 19:18:28]./
+*** 举家食粥酒常赊 --
+举家食粥酒常赊
+/Highlight on Location 59-59. [2019-11-26 19:19:03]./
+*** 举家食粥酒常赊” --
+举家食粥酒常赊”
+/Highlight on Location 59-59. [2019-11-26 19:19:10]./
+*** 坐于石边高谈阔论。此石听了，不觉打动凡心，也想要到人间去享一享这荣华富贵。 --
+坐于石边高谈阔论。此石听了，不觉打动凡心，也想要到人间去享一享这荣华富贵。 两位仙人听了笑道：“那红尘中有些乐事，但不能永远依恃，瞬息间则又乐极悲生，终究是到头一梦，还不如不去的好。
+/Highlight on Location 102-104. [2019-11-26 19:26:23]./
+*** 一味崇仙好道，只爱烧丹炼汞，余者一概不在心上。 --
+一味崇仙好道，只爱烧丹炼汞，余者一概不在心上。
+/Highlight on Location 128-128. [2019-11-27 19:37:55]./
+*** 不以功名为念，每日只以观花修竹，酌酒吟诗为乐， --
+不以功名为念，每日只以观花修竹，酌酒吟诗为乐，
+/Highlight on Location 139-139. [2019-11-27 19:40:43]./
 * 万维钢
 ** 高手：精英的见识和我们的时代
 *** 精英爱谈论想法，而普通人爱谈论人和东 --
@@ -5041,7 +4981,7 @@ The cost for my survival must have been hundreds of millions of dollars. All to 
 *** 相对于普通人，精英更相信规则，更能跟陌生人合作，更善于理解抽象概念，更愿意探索未知，更能承担风险 --
 相对于普通人，精英更相信规则，更能跟陌生人合作，更善于理解抽象概念，更愿意探索未知，更能承担风险
 /Highlight on page 50. [2019-10-16 8:27:56]./
-* 余华
+* 余華
 ** 兄弟
 *** 还 --
 还
@@ -5091,11 +5031,28 @@ passive aggressive
 *** 锦上添花 --
 锦上添花
 /Highlight on Location 9102-9103. [2017-02-11 22:12:20]./
+*** 英雄难 过美人关啊 --
+ 英雄难 过美人关啊
+ /Highlight on page 20-20. [2017-01-10 17:58:42]./
+*** 男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里。” 童铁匠像个阔佬似的走进人民饭店，他坐下来以后就是个 --
+ 男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里。” 童铁匠像个阔佬似的走进人民饭店，他坐下来以后就是个 小气鬼了，他没有给李光头要一碗三鲜面，给他要了一碗阳春面。 李光头心里哼了一声，没有说话。等到阳春面端上来了，李光头 拿起筷子呼呼地吃了起来，吃得满头大汗，吃得鼻涕都流出来了。
+ /Highlight on page 27-27. [2017-01-10 18:11:17]./
+*** 男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里 --
+ 男人嘛，”童铁匠低声说，“都是吃着碗里，看着锅 里
+ /Highlight on page 27-27. [2017-01-10 18:11:44]./
+*** 肉有肉价，菜有菜价 --
+ 肉有肉价，菜有菜价
+ /Highlight on page 29-29. [2017-01-10 18:14:44]./
+*** 文章是自己的好，老婆是别人的好。 --
+ 文章是自己的好，老婆是别人的好。
+ /Highlight on page 35-35. [2017-01-11 14:39:27]./
+*** 拖油瓶 --
+ 拖油瓶
+ /Highlight on page 71-71. [2017-01-14 18:30:08]./
 ** 第七天
 *** 层峦叠翠的 --
 层峦叠翠的
 /Highlight on page 74. [2018-04-10 20:17:44]./
-* 余華
 ** 許三觀賣血記
 *** 在水裡 --
 在水裡
@@ -5166,14 +5123,6 @@ gghhh
 *** 屌毛出得比眉毛晚，長得倒比眉毛長 --
 屌毛出得比眉毛晚，長得倒比眉毛長
 /Highlight on Location 2782-2783. [2019-08-27 11:24:08]./
-* 出版社：不知
-** 知鱼之乐
-*** 试问哪个人敢整天躺在床上以懒惰策略求生？纵然是百万富翁 --
-试问哪个人敢整天躺在床上以懒惰策略求生？纵然是百万富翁
-/Highlight on Location 199-199. [2017-04-04 10:17:48]./
-*** 出于同一缘故，革新者的命运通常不佳，他们的毕生努力大多流于枉费心机 --
-出于同一缘故，革新者的命运通常不佳，他们的毕生努力大多流于枉费心机
-/Highlight on Location 369-370. [2017-04-05 10:04:44]./
 * 古龍
 ** 楚留香傳奇‧血海飄香
 *** 好花多刺 --
@@ -5343,6 +5292,13 @@ gghhh
 *** 恬淡 --
 恬淡
 /Highlight on Location 891-892. [2017-04-12 15:09:03]./
+** 知鱼之乐
+*** 试问哪个人敢整天躺在床上以懒惰策略求生？纵然是百万富翁 --
+试问哪个人敢整天躺在床上以懒惰策略求生？纵然是百万富翁
+/Highlight on Location 199-199. [2017-04-04 10:17:48]./
+*** 出于同一缘故，革新者的命运通常不佳，他们的毕生努力大多流于枉费心机 --
+出于同一缘故，革新者的命运通常不佳，他们的毕生努力大多流于枉费心机
+/Highlight on Location 369-370. [2017-04-05 10:04:44]./
 * 王小波
 ** 黃金時代
 *** 後進式，側進式，女上位 --
@@ -5365,7 +5321,7 @@ gghhh
 *** 。 　　江雁容和周雅安走了進來，康南接過記錄本，大致的看了看，導師訓話及開會經過都簡單而扼 --
 。 　　江雁容和周雅安走了進來，康南接過記錄本，大致的看了看，導師訓話及開會經過都簡單而扼
 /Highlight on Location 320-321. [2017-06-04 22:35:21]./
-* 电子书免费赠送:行行微信491256034
+* 毕飞宇
 ** 推拿
 *** 人就是这样，一旦有了信仰，他就有决心与毅力去浪费时光。 --
 人就是这样，一旦有了信仰，他就有决心与毅力去浪费时光。
@@ -5963,7 +5919,7 @@ gghhh
 *** 不要乱想，静静的养！养肥了，他们是自然可以多吃 --
 不要乱想，静静的养！养肥了，他们是自然可以多吃
 /Highlight on Location 9018-9019. [2019-11-04 10:02:34]./
-* （春秋）老子
+* 老子
 ** 彩图全解道德经 (国学典藏)
 *** 道的原始是空无，我们要想体认大道，就必须抛却所有的杂念，将自己回复到毫无思想意识的婴儿时期，达到一种完全虚无的境界， --
 道的原始是空无，我们要想体认大道，就必须抛却所有的杂念，将自己回复到毫无思想意识的婴儿时期，达到一种完全虚无的境界，只有这样，我们才能真正体悟到道的奥妙和玄机
