@@ -3014,55 +3014,6 @@ Dreams are the most vivid type of mental imagery most people are likely to exper
 “sensory-motor skills which have already been mastered in their rough outlines can be optimized by using lucid dreams.”
 /Highlight on Location 2768-2769. [2019-09-21 17:52:12]./
 * Steven Pinker
-** Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
-*** faith, namely believing something without a good reason. --
-faith, namely believing something without a good reason.
-/Highlight on Location 6648-6648. [2019-06-29 18:53:06]./
-*** superforecasters were: pragmatic experts who drew on many --
-superforecasters were: pragmatic experts who drew on many analytical tools, with the choice of tool hinging on the particular problem they faced. These experts gathered as much information from as many sources as they could. When thinking, they often shifted mental gears, sprinkling their speech with transition markers such as “however,” “but,” “although,” and “on the other hand.” They talked about possibilities and probabilities, not certainties. And while no one likes to say “I was wrong,” these experts more readily admitted it and changed their minds.
-/Highlight on Location 7009-7013. [2019-06-30 18:22:04]./
-*** They have personality traits that psychologists call --
-They have personality traits that psychologists call “openness to experience” (intellectual curiosity and a taste for variety), “need for cognition” (pleasure taken in intellectual activity), and “integrative complexity” (appreciating uncertainty and seeing multiple sides).
-/Highlight on Location 7016-7018. [2019-06-30 18:22:45]./
-*** They are anti-impulsive, distrusting their first gut --
-They are anti-impulsive, distrusting their first gut feeling.
-/Highlight on Location 7018-7018. [2019-06-30 18:23:00]./
-*** People should take into consideration evidence that goes --
-People should take into consideration evidence that goes against their beliefs.
-/Highlight on Location 7024-7024. [2019-06-30 18:23:46]./
-*** It is more useful to pay attention to those who disagree --
-It is more useful to pay attention to those who disagree with you than to pay attention to those who agree.
-/Highlight on Location 7025-7025. [2019-06-30 18:24:10]./
-*** manner of reasoning. Superforecasters are Bayesian, --
-manner of reasoning. Superforecasters are Bayesian, tacitly using the rule from the eponymous Reverend Bayes on how to update one’s degree of credence in a proposition in light of new evidence. They begin with the base rate for the event in question: how often it is expected to occur across the board and over the long run. Then they nudge that estimate up or down depending on the degree to which new evidence portends the event’s occurrence or non-occurrence. They seek this new evidence avidly, and avoid both overreacting to it (“This changes everything!”) and underreacting
-/Highlight on Location 7028-7032. [2019-06-30 18:27:06]./
-*** Changing your mind is a sign of weakness. [Disagree] --
-Changing your mind is a sign of weakness. [Disagree] Intuition is the best guide in making decisions. [Disagree] It is important to persevere in your beliefs even when evidence is brought to bear against them. [Disagree]
-/Highlight on Location 7026-7028. [2019-06-30 18:27:27]./
-*** Tragedy of the Belief Commons --
-Tragedy of the Belief Commons
-/Highlight on Location 7170-7170. [2019-06-30 20:27:55]./
-*** identity-protective cognition, motivated reasoning, and --
-identity-protective cognition, motivated reasoning, and cognitive dissonance reduction.
-/Highlight on Location 7192-7192. [2019-06-30 20:31:09]./
-*** (progress, funeral by funeral). --
-(progress, funeral by funeral).
-/Highlight on Location 7200-7200. [2019-06-30 20:32:07]./
-*** Voters have a say on issues that don’t affect them --
-Voters have a say on issues that don’t affect them personally, and never have to inform themselves or justify their positions.
-/Highlight on Location 7276-7277. [2019-07-01 14:44:42]./
-*** possibly one of a vast number of universes. We know that --
-possibly one of a vast number of universes. We know that our intuitions about space, time, matter, and causation are incommensurable with the nature of reality on scales that are very large and very small. We know that the laws governing the physical
-/Highlight on Location 7518-7520. [2019-07-01 21:34:01]./
-*** We know that our intuitions about space, time, matter, and --
-We know that our intuitions about space, time, matter, and causation are incommensurable with the nature of reality on scales that are very large and very small.
-/Highlight on Location 7519-7520. [2019-07-01 21:34:07]./
-*** Because the cultures of politics and journalism are --
-Because the cultures of politics and journalism are largely innocent of the scientific mindset, questions with massive consequences for life and death are answered by methods that we know lead to error, such as anecdotes, headlines, rhetoric, and what engineers call HiPPO (highest-paid person’s opinion).
-/Highlight on Location 7723-7725. [2019-07-02 12:12:52]./
-*** For it requires only the convictions that life is better --
-For it requires only the convictions that life is better than death, health is better than sickness, abundance is better than want, freedom is better than coercion, happiness is better than suffering, and knowledge is better than superstition and ignorance.
-/Highlight on Location 8741-8742. [2019-07-04 16:56:32]./
 * Unknown
 ** 8a2505c9-aadf-4cf8-87b5-d61867500f49-3
 *** lapis lazuli mine culture here. There are gangs that prey --
