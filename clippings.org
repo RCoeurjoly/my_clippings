@@ -25,7 +25,7 @@ the most important property of the system of real numbers, its continuity.
 ** Structure and Interpretation of Computer Programs
 *** complex programs are constructed by building, step by --
 complex programs are constructed by building, step by step, computational objects of increasing complexity.
-/Highlight on Location 450-450. [2020-01-28 8:40:52]./
+/Highlight on Location 450-450. [2020-01-28 08:40:52]./
 * Alfie Kohn
 ** No Contest
 *** “he cannot imagine its absence, so he cannot consider its --
@@ -36,19 +36,19 @@ a look at what it really means to try to beat other people, a careful investigat
 /Highlight on Location 73-74. [2019-11-28 23:48:18]./
 *** To say that an activity is structurally competitive is to --
 To say that an activity is structurally competitive is to say that it is characterized by what I will call mutually exclusive goal attainment
-/Highlight on Location 118-119. [2019-11-29 9:33:53]./
+/Highlight on Location 118-119. [2019-11-29 09:33:53]./
 *** This means, very simply, that my success requires your --
 This means, very simply, that my success requires your failure.
-/Highlight on Location 119-120. [2019-11-29 9:34:05]./
+/Highlight on Location 119-120. [2019-11-29 09:34:05]./
 *** Our fates are negatively linked. --
 Our fates are negatively linked.
-/Highlight on Location 120-120. [2019-11-29 9:34:11]./
+/Highlight on Location 120-120. [2019-11-29 09:34:11]./
 *** If I must try to defeat you in order to get what I want, --
 If I must try to defeat you in order to get what I want, then what I want is scarce by definition.
-/Highlight on Location 124-124. [2019-11-29 9:36:23]./
+/Highlight on Location 124-124. [2019-11-29 09:36:23]./
 *** How can we do our best when we are spending our energies --
 How can we do our best when we are spending our energies trying to make others lose—and fearing that they will make us lose?
-/Highlight on Location 214-214. [2019-11-29 9:57:03]./
+/Highlight on Location 214-214. [2019-11-29 09:57:03]./
 *** intentional competition could be understood in terms of --
 intentional competition could be understood in terms of self-esteem needs: we try to beat others in an effort to prove our own worth. Ultimately this strategy reveals itself as futile, since making our self-esteem contingent on winning means that it will always be in doubt. The more we compete, the more we need to compete.
 /Highlight on Location 3604-3606. [2019-11-29 10:04:30]./
@@ -69,22 +69,22 @@ The psychological and interpersonal damage wrought by competition is so severe t
 /Highlight on Location 3669-3670. [2019-11-29 17:27:25]./
 *** It is the fact of having to participate in contests that --
 It is the fact of having to participate in contests that leads us to try to outdo others. And it is the fact of having to participate in contests that we are going to have to change if we want to move in healthier directions.
-/Highlight on Location 3672-3674. [2019-12-05 9:39:33]./
+/Highlight on Location 3672-3674. [2019-12-05 09:39:33]./
 *** The value orientation which holds competition high is --
 The value orientation which holds competition high is perpetuated as individuals participate in institutions which help to shape their perception of reality. There is, in other words, a convergence of social forces which fosters a common perception of the world so that it is viewed in competitive terms. Added to this institutional factor is the dissipation of forces that would inhibit competition.
-/Highlight on Location 3680-3683. [2019-12-05 9:41:23]./
+/Highlight on Location 3680-3683. [2019-12-05 09:41:23]./
 *** Our psychological state and our relationships with others --
 Our psychological state and our relationships with others not only are correlated with the extent of our intentional competitiveness but are changed by a framework of structural competition.
-/Highlight on Location 3685-3686. [2019-12-05 9:41:47]./
+/Highlight on Location 3685-3686. [2019-12-05 09:41:47]./
 *** “the psychological orientations of the subjects --
 “the psychological orientations of the subjects [including] their views of themselves and of the others in their group were considerably different as a function of the distributive system under which they worked.”
-/Highlight on Location 3686-3688. [2019-12-05 9:42:02]./
+/Highlight on Location 3686-3688. [2019-12-05 09:42:02]./
 *** “It may be more fruitful to introduce new games than to --
 “It may be more fruitful to introduce new games than to change old orientations. We may come closer to achieving our objectives if we simply let cooperative games do the shaping.”
-/Highlight on Location 3694-3695. [2019-12-05 9:43:04]./
+/Highlight on Location 3694-3695. [2019-12-05 09:43:04]./
 *** To the extent that a man is rewarded for putting the --
 To the extent that a man is rewarded for putting the organization’s goals first, harmonizing his own efforts with those of his colleagues, and making himself personally attractive to the people around him, he will develop situationally specific orientations in which co-operation, harmony, teamwork, etc. are seen as instrumental to success, intrinsically pleasurable, and morally desirable. From his job, such orientations can be expected to spill over to his family, community, and even society as a whole. This, it will be recalled, is precisely the sort of thing we found in the laboratory.
-/Highlight on Location 3697-3701. [2019-12-05 9:44:32]./
+/Highlight on Location 3697-3701. [2019-12-05 09:44:32]./
 *** HOW TO PREVENT SOCIAL CHANGE13   Making our society less --
 HOW TO PREVENT SOCIAL CHANGE13   Making our society less competitive ultimately depends on reducing structural competition. Unfortunately, bringing about structural change of any kind requires overcoming enormous resistance. It is much easier to describe how change can be blocked than how it can be furthered. For those so inclined, then, here are five simple ways to perpetuate the status quo. 1. LIMIT YOUR VISION:
 /Highlight on Location 3713-3717. [2019-12-05 18:52:29]./
@@ -136,7 +136,7 @@ The core of pop behaviorism is "Do this and you'll get that." The wisdom of this
 /Highlight on Location 104-106. [2019-12-09 23:45:44]./
 *** To take what people want or need and offer it on a --
 To take what people want or need and offer it on a contingent basis in order to control how they act—this is where the trouble lies.
-/Highlight on Location 115-116. [2019-12-10 9:32:51]./
+/Highlight on Location 115-116. [2019-12-10 09:32:51]./
 * Atwood, Margaret
 ** Handmaid's Tale
 *** There is more than one kind of freedom, said Aunt Lydia. --
@@ -185,19 +185,19 @@ Using a function to do a specific task often saves us from writing a specific pi
 /Highlight on Location 320-321. [2019-11-05 19:07:02]./
 *** Unfortunately, conversions that lose information, --
 Unfortunately, conversions that lose information, narrowing conversions, such as double to int and int to char, are allowed and implicitly applied.
-/Highlight on Location 505-507. [2019-11-06 9:22:46]./
+/Highlight on Location 505-507. [2019-11-06 09:22:46]./
 *** A constant (§1.6) cannot be left uninitialized and a --
 A constant (§1.6) cannot be left uninitialized and a variable should only be left uninitialized in extremely rare circumstances. Don’t introduce a name until you have a suitable value for it.
-/Highlight on Location 508-510. [2019-11-06 9:23:07]./
+/Highlight on Location 508-510. [2019-11-06 09:23:07]./
 *** To be constexpr, a function must be rather simple and --
 To be constexpr, a function must be rather simple and cannot have side effects and can only use information passed to it as arguments.
-/Highlight on Location 620-622. [2019-11-06 9:42:40]./
+/Highlight on Location 620-622. [2019-11-06 09:42:40]./
 *** In an expression, prefix unary * means “contents of” and --
 In an expression, prefix unary * means “contents of” and prefix unary & means “address of.”
-/Highlight on Location 659-660. [2019-11-06 9:46:11]./
+/Highlight on Location 659-660. [2019-11-06 09:46:11]./
 *** By using a reference, we ensure that for a call --
 By using a reference, we ensure that for a call sort(my_vec), we do not copy my_vec and that it really is my_vec that is sorted and not a copy of it. When we don’t want to modify an argument but still don’t want the cost of copying, we use a const reference
-/Highlight on Location 717-721. [2019-11-06 9:59:12]./
+/Highlight on Location 717-721. [2019-11-06 09:59:12]./
 *** if (auto n = v.size(); n!=0) --
 if (auto n = v.size(); n!=0)
 /Highlight on Location 906-906. [2019-11-06 10:11:58]./
@@ -320,7 +320,7 @@ A class that provides the interface to a variety of other classes is often calle
 /Highlight on Location 2530-2531. [2019-11-20 20:30:44]./
 *** The :public can be read as “is derived from” or “is a --
 The :public can be read as “is derived from” or “is a subtype of.”
-/Highlight on Location 2553-2554. [2019-11-22 9:54:34]./
+/Highlight on Location 2553-2554. [2019-11-22 09:54:34]./
 *** The flip side of this flexibility is that objects must be --
 The flip side of this flexibility is that objects must be manipulated through pointers or references
 /Highlight on Location 2628-2628. [2019-11-22 10:00:38]./
@@ -332,66 +332,66 @@ Like many standard-library search algorithms, find returns end() to indicate “
 /Highlight on Location 6945-6946. [2020-01-16 23:34:19]./
 *** To “join” a thread means to “wait for the thread to --
 To “join” a thread means to “wait for the thread to terminate.”
-/Highlight on Location 9210-9211. [2020-01-30 7:33:59]./
+/Highlight on Location 9210-9211. [2020-01-30 07:33:59]./
 * Bob Black;Bob Black
 ** Abolition of Work, The
 *** No one should ever work. Work is the source of nearly all --
 No one should ever work. Work is the source of nearly all the misery in the world. Almost any evil you’d care to name comes from working or from living in a world designed for work. In order to stop suffering, we have to stop working.
-/Highlight on Location 5-7. [2020-01-28 9:01:20]./
+/Highlight on Location 5-7. [2020-01-28 09:01:20]./
 *** I call for a collective adventure in generalized joy and --
 I call for a collective adventure in generalized joy and freely interdependent exuberance. Play isn’t passive. Doubtless we all need a lot more time for sheer sloth and slack than we ever enjoy now, regardless of income or occupation, but once recovered from employment-induced exhaustion nearly all of us want to act.
-/Highlight on Location 9-11. [2020-01-28 9:02:43]./
+/Highlight on Location 9-11. [2020-01-28 09:02:43]./
 *** Curiously — or maybe not — all the old ideologies are --
 Curiously — or maybe not — all the old ideologies are conservative because they believe in work.
-/Highlight on Location 13-14. [2020-01-28 9:03:00]./
+/Highlight on Location 13-14. [2020-01-28 09:03:00]./
 *** Curiously — or maybe not — all the old ideologies are --
 Curiously — or maybe not — all the old ideologies are conservative because they believe in work. Some of them, like Marxism and most brands of anarchism, believe in work all the more fiercely because they believe in so little else. Liberals say we should end employment discrimination. I say we should end employment. Conservatives support right-to-work laws. Following Karl Marx’s wayward son-in-law Paul Lafargue I support the right to be lazy. Leftists favor full employment. Like the surrealists — except that I’m not kidding — I favor full unemployment. Trotskyists agitate for permanent revolution. I agitate for permanent revelry. But if all the ideologues (as they do) advocate work — and not only because they plan to make other people do theirs — they are strangely reluctant to say so. They will carry on endlessly about wages, hours, working conditions, exploitation, productivity, profitability. They’ll gladly talk about anything but work itself. These experts who offer to do our thinking for us rarely share their conclusions about work, for all its saliency in the lives of all of us. Among themselves they quibble over the details. Unions and management agree that we ought to sell the time of our lives in exchange for survival, although they haggle over the price. Marxists think we should be bossed by bureaucrats. Libertarians think we should be bossed by businessmen. Feminists don’t care which form bossing takes so long as the bosses are women.
-/Highlight on Location 13-23. [2020-01-28 9:04:09]./
+/Highlight on Location 13-23. [2020-01-28 09:04:09]./
 *** Clearly these ideology-mongers have serious differences --
 Clearly these ideology-mongers have serious differences over how to divvy up the spoils of power. Just as clearly, none of them have any objection to power as such and all of them want to keep us working.
-/Highlight on Location 23-25. [2020-01-28 9:06:29]./
+/Highlight on Location 23-25. [2020-01-28 09:06:29]./
 *** Leisure is nonwork for the sake of work. Leisure is the --
 Leisure is nonwork for the sake of work. Leisure is the time spent recovering from work and in the frenzied
-/Highlight on Location 30-30. [2020-01-28 9:07:47]./
+/Highlight on Location 30-30. [2020-01-28 09:07:47]./
 *** Leisure is nonwork for the sake of work. Leisure is the --
 Leisure is nonwork for the sake of work. Leisure is the time spent recovering from work and in the frenzied but hopeless attempt to forget about work.
-/Highlight on Location 30-31. [2020-01-28 9:07:54]./
+/Highlight on Location 30-31. [2020-01-28 09:07:54]./
 *** My minimum definition of work is forced labor, that is, --
 My minimum definition of work is forced labor, that is, compulsory production.
-/Highlight on Location 34-34. [2020-01-28 9:08:29]./
+/Highlight on Location 34-34. [2020-01-28 09:08:29]./
 *** Work is never done for its own sake, it’s done on account --
 Work is never done for its own sake, it’s done on account of some product or output that the worker (or, more often, somebody else) gets out of
-/Highlight on Location 36-37. [2020-01-28 9:08:53]./
+/Highlight on Location 36-37. [2020-01-28 09:08:53]./
 *** Work is never done for its own sake, it’s done on account --
 Work is never done for its own sake, it’s done on account of some product or output that the worker (or, more often, somebody else) gets out of it.
-/Highlight on Location 36-37. [2020-01-28 9:08:58]./
+/Highlight on Location 36-37. [2020-01-28 09:08:58]./
 *** Play is always voluntary. What might otherwise be play is --
 Play is always voluntary. What might otherwise be play is work if it’s forced.
-/Highlight on Location 61-62. [2020-01-28 9:13:48]./
+/Highlight on Location 61-62. [2020-01-28 09:13:48]./
 *** play as the “suspension of consequences.” --
 play as the “suspension of consequences.”
-/Highlight on Location 62-62. [2020-01-28 9:14:08]./
+/Highlight on Location 62-62. [2020-01-28 09:14:08]./
 *** The point is that the consequences, if any, are --
 The point is that the consequences, if any, are gratuitous.
-/Highlight on Location 63-64. [2020-01-28 9:14:14]./
+/Highlight on Location 63-64. [2020-01-28 09:14:14]./
 *** Playing and giving are closely related, they are the --
 Playing and giving are closely related, they are the behavioral and transactional facets of the same impulse, the play-instinct.
-/Highlight on Location 64-64. [2020-01-28 9:14:23]./
+/Highlight on Location 64-64. [2020-01-28 09:14:23]./
 *** and giving are closely related, they are the behavioral --
 and giving are closely related, they are the behavioral and transactional facets of
-/Highlight on Location 64-64. [2020-01-28 9:15:58]./
+/Highlight on Location 64-64. [2020-01-28 09:15:58]./
 *** The point is that the consequences, if any, are --
 The point is that the consequences, if any, are gratuitous. Playing and giving are closely related, they are the behavioral and transactional facets of the same impulse, the play-instinct. They share an aristocratic disdain for results. The player gets something out of playing; that’s why he plays. But the core reward is the experience of the activity itself (whatever it is).
-/Highlight on Location 63-66. [2020-01-28 9:16:11]./
+/Highlight on Location 63-66. [2020-01-28 09:16:11]./
 *** Work makes a mockery of freedom. The official line is that --
 Work makes a mockery of freedom. The official line is that we all have rights and live in a democracy. Other unfortunates who aren’t free like we are have to live in police states. These victims obey orders or-else, no matter how arbitrary. The authorities keep them under regular surveillance. State bureaucrats control even the smaller details of everyday life. The officials who push them around are answerable only to higher-ups, public or private. Either way, dissent and disobedience are punished. Informers report regularly to the authorities. All this is supposed to be a very bad thing. And so it is, although it is nothing but a description of the modern workplace. The liberals and conservatives and libertarians who lament totalitarianism are phonies and hypocrites. There is more freedom in any moderately deStalinized dictatorship than there is in the ordinary American workplace.
-/Highlight on Location 70-76. [2020-01-28 9:17:38]./
+/Highlight on Location 70-76. [2020-01-28 09:17:38]./
 *** There are many good games (chess, baseball, Monopoly, --
 There are many good games (chess, baseball, Monopoly, bridge) which are rule-governed but there is much more to play than game-playing. Conversation, sex, dancing, travel — these practices aren’t rule-governed but they are surely play if anything is. And rules can be played with at least as readily as anything else.
-/Highlight on Location 67-69. [2020-01-28 9:17:55]./
+/Highlight on Location 67-69. [2020-01-28 09:17:55]./
 *** For certain purposes it’s not too misleading to call our --
 For certain purposes it’s not too misleading to call our system democracy or capitalism or — better still — industrialism, but its real names are factory fascism and office oligarchy. Anybody who says these people are “free” is lying or stupid. You are what you do. If you do boring, stupid monotonous work, chances are you’ll end up boring, stupid and monotonous.
-/Highlight on Location 85-88. [2020-01-28 9:19:58]./
+/Highlight on Location 85-88. [2020-01-28 09:19:58]./
 *** The only thing “free” about so-called free time is that it --
 The only thing “free” about so-called free time is that it doesn’t cost the boss anything.
 /Highlight on Location 104-105. [2020-01-30 17:23:07]./
@@ -497,7 +497,7 @@ The law is not known as a good business model for anyone but lawyers
 /Highlight on Location 352-353. [2017-02-21 17:49:28]./
 *** The less you get paid by the stock market in thrills and --
 The less you get paid by the stock market in thrills and spills, the more you will earn at it in cash.
-/Highlight on Location 505-506. [2017-02-22 7:29:10]./
+/Highlight on Location 505-506. [2017-02-22 07:29:10]./
 * Chris Farrell
 ** New Frugality, The
 *** Green is frugal and frugal is green. Turn down the --
@@ -507,19 +507,19 @@ Green is frugal and frugal is green. Turn down the thermostat in winter, wear a 
 ** Walkaway
 *** He recognized this belief was driven by a theory of --
 He recognized this belief was driven by a theory of humanity that most people were good, but also by a horrible, oppressive loneliness and nonspecific horniness.
-/Highlight on Location 90-91. [2019-11-14 9:28:59]./
+/Highlight on Location 90-91. [2019-11-14 09:28:59]./
 *** "You don't charge for them or anything?" A long look. --
 "You don't charge for them or anything?" A long look. "Communist party, remember?" "Yeah, but, how do you eat and stuff?" She shrugged. "Here and there. This and that. Kindness of strangers." "So people bring you food and you give them this stuff?" "No," she said. "We don't do barter. This is gifts, the gift economy. Everything freely given, nothing sought in return."
-/Highlight on Location 165-168. [2019-11-14 9:46:55]./
+/Highlight on Location 165-168. [2019-11-14 09:46:55]./
 *** "They say Old Karl had the right diagnosis and the wrong --
 "They say Old Karl had the right diagnosis and the wrong prescription." She shrugged. "Putting the 'party' back into Communist party makes a difference.
-/Highlight on Location 178-179. [2019-11-14 9:48:34]./
+/Highlight on Location 178-179. [2019-11-14 09:48:34]./
 *** "We're not going to entrepreneur our way out of anything. --
 "We're not going to entrepreneur our way out of anything. This isn't entrepreneurship." "Anti-entrepreneurship's been tried, too -- slacking doesn't get you anywhere." "We're not anti-entrepreneur either. We're not entrepreneurial in the way that baseball isn't tic-tac-toe. We're playing a different game." "What's that?" "Post-scarcity," said with near-religious solemnity. He didn't succeed at keeping his face still, because
-/Highlight on Location 196-200. [2019-11-14 9:57:51]./
+/Highlight on Location 196-200. [2019-11-14 09:57:51]./
 *** "We're not going to entrepreneur our way out of anything. --
 "We're not going to entrepreneur our way out of anything. This isn't entrepreneurship." "Anti-entrepreneurship's been tried, too -- slacking doesn't get you anywhere." "We're not anti-entrepreneur either. We're not entrepreneurial in the way that baseball isn't tic-tac-toe. We're playing a different game." "What's that?" "Post-scarcity," said with near-religious solemnity.
-/Highlight on Location 196-200. [2019-11-14 9:58:01]./
+/Highlight on Location 196-200. [2019-11-14 09:58:01]./
 *** This world, if you aren't a success, you're a failure. If --
 This world, if you aren't a success, you're a failure. If you're not on top, you're on the bottom. If you're in between, you're hanging on by your fingernails, hoping you can get a better grip before your strength gives out. Everyone holding on is too scared to let go. Everyone on the bottom is too worn down to try. The people on the top? They're the ones who depend on things staying the way they are."
 /Highlight on Location 210-212. [2019-11-14 10:00:10]./
@@ -588,25 +588,25 @@ if you wanted, you could have all the info you needed to go walkaway in about te
 /Highlight on Location 654-655. [2019-11-15 12:49:23]./
 *** It was technically in poor taste for her to count her --
 It was technically in poor taste for her to count her commits, let alone keep a tally. In a gift economy, you gave without keeping score, because keeping score implied an expectation of reward. If you're doing something for reward, it's an investment, not a gift.
-/Highlight on Location 728-730. [2019-11-15 9:33:47]./
+/Highlight on Location 728-730. [2019-11-15 09:33:47]./
 *** out of the world as it was and into the world as it could --
 out of the world as it was and into the world as it could be.
-/Highlight on Location 736-736. [2019-11-15 9:35:57]./
+/Highlight on Location 736-736. [2019-11-15 09:35:57]./
 *** If you planted a piece of structural steel in a way that --
 If you planted a piece of structural steel in a way that the building really couldn't work with and ignored the rising chorus of warnings, someone else would be told that there was a piece of "misaligned" material and tasked to it, with high urgency. It was the same error that the buildings generated if something slipped. The error didn't assume that a human being had fucked up through malice or incompetence. The initial theory had been that an error without a responsible party would be more socially graceful. People doubled down on their mistakes, especially when embarrassed in front of peers. The name-and-shame alternate versions had shown hot-cheeked fierce denial was the biggest impediment to standing up a building.
-/Highlight on Location 747-751. [2019-11-15 9:39:16]./
+/Highlight on Location 747-751. [2019-11-15 09:39:16]./
 *** Reality was chewily weirder in a way that Limpopo loved. --
 Reality was chewily weirder in a way that Limpopo loved.
-/Highlight on Location 755-755. [2019-11-15 9:41:17]./
+/Highlight on Location 755-755. [2019-11-15 09:41:17]./
 *** That pretense -- researchers called it "networked social --
 That pretense -- researchers called it "networked social disattention" but everyone else called it the "How'd that get there?" effect -- was a vital shift in the UNHCR's distributed shelter initiative.
-/Highlight on Location 761-762. [2019-11-15 9:42:51]./
+/Highlight on Location 761-762. [2019-11-15 09:42:51]./
 *** Limpopo had gone walkaway the right way, with nothing more --
 Limpopo had gone walkaway the right way, with nothing more than clean underwear, which turned out to be superfluous.
-/Highlight on Location 794-795. [2019-11-15 9:56:17]./
+/Highlight on Location 794-795. [2019-11-15 09:56:17]./
 *** "Open to everyone, all day, every day, but Sundays are --
 "Open to everyone, all day, every day, but Sundays are special, our way of saying hello to our new neighbors and getting to know them. I'm Limpopo. What do you want to be called?" The phrasing was particular to the walkaways, an explicit invitation to remake yourself. It was the height of walkaway sophistication to greet people with it, and Limpopo used it deliberately on these three because she could tell they were tightly wound.
-/Highlight on Location 802-805. [2019-11-15 9:58:23]./
+/Highlight on Location 802-805. [2019-11-15 09:58:23]./
 *** wrinkled her nose at the smell of sweaty feet and made a --
 wrinkled her nose at the smell of sweaty feet and made a note to show them the sock exchange.
 /Highlight on Location 812-813. [2019-11-15 10:01:02]./
@@ -663,13 +663,13 @@ she'd thought every muscle had released its reservoirs of tension. This time, as
 /Highlight on Location 991-993. [2019-11-15 18:48:07]./
 *** chatting quietly or contemplating their eyelid-backs. --
 chatting quietly or contemplating their eyelid-backs.
-/Highlight on Location 1010-1010. [2019-11-16 2:11:54]./
+/Highlight on Location 1010-1010. [2019-11-16 02:11:54]./
 *** Seen from this side of hot/cold treatment, they were --
 Seen from this side of hot/cold treatment, they were gnarled by years in default reality. Being in the death cult of money and status marked you. They bore the marks. She hoped to erase her own someday.
-/Highlight on Location 1015-1017. [2019-11-16 2:13:11]./
+/Highlight on Location 1015-1017. [2019-11-16 02:13:11]./
 *** "How'd you get your scar?" Which was very forward of her --
 "How'd you get your scar?" Which was very forward of her and a good walkaway kind of question, in that it violated every norm of default.
-/Highlight on Location 1023-1024. [2019-11-16 2:14:34]./
+/Highlight on Location 1023-1024. [2019-11-16 02:14:34]./
 *** Some were double agents, but that was okay, since we --
 Some were double agents, but that was okay, since we didn't have any secrets. Secrets were just overhead.
 /Highlight on Location 1096-1097. [2019-11-16 23:46:22]./
@@ -732,19 +732,19 @@ But Etcetera hadn't fit in, no matter what he tried. None of the work captivated
 /Highlight on Location 1277-1279. [2019-11-17 11:54:25]./
 *** You weren't supposed to need to be a special snowflake, --
 You weren't supposed to need to be a special snowflake, because the objective reality was that, important as you were to yourself and the people immediately around you, it was unlikely that anything you did was irreplaceable. As soon as you classed yourself as a special snowflake, you headed for the self-delusional belief that you should have more than everyone else, because your snowflakiness demanded it. If there was one thing that was utterly un-cool in walkaway, it was that self-delusion.
-/Highlight on Location 1396-1399. [2019-11-18 9:31:14]./
+/Highlight on Location 1396-1399. [2019-11-18 09:31:14]./
 *** There have been one hundred billion humans on the planet --
 There have been one hundred billion humans on the planet over the years, and statistically, most of them didn't make a difference. The anthropocene is about collective action, not individuals. That's why climate change is such a clusterfuck. In default, they say that it's down to individual choice and responsibility, but reality is that you can't personally shop your way out of climate change.
-/Highlight on Location 1400-1403. [2019-11-18 9:32:06]./
+/Highlight on Location 1400-1403. [2019-11-18 09:32:06]./
 *** I sometimes wonder if someone is doing something that --
 I sometimes wonder if someone is doing something that makes everything better because I wrote a specific line of code. To really thrive out here, you have to want to make a difference and know you're totally replaceable."
-/Highlight on Location 1406-1408. [2019-11-18 9:33:32]./
+/Highlight on Location 1406-1408. [2019-11-18 09:33:32]./
 *** You couldn't be a walkaway without encountering the --
 You couldn't be a walkaway without encountering the reputation economy freaks.
-/Highlight on Location 1470-1470. [2019-11-18 9:47:44]./
+/Highlight on Location 1470-1470. [2019-11-18 09:47:44]./
 *** What does knowing that one person has more commits than --
 What does knowing that one person has more commits than others tell you? That you should work harder? That you're stupid? That you're slow? Who gives a shit? The most commits in our codebase come from history -- everyone who wrote the libraries and debugged and optimized and patched them.
-/Highlight on Location 1496-1498. [2019-11-18 9:56:14]./
+/Highlight on Location 1496-1498. [2019-11-18 09:56:14]./
 *** "If you do things because you want someone else to pat you --
 "If you do things because you want someone else to pat you on the head, you won't get as good at it as someone who does it for internal satisfaction. We want the best-possible building. If we set up a system that makes people compete for acknowledgment, we invite game-playing and stats-fiddling, even unhealthy stuff like working stupid hours to beat everyone. A crew full of unhappy people doing substandard work. If you build systems that make people focus on mastery, cooperation, and better work, we'll have a beautiful inn full of happy people working together well."
 /Highlight on Location 1501-1505. [2019-11-18 10:17:00]./
@@ -810,10 +810,10 @@ we're only equipped to experience happiness for an instant,
 /Highlight on Location 1701-1702. [2019-11-18 19:36:21]./
 *** slender with skin the color of teak and gray hair in a --
 slender with skin the color of teak and gray hair in a ragged
-/Highlight on Location 1746-1747. [2019-11-19 9:36:17]./
+/Highlight on Location 1746-1747. [2019-11-19 09:36:17]./
 *** "Piss clear." It was a walkaway benediction, especially in --
 "Piss clear." It was a walkaway benediction, especially in nomadic mode. It was polite to offer unsolicited opinions on your neighbor's urine.
-/Highlight on Location 1803-1804. [2019-11-19 9:59:48]./
+/Highlight on Location 1803-1804. [2019-11-19 09:59:48]./
 *** That was okay: people cared about things that she never --
 That was okay: people cared about things that she never bothered with. She'd made peace with having priorities that were different from everyone else,
 /Highlight on Location 1835-1836. [2019-11-19 10:08:23]./
@@ -843,7 +843,7 @@ every year, the power that once ran the space program migrated into stuff they p
 /Highlight on Location 1972-1974. [2019-11-20 20:20:36]./
 *** It's a race: either the walkaways release immortality to --
 It's a race: either the walkaways release immortality to the world, or the zottas install themselves as permanent god-emperors."
-/Highlight on Location 1984-1984. [2019-11-26 9:31:01]./
+/Highlight on Location 1984-1984. [2019-11-26 09:31:01]./
 *** The you that is you is actually the space of things that --
 The you that is you is actually the space of things that you might think in response to some stimulus."
 /Highlight on Location 2032-2032. [2019-11-28 10:07:28]./
@@ -891,13 +891,13 @@ the pilot rocking in his cradle. He -- she saw a russet beard poking around the 
 /Highlight on Location 2433-2434. [2019-12-02 20:31:38]./
 *** we don't want to hoard immortality, we want to share it. --
 we don't want to hoard immortality, we want to share it. To viralize it. People who know they can't die will be better people than people who worry about the end. How could you blind yourself with short-term thinking if you're planning life everlasting?"
-/Highlight on Location 2344-2346. [2019-12-03 9:32:30]./
+/Highlight on Location 2344-2346. [2019-12-03 09:32:30]./
 *** "When I was your age, we didn't have abandoned zones or --
 "When I was your age, we didn't have abandoned zones or free hardware designs. People without a place to stay were homeless -- vagrants, beggars. If you worried about zottas, you went to protests and got your head knocked in. People still thought the answer to their problems was to get a job, and anyone who didn't get a job was broken or lazy, or if you were a bleeding heart, someone failed by society. Hardly anyone said the world would be better if you didn't have to work at all.
-/Highlight on Location 2388-2391. [2019-12-03 9:55:26]./
+/Highlight on Location 2388-2391. [2019-12-03 09:55:26]./
 *** There's more people than ever who don't have any love for --
 There's more people than ever who don't have any love for the way things are. Every one of them would happily jettison everything they think of as normal for the chance to do something weird that might be better."
-/Highlight on Location 2399-2400. [2019-12-03 9:56:21]./
+/Highlight on Location 2399-2400. [2019-12-03 09:56:21]./
 *** Watching the new B&B conjure itself had been a conversion --
 Watching the new B&B conjure itself had been a conversion experience, a proof of the miraculous on Earth.
 /Highlight on Location 2415-2416. [2019-12-03 10:02:38]./
@@ -912,25 +912,25 @@ Iceweasel tried to learn to relax. The B&B didn't need that much work to keep go
 /Highlight on Location 2625-2628. [2019-12-08 01:34:09]./
 *** the sense that they added our research to theirs, but we --
 the sense that they added our research to theirs, but we never saw what they made of our work.
-/Highlight on Location 2649-2649. [2019-12-10 9:58:41]./
+/Highlight on Location 2649-2649. [2019-12-10 09:58:41]./
 *** In the future we'll figure out how to simulate everything, --
 In the future we'll figure out how to simulate everything, so we will. There will be a lot more simulated universes in the whole history of the real universe than there will be real universes. So it's more likely that you're a sim than real, whatever real means."
-/Highlight on Location 2656-2658. [2019-12-10 9:59:48]./
+/Highlight on Location 2656-2658. [2019-12-10 09:59:48]./
 *** You haven't known freedom until you've experienced --
 You haven't known freedom until you've experienced cognitive liberty, the right to choose your state of mind."
 /Highlight on Location 2661-2661. [2019-12-10 10:00:27]./
 *** Not walkaway: walk towards. Fuck, run towards." --
 Not walkaway: walk towards. Fuck, run towards."
-/Highlight on Location 2729-2730. [2020-01-13 8:34:36]./
+/Highlight on Location 2729-2730. [2020-01-13 08:34:36]./
 *** When things go bad, the stag is rebuilding something --
 When things go bad, the stag is rebuilding something better than whatever's burned down; the rabbit is huddling in a cave in terror, eating shoe-leather soup, hoping you don't die of TB because there aren't any hospitals anymore. I've always thought the whole walkaway project was a way to turn people into covered-dish types. There's not any reason not to be one when we can all have enough, so long as we're not fucking each other over."
-/Highlight on Location 2796-2799. [2020-01-13 9:09:05]./
+/Highlight on Location 2796-2799. [2020-01-13 09:09:05]./
 *** Their weather-conjurers predicted a drift toward the --
 Their weather-conjurers predicted a drift toward the maritimes, possibly as far as Nova Scotia, and they solicited supplies, gifts and letters for anyone they met on the way. The scouring of their meager possessions to find gifts restored some of their cheer, a moment of delight in abundance, and the renewed idea that there was always more where that came from, an end to scarcity on the horizon.
 /Highlight on Location 2851-2854. [2020-01-13 19:29:50]./
 *** They have a sciencey vocabulary conceived of solely to --
 They have a sciencey vocabulary conceived of solely to praise people like your father. Like job creator. As though we need jobs! I mean, if there's one thing I'm sure of, it's that I never want to have a job again. I do math because I can't stop. Because I've found people who need my math to do something amazing. "If you need to pay me to do math, that's because a) you've figured out how to starve me unless I do a job, and b) you want me to do boring, stupid math with no intrinsic interest. A 'job creator' is someone who figures out how to threaten you with starvation unless you do something you don't want to do.
-/Highlight on Location 2921-2925. [2020-01-14 8:50:01]./
+/Highlight on Location 2921-2925. [2020-01-14 08:50:01]./
 *** She'd had a lot of summer nights at the family cottage, --
 She'd had a lot of summer nights at the family cottage, staring at skies like this, impossibly populated by cold stars that reminded her of humanity's general insignificance and comforted her with her father's specific insignificance.
 /Highlight on Location 2978-2980. [2020-01-22 18:11:38]./
@@ -1076,7 +1076,7 @@ saint behaviour
 /Note on page 25. [2019-09-11 18:38:42]./
 *** When life is lived in a fully conscious way, with wisdom, --
 When life is lived in a fully conscious way, with wisdom, we can eventually overcome all harmful emotions and behavior. We won’t experience greed, even in the face of lack. Nor will we have ill will, even when confronted by aggression and hostility.
-/Highlight on page 25. [2019-09-12 9:03:48]./
+/Highlight on page 25. [2019-09-12 09:03:48]./
 *** A fully Awake, fully conscious human being has the love, --
 A fully Awake, fully conscious human being has the love, compassion, and energy to make change for the better whenever it’s possible, the equanimity to accept what can’t be changed, and the wisdom to know the difference.
 /Highlight on page 25. [2020-01-30 17:32:58]./
@@ -1099,7 +1099,7 @@ It put me upon reflecting how little repining there would be among mankind at an
 /Highlight on Location 2348-2350. [2017-06-11 21:41:22]./
 *** he --
 he
-/Highlight on Location 2538-2538. [2017-06-12 8:04:39]./
+/Highlight on Location 2538-2538. [2017-06-12 08:04:39]./
 * David Allen
 ** Getting Things Done: The Art of Stress-Free Productivity
 *** Organizations must create a culture in which it is --
@@ -1131,22 +1131,22 @@ Avoiding action decisions until the pressure of the last minute creates huge ine
 /#3865-3865的标注. [2019-01-23 20:18:01]./
 *** determining the required physical allocation of resources --
 determining the required physical allocation of resources necessary to make something happen as soon as the outcome has been clarified will produce more results sooner, and with less effort.
-/#3894-3895的标注. [2019-01-25 8:21:41]./
+/#3894-3895的标注. [2019-01-25 08:21:41]./
 *** They get no sense of winning, or of being in control, or --
 They get no sense of winning, or of being in control, or of cooperating among themselves and with their world.
-/#3910-3911的标注. [2019-01-25 8:23:55]./
+/#3910-3911的标注. [2019-01-25 08:23:55]./
 *** They get no sense of winning, or of being in control, or --
 They get no sense of winning, or of being in control, or of cooperating among themselves and with their world. People are starving for those experiences.
-/#3910-3911的标注. [2019-01-25 8:24:01]./
+/#3910-3911的标注. [2019-01-25 08:24:01]./
 *** define real projects about them, and ensure that next --
 define real projects about them, and ensure that next actions are decided on—until the finish line is crossed.
-/#3956-3957的标注. [2019-01-25 8:39:02]./
+/#3956-3957的标注. [2019-01-25 08:39:02]./
 *** employing next-action decision-making results in clarity, --
 employing next-action decision-making results in clarity, productivity, accountability, and empowerment.
-/#3960-3961的标注. [2019-01-25 8:41:20]./
+/#3960-3961的标注. [2019-01-25 08:41:20]./
 *** Defining specific projects and next actions that address --
 Defining specific projects and next actions that address real quality-of-life issues is productivity at its best.
-/#3962-3963的标注. [2019-01-25 8:41:37]./
+/#3962-3963的标注. [2019-01-25 08:41:37]./
 *** It’s all connected. You can’t really define the right --
 It’s all connected. You can’t really define the right action until you know the outcome, and your outcome is disconnected from reality if you’re not clear about what you need to do physically to make it happen. You can get at it from either direction, and you must, to get things done.
 /#3963-3965的标注. [2019-01-28 20:41:54]./
@@ -1194,7 +1194,7 @@ how to focus, how to write things down, how to decide on outcomes and actions, a
 /#176-176的标注. [2019-01-28 21:17:18]./
 *** two key objectives: (1) capturing all the things that need --
 two key objectives: (1) capturing all the things that need to get done—now, later, someday, big, little, or in between—into a logical and trusted system outside of your head and off your mind; and (2) disciplining yourself to make front-end decisions about all of the “inputs” you let into your life so that you will always have a plan for “next actions” that you can implement or renegotiate at any moment.
-/#207-210的标注. [2019-01-29 9:31:00]./
+/#207-210的标注. [2019-01-29 09:31:00]./
 *** How much available data could be relevant to doing those --
 How much available data could be relevant to doing those projects “better”? The answer is, an infinite amount, easily accessible, or at least potentially so, through the Web.
 /#235-237的标注. [2019-01-29 19:54:36]./
@@ -1221,61 +1221,61 @@ If your mind is empty, it is always ready for anything; it is open to everything
 /#326-326的标注. [2019-01-29 20:10:42]./
 *** Anything that causes you to overreact or underreact can --
 Anything that causes you to overreact or underreact can control you, and often does.
-/#330-331的标注. [2019-01-30 8:22:16]./
+/#330-331的标注. [2019-01-30 08:22:16]./
 *** Anything that does not belong where it is, the way it is, --
 Anything that does not belong where it is, the way it is, is an “open loop” pulling on your attention.
-/#354-355的标注. [2019-01-30 8:25:27]./
+/#354-355的标注. [2019-01-30 08:25:27]./
 *** First of all, if it’s on your mind, your mind isn’t clear. --
 First of all, if it’s on your mind, your mind isn’t clear. Anything you consider unfinished in any way must be captured in a trusted system outside your mind, or what I call a collection bucket, that you know you’ll come back to regularly and sort through.
-/#359-361的标注. [2019-01-30 8:26:56]./
+/#359-361的标注. [2019-01-30 08:26:56]./
 *** Second, you must clarify exactly what your commitment is --
 Second, you must clarify exactly what your commitment is and decide what you have to do, if anything, to make progress toward fulfilling it.
-/#361-362的标注. [2019-01-30 8:27:07]./
+/#361-362的标注. [2019-01-30 08:27:07]./
 *** Third, once you’ve decided on all the actions you need to --
 Third, once you’ve decided on all the actions you need to take, you must keep reminders of them organized in a system you review regularly.
-/#363-364的标注. [2019-01-30 8:27:49]./
+/#363-364的标注. [2019-01-30 08:27:49]./
 *** Think like a man of action, act like a man of thought. --
 Think like a man of action, act like a man of thought.
-/#381-381的标注. [2019-01-30 8:31:31]./
+/#381-381的标注. [2019-01-30 08:31:31]./
 *** “In knowledge work . . . the task is not given; it has to --
 “In knowledge work . . . the task is not given; it has to be determined. ‘What are the expected results from this work?’ is . . . the key question in making knowledge workers productive. And it is a question that demands risky decisions. There is usually no right answer; there are choices instead. And results have to be clearly specified, if productivity is to be achieved.”
-/#389-392的标注. [2019-01-30 8:33:13]./
+/#389-392的标注. [2019-01-30 08:33:13]./
 *** outcome thinking is one of the most effective means --
 outcome thinking is one of the most effective means available for making wishes reality.
-/#398-398的标注. [2019-01-30 8:36:03]./
+/#398-398的标注. [2019-01-30 08:36:03]./
 *** Most often, the reason something is “on your mind” is that --
 Most often, the reason something is “on your mind” is that you want it to be different than it currently is, and yet: • you haven’t clarified exactly what the intended outcome is; • you haven’t decided what the very next physical action step is; and/or • you haven’t put reminders of the outcome and the action required in a system you trust. That’s why it’s on your mind.
-/#399-403的标注. [2019-01-30 8:36:37]./
+/#399-403的标注. [2019-01-30 08:36:37]./
 *** It’s a waste of time and energy to keep thinking about --
 It’s a waste of time and energy to keep thinking about something that you make no progress on.
-/#419-419的标注. [2019-01-30 8:41:07]./
+/#419-419的标注. [2019-01-30 08:41:07]./
 *** Here’s how I define “stuff”: anything you have allowed --
 Here’s how I define “stuff”: anything you have allowed into your psychological or physical world that doesn’t belong where it is, but for which you haven’t yet determined the desired outcome and the next action step.
-/#425-426的标注. [2019-01-30 8:41:45]./
+/#425-426的标注. [2019-01-30 08:41:45]./
 *** We need to transform all the “stuff” we’re trying to --
 We need to transform all the “stuff” we’re trying to organize into actionable stuff we need to do.
-/#431-432的标注. [2019-01-30 8:42:23]./
+/#431-432的标注. [2019-01-30 08:42:23]./
 *** that was an amorphous blob of undoability!” --
 that was an amorphous blob of undoability!”
-/#436-436的标注. [2019-01-30 8:44:40]./
+/#436-436的标注. [2019-01-30 08:44:40]./
 *** looked back at the to-do lists she had come in with and --
 looked back at the to-do lists she had come in with and said, “Boy, that was an amorphous blob of undoability!”
-/#436-436的标注. [2019-01-30 8:44:54]./
+/#436-436的标注. [2019-01-30 08:44:54]./
 *** You can train yourself, almost like an athlete, to be --
 You can train yourself, almost like an athlete, to be faster, more responsive, more proactive, and more focused in knowledge work.
-/#441-442的标注. [2019-01-30 8:45:32]./
+/#441-442的标注. [2019-01-30 08:45:32]./
 *** Managing Action Is the Prime Challenge --
 Managing Action Is the Prime Challenge
-/#451-451的标注. [2019-01-30 8:46:27]./
+/#451-451的标注. [2019-01-30 08:46:27]./
 *** The real issue is how to make appropriate choices about --
 The real issue is how to make appropriate choices about what to do at any point in time.
-/#453-454的标注. [2019-01-30 8:48:26]./
+/#453-454的标注. [2019-01-30 08:48:26]./
 *** many projects seem overwhelming—and are overwhelming --
 many projects seem overwhelming—and are overwhelming because you can’t do a project at all! You can only do an action related to it.
-/#458-460的标注. [2019-01-30 8:49:03]./
+/#458-460的标注. [2019-01-30 08:49:03]./
 *** the real problem is a lack of clarity and definition about --
 the real problem is a lack of clarity and definition about what a project really is, and what the associated next-action steps required are.
-/#463-464的标注. [2019-01-30 8:49:33]./
+/#463-464的标注. [2019-01-30 08:49:33]./
 *** Things rarely get stuck because of lack of time. They get --
 Things rarely get stuck because of lack of time. They get stuck because the doing of them has not been defined.
 /#466-467的标注. [2019-01-30 19:28:16]./
@@ -1302,43 +1302,43 @@ We (1) collect things that command our attention; (2) process what they mean and
 /#545-548的标注. [2019-01-30 19:41:54]./
 *** We (1) collect things that command our attention; (2) --
 We (1) collect things that command our attention; (2) process what they mean and what to do about them; and (3) organize the results, which we (4) review as options for what we choose to (5) do.
-/#545-548的标注. [2019-01-31 7:28:16]./
+/#545-548的标注. [2019-01-31 07:28:16]./
 *** I have found it very helpful, if not essential, to --
 I have found it very helpful, if not essential, to separate these stages as I move through my day.
-/#564-564的标注. [2019-01-31 7:28:27]./
+/#564-564的标注. [2019-01-31 07:28:27]./
 *** you need to collect and gather together placeholders for --
 you need to collect and gather together placeholders for or representations of all the things you consider incomplete in your world—that is, anything personal or professional, big or little, of urgent or minor importance, that you think ought to be different than it currently is and that you have any level of internal commitment to changing.
-/#579-581的标注. [2019-01-31 7:31:19]./
+/#579-581的标注. [2019-01-31 07:31:19]./
 *** As soon as you attach a “should,” “need to,” or “ought to” --
 As soon as you attach a “should,” “need to,” or “ought to” to an item, it becomes an incomplete.
-/#588-588的标注. [2019-01-31 7:32:00]./
+/#588-588的标注. [2019-01-31 07:32:00]./
 *** Decisions you still need to make about whether or not you --
 Decisions you still need to make about whether or not you are going to do something, for example, are already incompletes.
-/#588-589的标注. [2019-01-31 7:32:22]./
+/#588-589的标注. [2019-01-31 07:32:22]./
 *** In order to manage this inventory of open loops --
 In order to manage this inventory of open loops appropriately, you need to capture it into “containers” that hold items in abeyance until you have a few moments to decide what they are and what, if anything, you’re going to do about them. Then you must empty these containers regularly to ensure that they remain viable collection tools.
-/#592-594的标注. [2019-01-31 7:33:24]./
+/#592-594的标注. [2019-01-31 07:33:24]./
 *** requirements to make the collection phase work: 1. | Every --
 requirements to make the collection phase work: 1. | Every open loop must be in your collection system and out of your head. 2. | You must have as few collection buckets as you can get by with. 3. | You must empty them regularly.
-/#626-629的标注. [2019-01-31 7:38:56]./
+/#626-629的标注. [2019-01-31 07:38:56]./
 *** These collection tools should become part of your --
 These collection tools should become part of your life-style. Keep them close by so no matter where you are you can collect a potentially valuable thought—think of them as being as indispensable as your toothbrush or your driver’s license or your glasses.
-/#634-636的标注. [2019-01-31 7:40:06]./
+/#634-636的标注. [2019-01-31 07:40:06]./
 *** Implementing standard tools for capturing ideas and input --
 Implementing standard tools for capturing ideas and input will become more and more critical as your life and work become more sophisticated. As you proceed in your career, for instance, you’ll probably notice that your best ideas about work will not come to you at work. The ability to leverage that thinking with good collection devices that are always at hand is key to increased productivity.
-/#644-647的标注. [2019-01-31 7:42:22]./
+/#644-647的标注. [2019-01-31 07:42:22]./
 *** In order for you to get “in” to empty, your total --
 In order for you to get “in” to empty, your total action-management system must be in place. Too much “stuff” is left piled in in-baskets because of a lack of effective systems “downstream” from there.
-/#653-655的标注. [2019-01-31 7:43:14]./
+/#653-655的标注. [2019-01-31 07:43:14]./
 *** You don’t actually do a project; you can only do action --
 You don’t actually do a project; you can only do action steps related to it.
-/#744-745的标注. [2019-01-31 7:55:57]./
+/#744-745的标注. [2019-01-31 07:55:57]./
 *** That action needs to be the next physical, visible --
 That action needs to be the next physical, visible behavior, without exception, on every open loop.
-/#761-761的标注. [2019-01-31 7:58:56]./
+/#761-761的标注. [2019-01-31 07:58:56]./
 *** The way I look at it, the calendar should be sacred --
 The way I look at it, the calendar should be sacred territory
-/#796-796的标注. [2019-01-31 8:05:38]./
+/#796-796的标注. [2019-01-31 08:05:38]./
 *** The lack of a good general-reference file can be one of --
 The lack of a good general-reference file can be one of the biggest bottlenecks in implementing an efficient personal action-management system.
 /#861-862的标注. [2019-01-31 18:57:33]./
@@ -1383,10 +1383,10 @@ The goal is to get projects and situations off your mind, but not to lose any po
 /#1015-1016的标注. [2019-01-31 21:13:36]./
 *** The most experienced planner in the world is your brain. --
 The most experienced planner in the world is your brain. 1. | Defining purpose and principles 2. | Outcome visioning 3. | Brainstorming 4. | Organizing 5. | Identifying next actions
-/#1040-1042的标注. [2019-02-01 7:11:52]./
+/#1040-1042的标注. [2019-02-01 07:11:52]./
 *** Have you envisioned wild success lately? --
 Have you envisioned wild success lately?
-/#1082-1082的标注. [2019-02-01 7:17:28]./
+/#1082-1082的标注. [2019-02-01 07:17:28]./
 *** thinking in more effective ways about projects and --
 thinking in more effective ways about projects and situations can make things happen sooner, better, and more successfully.
 /#1145-1146的标注. [2019-02-03 12:37:16]./
@@ -1452,85 +1452,85 @@ A “project plan” identifies the smaller outcomes, which can then be naturall
 /#1347-1347的标注. [2019-02-03 15:47:19]./
 *** The Basics of Organizing The key steps here are: • --
 The Basics of Organizing The key steps here are: • Identify the significant pieces. • Sort by (one or more): • components • sequences • priorities • Detail to the required degree.
-/#1350-1353的标注. [2019-02-04 9:09:49]./
+/#1350-1353的标注. [2019-02-04 09:09:49]./
 *** The question to ask here is, “What’s the next action?” As --
 The question to ask here is, “What’s the next action?” As we noted in the previous chapter, this kind of grounded, reality-based thinking, combined with clarification of the desired outcome, forms the critical component of knowledge work.
-/#1358-1360的标注. [2019-02-04 9:10:42]./
+/#1358-1360的标注. [2019-02-04 09:10:42]./
 *** creating a list of what your real projects are and --
 creating a list of what your real projects are and consistently managing your next action for each one will constitute 90 percent of what is generally thought of as project planning.
-/#1360-1361的标注. [2019-02-04 9:10:54]./
+/#1360-1361的标注. [2019-02-04 09:10:54]./
 *** Answering the question about what specifically you would --
 Answering the question about what specifically you would do about something physically if you had nothing else to do will test the maturity of your thinking about the project. If you’re not yet ready to answer that question, you have more to flesh out at some prior level in the natural planning sequence.
-/#1364-1366的标注. [2019-02-04 9:11:38]./
+/#1364-1366的标注. [2019-02-04 09:11:38]./
 *** A project is sufficiently planned for implementation when --
 A project is sufficiently planned for implementation when every next-action step has been decided on every front that can actually be moved on without some other component’s having to be completed first.
-/#1369-1370的标注. [2019-02-04 9:12:06]./
+/#1369-1370的标注. [2019-02-04 09:12:06]./
 *** “Is there something that anyone could be doing on this --
 “Is there something that anyone could be doing on this right now?” You could be coordinating speakers for the
-/#1371-1372的标注. [2019-02-04 9:13:25]./
+/#1371-1372的标注. [2019-02-04 09:13:25]./
 *** “Is there something that --
 “Is there something that
-/#1371-1371的标注. [2019-02-04 9:13:31]./
+/#1371-1371的标注. [2019-02-04 09:13:31]./
 *** “Is there something that anyone could be doing on this --
 “Is there something that anyone could be doing on this right now?”
-/#1371-1371的标注. [2019-02-04 9:13:33]./
+/#1371-1371的标注. [2019-02-04 09:13:33]./
 *** “Is there something that anyone could be doing on this --
 “Is there something that anyone could be doing on this right now?”
-/#1371-1371的标注. [2019-02-04 9:13:35]./
+/#1371-1371的标注. [2019-02-04 09:13:35]./
 *** The habit of clarifying the next action on projects, no --
 The habit of clarifying the next action on projects, no matter what the situation, is fundamental to you staying in relaxed control.
-/#1378-1379的标注. [2019-02-04 9:14:09]./
+/#1378-1379的标注. [2019-02-04 09:14:09]./
 *** This next-action conversation forces organizational --
 This next-action conversation forces organizational clarity.
-/#1383-1383的标注. [2019-02-04 9:16:09]./
+/#1383-1383的标注. [2019-02-04 09:16:09]./
 *** It’s a simple, practical discussion to foster, and one --
 It’s a simple, practical discussion to foster, and one that can significantly stir the pot and identify weak links.
-/#1385-1385的标注. [2019-02-04 9:16:16]./
+/#1385-1385的标注. [2019-02-04 09:16:16]./
 *** How Much Planning Do You Really Need to Do? --
 How Much Planning Do You Really Need to Do?
-/#1386-1386的标注. [2019-02-04 9:16:33]./
+/#1386-1386的标注. [2019-02-04 09:16:33]./
 *** The simple answer is, as much as you need to get the --
 The simple answer is, as much as you need to get the project off your mind.
-/#1387-1387的标注. [2019-02-04 9:16:35]./
+/#1387-1387的标注. [2019-02-04 09:16:35]./
 *** You increase your productivity and creativity --
 You increase your productivity and creativity exponentially when you think about the right things at the right time and have the tools to capture your value-added thinking.
-/#1479-1480的标注. [2019-02-11 9:20:24]./
+/#1479-1480的标注. [2019-02-11 09:20:24]./
 *** If you take out a clean sheet of paper right now, along --
 If you take out a clean sheet of paper right now, along with your favorite writing instrument, and for three minutes focus solely on the most awesome project on your mind, I guarantee you’ll have at least one “Oh, yeah, I need to consider___.”
-/#1480-1482的标注. [2019-02-11 9:20:44]./
+/#1480-1482的标注. [2019-02-11 09:20:44]./
 *** Then capture what shows up in your head on the piece of --
 Then capture what shows up in your head on the piece of paper and put it where you might actually use the idea or information. You won’t be one ounce smarter than you were ten minutes ago, but you’ll have added value to your work and life.
-/#1482-1484的标注. [2019-02-11 9:21:00]./
+/#1482-1484的标注. [2019-02-11 09:21:00]./
 *** Dedicate two days to this process, and it will be worth --
 Dedicate two days to this process, and it will be worth many times that in terms of your productivity and mental health.
-/#1512-1512的标注. [2019-02-11 9:28:50]./
+/#1512-1512的标注. [2019-02-11 09:28:50]./
 *** If you already have a desk and office space set up where --
 If you already have a desk and office space set up where you work, that’s probably the best place to start. If you work from a home office, obviously that will be your prime location. If you already have both, you’ll want to establish identical, even interchangeable systems in both places.
-/#1514-1516的标注. [2019-02-11 9:29:11]./
+/#1514-1516的标注. [2019-02-11 09:29:11]./
 *** Don’t skimp on work space at home. As you’ll discover --
 Don’t skimp on work space at home. As you’ll discover through this process, it’s critical that you have at least a satellite home system identical to the one in your office.
-/#1526-1527的标注. [2019-02-11 9:32:14]./
+/#1526-1527的标注. [2019-02-11 09:32:14]./
 *** You must have a focused work space—at home, at work, and --
 You must have a focused work space—at home, at work, and if possible even in transit.
-/#1531-1531的标注. [2019-02-11 9:32:30]./
+/#1531-1531的标注. [2019-02-11 09:32:30]./
 *** there needs to be zero resistance at the --
 there needs to be zero resistance at the less-than-conscious level for us to use the systems we have.
-/#1547-1548的标注. [2019-02-11 9:37:46]./
+/#1547-1548的标注. [2019-02-11 09:37:46]./
 *** You can work virtually everywhere if you have a clean, --
 You can work virtually everywhere if you have a clean, compact system and know how to process your stuff rapidly and portably.
-/#1549-1550的标注. [2019-02-11 9:38:02]./
+/#1549-1550的标注. [2019-02-11 09:38:02]./
 *** Once you know how to process your stuff and what to --
 Once you know how to process your stuff and what to organize, you really just need to create and manage lists.
-/#1614-1615的标注. [2019-02-11 9:41:41]./
+/#1614-1615的标注. [2019-02-11 09:41:41]./
 *** One of the best tricks for enhancing your personal --
 One of the best tricks for enhancing your personal productivity is having organizing tools that you love to use.
-/#1629-1629的标注. [2019-02-11 9:41:55]./
+/#1629-1629的标注. [2019-02-11 09:41:55]./
 *** your filing system isn’t fast, functional, and fun, you’ll --
 your filing system isn’t fast, functional, and fun, you’ll resist the whole process.
-/#1634-1634的标注. [2019-02-11 9:44:09]./
+/#1634-1634的标注. [2019-02-11 09:44:09]./
 *** If your filing system isn’t fast, functional, and fun, --
 If your filing system isn’t fast, functional, and fun, you’ll resist the whole process.
-/#1633-1634的标注. [2019-02-11 9:44:15]./
+/#1633-1634的标注. [2019-02-11 09:44:15]./
 *** But if you can hang in there and really do the whole --
 But if you can hang in there and really do the whole
 /#1749-1750的标注. [2019-02-15 22:47:08]./
@@ -1607,25 +1607,25 @@ deciding on and taking real next actions—actually moving on something in the p
 ** Goal: A Process of Ongoing Improvement, The
 *** to construct a new science or to expand on an existing --
 to construct a new science or to expand on an existing one. What is needed is just the courage to face inconsistencies and to avoid running away from them just because "that’s the way it was always done’’.
-/Highlight on Location 48-50. [2020-03-02 8:05:21]./
+/Highlight on Location 48-50. [2020-03-02 08:05:21]./
 *** "Alex, if you’re like nearly everybody else in this world, --
 "Alex, if you’re like nearly everybody else in this world, you’ve accepted so many things without question that you’re not really thinking at all,’’
-/Highlight on Location 602-603. [2020-03-03 8:59:19]./
+/Highlight on Location 602-603. [2020-03-03 08:59:19]./
 *** "When you are productive you are accomplishing something --
 "When you are productive you are accomplishing something in terms of your goal,
-/Highlight on Location 616-617. [2020-03-03 9:02:00]./
+/Highlight on Location 616-617. [2020-03-03 09:02:00]./
 *** productivity is meaningless unless you know what your goal --
 productivity is meaningless unless you know what your goal is,’’
-/Highlight on Location 624-624. [2020-03-03 9:03:13]./
+/Highlight on Location 624-624. [2020-03-03 09:03:13]./
 *** You’re just playing a lot of games with numbers and words. --
 You’re just playing a lot of games with numbers and words.
-/Highlight on Location 653-654. [2020-03-03 9:06:52]./
+/Highlight on Location 653-654. [2020-03-03 09:06:52]./
 *** What is the real goal? Nobody here has even asked anything --
 What is the real goal? Nobody here has even asked anything that basic.
-/Highlight on Location 659-659. [2020-03-03 9:08:31]./
+/Highlight on Location 659-659. [2020-03-03 09:08:31]./
 *** I need to think and I’ll never be able to do it if I go --
 I need to think and I’ll never be able to do it if I go back to the office now.
-/Highlight on Location 680-681. [2020-03-03 9:12:57]./
+/Highlight on Location 680-681. [2020-03-03 09:12:57]./
 *** The goal of a manufacturing organization is to make money. --
 The goal of a manufacturing organization is to make money.
 /Highlight on Location 757-757. [2020-03-03 17:32:14]./
@@ -1670,22 +1670,22 @@ You see, there is more than one way to express the goal. Do you understand? The 
 /Highlight on Location 1077-1078. [2020-03-03 23:53:23]./
 *** whether we had been able to sell any more products as a --
 whether we had been able to sell any more products as a result of having the robots. Another one was whether we had reduced the number of people on the payroll. Then he had wanted to know if inventories had gone down. Three basic questions.
-/Highlight on Location 1166-1168. [2020-03-04 8:47:52]./
+/Highlight on Location 1166-1168. [2020-03-04 08:47:52]./
 *** Increase throughput while simultaneously reducing both --
 Increase throughput while simultaneously reducing both inventory and operating expense.
-/Highlight on Location 1178-1179. [2020-03-04 8:50:14]./
+/Highlight on Location 1178-1179. [2020-03-04 08:50:14]./
 *** "Interesting, isn’t it, that each one of those definitions --
 "Interesting, isn’t it, that each one of those definitions contains the word money,’’ he says. "Throughput is the money coming in. Inventory is the money currently inside the system. And operational expense is the money we have to pay out to make throughput happen. One measurement for the incoming money, one for the money still stuck inside, and one for the money going out.’’
-/Highlight on Location 1271-1273. [2020-03-04 9:06:58]./
+/Highlight on Location 1271-1273. [2020-03-04 09:06:58]./
 *** If you’ve got a machine, the depreciation on that machine --
 If you’ve got a machine, the depreciation on that machine is operational expense. Whatever portion of the investment still remains in the machine, which could be sold, is inventory.’’
-/Highlight on Location 1297-1299. [2020-03-04 9:10:27]./
+/Highlight on Location 1297-1299. [2020-03-04 09:10:27]./
 *** "So investment is the same thing as inventory.’’ --
 "So investment is the same thing as inventory.’’
-/Highlight on Location 1301-1301. [2020-03-04 9:11:17]./
+/Highlight on Location 1301-1301. [2020-03-04 09:11:17]./
 *** "Any money we’ve lost is operational expense; any --
 "Any money we’ve lost is operational expense; any investment that we can sell is inventory.’’
-/Highlight on Location 1305-1305. [2020-03-04 9:11:44]./
+/Highlight on Location 1305-1305. [2020-03-04 09:11:44]./
 *** "What’s more important to your management, Alex: --
 "What’s more important to your management, Alex: efficiencies or money?’’ he asks. "Money, of course. But isn’t high efficiency essential to making money?’’ I ask him. "Most of the time, your struggle for high efficiencies is taking you in the opposite direction of your goal.’’
 /Highlight on Location 1440-1442. [2020-03-04 18:49:15]./
@@ -1908,13 +1908,13 @@ EPICURO O EL DESTINO DEL HOMBRE ES LA FELICIDAD
 /Highlight on Location 16-17. [2020-01-01 22:53:19]./
 *** el alma del hombre helenístico estaba en vilo, al saberse --
 el alma del hombre helenístico estaba en vilo, al saberse sometida y sin medios de liberación de cadenas tales como los dioses (a los que se continuaba venerando y temiendo, sin esperar, para colmo de males, nada bueno de ellos), la muerte y el futuro posterior a la propia muerte. En épocas pasadas, así en la Atenas del siglo V a. C., se temió a los dioses, pero a la vez se creyó recibir y haber recibido de ellos dones favorables. Pero ya a finales del siglo citado se desconfió de su benevolencia, pero no así de su crueldad, pues bajo uno u otro aspecto continuaban arraigados en el corazón del triste ciudadano.
-/Highlight on Location 79-83. [2020-01-02 8:27:56]./
+/Highlight on Location 79-83. [2020-01-02 08:27:56]./
 *** Tantum religio potuit suadere malorum --
 Tantum religio potuit suadere malorum
-/Highlight on Location 89-89. [2020-01-02 8:30:13]./
+/Highlight on Location 89-89. [2020-01-02 08:30:13]./
 *** Epicuro ni siquiera confía en una supuesta veracidad de la --
 Epicuro ni siquiera confía en una supuesta veracidad de la razón si esta se halla desprovista del soporte de la experiencia directa e inmediata que suministra la percepción sensorial,
-/Highlight on Location 187-188. [2020-01-02 8:52:16]./
+/Highlight on Location 187-188. [2020-01-02 08:52:16]./
 *** Los requisitos previos son dos: la utilización de unos --
 Los requisitos previos son dos: la utilización de unos pocos principios doctrinales (emanados de un saber enciclopédico) y el uso de unos significantes lingüísticos cuyos significados sean de la más pura simplicidad, en la que todos los hombres convengan.
 /Highlight on Location 203-205. [2020-01-02 17:16:19]./
@@ -1931,43 +1931,43 @@ cada una de estas obras desarrolla íntegramente todo el sistema filosófico de 
 ** Radical Markets: Uprooting Capitalism and Democracy for a Just Society
 *** Because most of the returns to capital flow to the very --
 Because most of the returns to capital flow to the very wealthy, a broad distinction exists between those who live primarily off the returns to capital and those who live off their labor.
-/Highlight on Location 1191-1192. [2019-10-16 8:39:46]./
+/Highlight on Location 1191-1192. [2019-10-16 08:39:46]./
 *** A COST would make most of the return to capital flow to --
 A COST would make most of the return to capital flow to the public, making it more equally distributed than wages.
-/Highlight on Location 1192-1193. [2019-10-16 8:40:02]./
+/Highlight on Location 1192-1193. [2019-10-16 08:40:02]./
 *** The COST would thus end the conflict between capital and --
 The COST would thus end the conflict between capital and labor, making differences in labor income the leading source of inequality.
-/Highlight on Location 1193-1194. [2019-10-16 8:40:14]./
+/Highlight on Location 1193-1194. [2019-10-16 08:40:14]./
 *** the process by which an owner develops an attachment to an --
 the process by which an owner develops an attachment to an object by incorporating her labor into it has been undermined.
-/Highlight on Location 1212-1213. [2019-10-16 8:44:19]./
+/Highlight on Location 1212-1213. [2019-10-16 08:44:19]./
 *** Increasing economic evidence suggests that excessive --
 Increasing economic evidence suggests that excessive attachment to homes is inhibiting employment and dynamism in the US economy, a problem a COST would greatly reduce.
-/Highlight on Location 1217-1218. [2019-10-16 8:46:04]./
+/Highlight on Location 1217-1218. [2019-10-16 08:46:04]./
 *** Common intuition and psychological research tell us that --
 Common intuition and psychological research tell us that the accumulation of goods beyond a basic threshold does not lead to a happier life and that experiences are more fulfilling than possessions.
-/Highlight on Location 1226-1227. [2019-10-16 8:48:08]./
+/Highlight on Location 1226-1227. [2019-10-16 08:48:08]./
 *** A world in which everyone benefits from the prosperity of --
 A world in which everyone benefits from the prosperity of others would likely foster higher social trust, a factor essential to the smooth operation
-/Highlight on Location 1238-1239. [2019-10-16 8:49:50]./
+/Highlight on Location 1238-1239. [2019-10-16 08:49:50]./
 *** A world in which everyone benefits from the prosperity of --
 A world in which everyone benefits from the prosperity of others would likely foster higher social trust, a factor essential to the smooth operation of the market economy and political cooperation.
-/Highlight on Location 1238-1239. [2019-10-16 8:49:54]./
+/Highlight on Location 1238-1239. [2019-10-16 08:49:54]./
 *** Such liberal thinkers were united in rejecting monarchical --
 Such liberal thinkers were united in rejecting monarchical privilege in favor of placing authority in the hands of the people, but they struggled to explain how the people should wield their power. Democracy, yes, but what does democracy mean? And how to avoid the self-destructive and chaotic effects of mob rule they knew from classical history?
-/Highlight on Location 1335-1338. [2019-10-16 9:16:17]./
+/Highlight on Location 1335-1338. [2019-10-16 09:16:17]./
 *** The founders worried that if legitimate minority interests --
 The founders worried that if legitimate minority interests were not protected, the survival of the union would be at stake. Most citizens find themselves, at one time or another, in a minority group of like-minded people: those with very important interests or preferences that are not shared by the rest of the population.
-/Highlight on Location 1351-1353. [2019-10-16 9:18:55]./
+/Highlight on Location 1351-1353. [2019-10-16 09:18:55]./
 *** Rule by unanimity and other high voting thresholds in --
 Rule by unanimity and other high voting thresholds in politics is vulnerable to the same problem that property rights create in economic relations (see chapter 1): the ability of a person to hold out for unreasonable concessions, with the
-/Highlight on Location 1358-1360. [2019-10-16 9:19:45]./
+/Highlight on Location 1358-1360. [2019-10-16 09:19:45]./
 *** Rule by unanimity and other high voting thresholds in --
 Rule by unanimity and other high voting thresholds in politics is vulnerable to the same problem that property rights create in economic relations (see chapter 1): the ability of a person to hold out for unreasonable concessions, with the result that either gridlock or unfairness results.
-/Highlight on Location 1358-1360. [2019-10-16 9:19:49]./
+/Highlight on Location 1358-1360. [2019-10-16 09:19:49]./
 *** So the American framers settled on a compromise between --
 So the American framers settled on a compromise between the extreme of tyranny of the majority and paralysis.
-/Highlight on Location 1364-1364. [2019-10-16 9:20:40]./
+/Highlight on Location 1364-1364. [2019-10-16 09:20:40]./
 *** in market transactions it is possible for people to signal --
 in market transactions it is possible for people to signal the intensity of their preferences for goods and services—by offering to pay more or less.
 /Highlight on Location 1421-1422. [2019-10-16 17:50:35]./
@@ -2009,34 +2009,34 @@ insidious for our political system
 /Highlight on Location 1888-1888. [2019-10-16 22:04:02]./
 *** A cosmopolitan outlook emerged that distinguishes the --
 A cosmopolitan outlook emerged that distinguishes the upper from the lower classes to this very day.
-/Highlight on Location 2033-2034. [2019-10-17 8:35:37]./
+/Highlight on Location 2033-2034. [2019-10-17 08:35:37]./
 *** The emerging dominance of institutional investors means --
 The emerging dominance of institutional investors means not only that people face higher prices. It likely means that they receive lower wages as well. Firms compete for workers just as they compete for consumers. Like firms that collude to raise prices and reduce output, those that collude in the market for workers are likely to pay lower wages and fire workers to create greater unemployment so they can sustain these lower wages and exploit workers.
-/Highlight on Location 2765-2768. [2019-10-21 8:43:14]./
+/Highlight on Location 2765-2768. [2019-10-21 08:43:14]./
 *** This phenomenon is known as “monopsony,” the reverse of --
 This phenomenon is known as “monopsony,” the reverse of monopoly.
-/Highlight on Location 2768-2769. [2019-10-21 8:44:09]./
+/Highlight on Location 2768-2769. [2019-10-21 08:44:09]./
 *** No investor holding shares of more than a single effective --
 No investor holding shares of more than a single effective firm in an oligopoly and participating in corporate governance may own more than 1% of the market.
-/Highlight on Location 2788-2789. [2019-10-21 8:46:57]./
+/Highlight on Location 2788-2789. [2019-10-21 08:46:57]./
 *** while data may have enormous value in total or on average, --
 while data may have enormous value in total or on average, on the margin no individual’s data are worth much.
-/Highlight on Location 3227-3228. [2019-10-23 8:34:10]./
+/Highlight on Location 3227-3228. [2019-10-23 08:34:10]./
 *** Varian’s argument is that while data may have enormous --
 Varian’s argument is that while data may have enormous value in total or on average, on the margin no individual’s data are worth much.
-/Highlight on Location 3227-3228. [2019-10-23 8:34:39]./
+/Highlight on Location 3227-3228. [2019-10-23 08:34:39]./
 *** Why, then, do siren servers not voluntarily pay their --
 Why, then, do siren servers not voluntarily pay their users to supply the high-quality data that would allow them to develop the best services?
-/Highlight on Location 3293-3294. [2019-10-23 8:44:32]./
+/Highlight on Location 3293-3294. [2019-10-23 08:44:32]./
 *** If data production is labor, why doesn’t a market for data --
 If data production is labor, why doesn’t a market for data work emerge as a part of the broader labor market?
-/Highlight on Location 3294-3295. [2019-10-23 8:44:41]./
+/Highlight on Location 3294-3295. [2019-10-23 08:44:41]./
 *** today, siren servers provide useful and enjoyable --
 today, siren servers provide useful and enjoyable information services, while taking the market value of the data we produce in exchange. We thus refer to this contemporary system as “technofeudalism.”
-/Highlight on Location 3311-3313. [2019-10-23 8:47:57]./
+/Highlight on Location 3311-3313. [2019-10-23 08:47:57]./
 *** Siren servers go to extraordinary lengths to hide the role --
 Siren servers go to extraordinary lengths to hide the role of human data work in producing their “magical” services, to the point where efforts to expose this work have become something of a social movement among Internet workers’ activists,
-/Highlight on Location 3327-3329. [2019-10-23 8:51:38]./
+/Highlight on Location 3327-3329. [2019-10-23 08:51:38]./
 *** An extensive literature in psychology has shown that, in --
 An extensive literature in psychology has shown that, in the right social context, labor becomes leisure; work becomes entertainment.
 /Highlight on Location 3341-3342. [2019-10-24 18:37:52]./
@@ -2158,13 +2158,13 @@ if robots can drive cars, they can also make purchase orders, accept deliveries,
 ** Slaughter, The
 *** On April 25, 1999, the party, in --
 On April 25, 1999, the party, in
-/#1561-1561的标注. [2018-10-09 7:28:04]./
+/#1561-1561的标注. [2018-10-09 07:28:04]./
 *** On April 25, 1999, the party, in --
 On April 25, 1999, the party, in
-/#1561-1561的标注. [2018-10-09 7:28:05]./
+/#1561-1561的标注. [2018-10-09 07:28:05]./
 *** On April 25, 1999, the party, in --
 On April 25, 1999, the party, in
-/#1561-1561的标注. [2018-10-09 7:28:47]./
+/#1561-1561的标注. [2018-10-09 07:28:47]./
 * Fisker, Jacob Lund;Averbach, Zev;Beaver, Ann
 ** Early Retirement Extreme: A philosophical and practical guide to financial independence
 *** In fact, by taking the other end of the bargain, saving as --
@@ -2191,7 +2191,7 @@ Je détourne le regard de ces images, elles disent le réel, pas la vérité.
 ** 1984
 *** seriously of smashing your head in with a cobblestone. --
 seriously of smashing your head in with a cobblestone.
-/#1810-1811的标注. [2019-05-06 6:47:13]./
+/#1810-1811的标注. [2019-05-06 06:47:13]./
 *** There are therefore two great problems which the Party is --
 There are therefore two great problems which the Party is concerned to solve. One is how to discover, against his will, what another human being is thinking, and the other is how to kill several hundred million people in a few seconds without giving warning beforehand.
 /#2942-2944的标注. [2019-07-12 15:32:34]./
@@ -2231,13 +2231,13 @@ Buddha. With a soft, yet firm voice the
 ** Ilíada, La
 *** Ea, cesa de disputar, no desenvaines la espada e injúrialo --
 Ea, cesa de disputar, no desenvaines la espada e injúrialo de palabra como te parezca. Lo
-/Highlight on Location 131-132. [2019-12-20 9:20:03]./
+/Highlight on Location 131-132. [2019-12-20 09:20:03]./
 *** Ea, cesa de disputar, no desenvaines la espada e injúrialo --
 Ea, cesa de disputar, no desenvaines la espada e injúrialo de palabra como te parezca.
-/Highlight on Location 131-132. [2019-12-20 9:20:07]./
+/Highlight on Location 131-132. [2019-12-20 09:20:07]./
 *** Quien a los dioses obedece es por ellos muy atendido. --
 Quien a los dioses obedece es por ellos muy atendido.
-/Highlight on Location 135-135. [2019-12-20 9:20:35]./
+/Highlight on Location 135-135. [2019-12-20 09:20:35]./
 *** Y durante todo el día los aqueos aplacaron al dios con el --
 Y durante todo el día los aqueos aplacaron al dios con el canto, entonando un hermoso peán a Apolo, el que hiere de lejos, que los oía con el corazón complacido.
 /Highlight on Location 247-248. [2019-12-20 19:00:11]./
@@ -2285,16 +2285,16 @@ El divino Alejandro, esposo de Helena, la de hermosa cabellera, vistió una magn
 /Highlight on Location 923-930. [2019-12-23 12:18:41]./
 *** No se olvidaron de ti, oh Menelao, los felices e --
 No se olvidaron de ti, oh Menelao, los felices e inmortales dioses y especialmente la hija de Zeus, que impera en las batallas; la cual, poniéndose delante, desvió la amarga flecha: apartóla del cuerpo como la madre ahuyenta una mosca de su niño que duerme con plácido sueño, y la dirigió al lugar donde los anillos de oro sujetaban el cinturón y la coraza era doble. La amarga saeta atravesó el ajustado cinturón, obra de artífice; se clavó en la magnífica coraza, y, rompiendo la chapa que el héroe llevaba para proteger el cuerpo contra las flechas y que lo defendió mucho, rasguñó la piel y al momento brotó de la herida la negra sangre.
-/Highlight on Location 962-967. [2019-12-23 8:30:25]./
+/Highlight on Location 962-967. [2019-12-23 08:30:25]./
 *** Ponía delante, con los respectivos carros y corceles, a --
 Ponía delante, con los respectivos carros y corceles, a los que desde aquéllos combatían; detrás, a gran copia de valientes peones que en la batalla formaban como un muro, y en medio, a los cobardes para que mal de su grado tuviesen que combatir.
-/Highlight on Location 1038-1040. [2019-12-23 8:47:50]./
+/Highlight on Location 1038-1040. [2019-12-23 08:47:50]./
 *** —¡Oh anciano! ¡Así como conservas el ánimo en tu pecho, --
 —¡Oh anciano! ¡Así como conservas el ánimo en tu pecho, tuvieras ágiles las rodillas y sin menoscabo las fuerzas! Pero te abruma la vejez, que a nadie respeta. Ojalá que otro cargase con ella y tú fueras contado en el número de los jóvenes.
-/Highlight on Location 1046-1048. [2019-12-23 8:48:47]./
+/Highlight on Location 1046-1048. [2019-12-23 08:48:47]./
 *** —¡Atrida! ¡Qué palabras se te escaparon del cerco de los --
 —¡Atrida! ¡Qué palabras se te escaparon del cerco de los dientes! ¿Por qué dices que somos remisos en ir al combate? Cuando los aqueos excitemos al feroz Ares contra los troyanos domadores de caballos, verás, si quieres y te importa, cómo el padre amado de Telémaco penetra por las primeras filas de los troyanos, domadores de caballos. Vano y sin fundamento es tu lenguaje.
-/Highlight on Location 1063-1065. [2019-12-23 8:51:36]./
+/Highlight on Location 1063-1065. [2019-12-23 08:51:36]./
 *** —Corre, buen hijo de Capaneo, baja del carro y arráncame --
 —Corre, buen hijo de Capaneo, baja del carro y arráncame del hombro la amarga flecha. 111 Así dijo. Esténelo saltó del carro al suelo, se le acercó, y sacóle del hombro la aguda flecha; la sangre chocaba, al salir a borbotones, contra las mallas de la túnica. Y entonces Diomedes, valiente en el combate, hizo esta plegaria: 115 —¡Óyeme, hija de Zeus, que lleva la égida! ¡Indómita! Si alguna vez amparaste benévola a mi padre en la cruel guerra, séme ahora propicia, ¡oh Atenea!, y haz que se ponga a tiro de lanza y reciba la muerte de mi mano quien se me anticipó hiriéndome, y ahora se jacta de que pronto dejaré de contemplar la fúlgida luz del sol.
 /Highlight on Location 1200-1206. [2019-12-23 17:55:40]./
@@ -2322,13 +2322,13 @@ finding controls on the screen by metadata such as CSS selectors or automation I
 ** Simple Path to Wealth: Your road map to financial independence and a rich, free life, The
 *** Avoid fiscally irresponsible people. Never marry one or --
 Avoid fiscally irresponsible people. Never marry one or otherwise give him or her access to your money.
-/Highlight on Location 198-198. [2017-02-23 7:48:18]./
+/Highlight on Location 198-198. [2017-02-23 07:48:18]./
 *** Money can buy many things, but nothing more valuable than --
 Money can buy many things, but nothing more valuable than your freedom.
-/Highlight on Location 202-202. [2017-02-23 7:48:49]./
+/Highlight on Location 202-202. [2017-02-23 07:48:49]./
 *** When you can live on 4% of your investments per year, you --
 When you can live on 4% of your investments per year, you are financially independent.
-/Highlight on Location 213-214. [2017-02-23 7:50:12]./
+/Highlight on Location 213-214. [2017-02-23 07:50:12]./
 * J.R.R. Tolkien
 ** Lord of the Rings, The
 *** heavy shadows gave way before it; --
@@ -2394,31 +2394,31 @@ Ansible’s use case isn’t HTML pages or emails — it’s configuration files
 ** Clean Code: A Handbook of Agile Software Craftsmanship
 *** Side effects are lies. Your function promises to do one --
 Side effects are lies. Your function promises to do one thing, but it also does other hidden things.
-/Highlight on Location 1626-1627. [2019-10-04 8:47:55]./
+/Highlight on Location 1626-1627. [2019-10-04 08:47:55]./
 *** Side effects are lies. Your function promises to do one --
 Side effects are lies. Your function promises to do one thing, but it also does other hidden things. Sometimes it will make unexpected changes to the variables of its own class. Sometimes it will make them to the parameters passed into the function or to system globals.
-/Highlight on Location 1626-1628. [2019-10-04 8:48:14]./
+/Highlight on Location 1626-1628. [2019-10-04 08:48:14]./
 *** This side effect creates a temporal coupling. That is, --
     This side effect creates a temporal coupling. That is, checkPassword can only be called at certain times (in other words, when it is safe to initialize the session).
-/Highlight on Location 1645-1646. [2019-10-04 8:50:36]./
+/Highlight on Location 1645-1646. [2019-10-04 08:50:36]./
 *** This side effect creates a temporal coupling. That is, --
 This side effect creates a temporal coupling. That is, checkPassword can only be called at certain times (in other words, when it is safe to initialize the session). If it is called out of order, session data may be inadvertently lost. Temporal couplings are confusing, especially when hidden as a side effect.
-/Highlight on Location 1645-1647. [2019-10-04 8:50:55]./
+/Highlight on Location 1645-1647. [2019-10-04 08:50:55]./
 *** Functions should either do something or answer something, --
 Functions should either do something or answer something, but not both. Either your function should change the state of an object, or it should return some information about that object.
-/Highlight on Location 1663-1664. [2019-10-04 8:54:03]./
+/Highlight on Location 1663-1664. [2019-10-04 08:54:03]./
 *** Command Query Separation Functions should either do --
 Command Query Separation Functions should either do something or answer something, but not both. Either your function should change the state of an object, or it should return some information about that object.
-/Highlight on Location 1662-1664. [2019-10-04 8:54:09]./
+/Highlight on Location 1662-1664. [2019-10-04 08:54:09]./
 *** if the keyword try exists in a function, it should be the --
 if the keyword try exists in a function, it should be the very first word in the function and that there should be nothing after the catch/finally blocks.
-/Highlight on Location 1712-1713. [2019-10-04 9:07:06]./
+/Highlight on Location 1712-1713. [2019-10-04 09:07:06]./
 *** The art of programming is, and has always been, the art of --
 The art of programming is, and has always been, the art of language design. Master programmers think of systems as stories to be told rather than programs to be written.
-/Highlight on Location 1766-1768. [2019-10-04 9:16:51]./
+/Highlight on Location 1766-1768. [2019-10-04 09:16:51]./
 *** Every system is built from a domain-specific language --
 Every system is built from a domain-specific language designed by the programmers to describe that system.
-/Highlight on Location 1764-1765. [2019-10-04 9:17:07]./
+/Highlight on Location 1764-1765. [2019-10-04 09:17:07]./
 *** Explanation of Intent Sometimes a comment goes beyond just --
 Explanation of Intent Sometimes a comment goes beyond just useful information about the implementation and provides the intent behind a decision.
 /Highlight on Location 1903-1904. [2019-10-05 19:45:13]./
@@ -2491,22 +2491,22 @@ In Winner’s formulation, one doesn’t develop expertise because one works har
 ** Post-Scarcity Anarchism
 *** We normally live completely immersed in the present—to --
 We normally live completely immersed in the present—to such a degree, in fact, that we often fail to see how much our own social period differs from the past—indeed from a mere generation ago. This captivity to the contemporary can be very insidious. It may shackle us unknowingly to the most reactionary aspects of tradition, be they obsolete values and ideologies, hierarchical forms of organization, or one-sided modes of political behavior. Unless our roots in contemporary life are broadened by a rich perspective, they may easily distort our understanding of the world as it really is, as well as its rich potentialities for the future.
-/Highlight on Location 34-38. [2020-02-03 8:21:11]./
+/Highlight on Location 34-38. [2020-02-03 08:21:11]./
 *** Until very recently, human society developed around the --
 Until very recently, human society developed around the brute issues posed by unavoidable material scarcity and their subjective counterpart in denial, renunciation and guilt.
-/Highlight on Location 39-40. [2020-02-03 8:21:52]./
+/Highlight on Location 39-40. [2020-02-03 08:21:52]./
 *** Material scarcity provided the historic rationale for the --
 Material scarcity provided the historic rationale for the development of the patriarchal family, private property, class domination and the state; it nourished the great divisions in hierarchical society that pitted town against country, mind against sensuousness, work against play, individual against society, and, finally, the individual against himself.
-/Highlight on Location 41-44. [2020-02-03 8:22:33]./
+/Highlight on Location 41-44. [2020-02-03 08:22:33]./
 *** We of the twentieth century are literally the heirs of --
 We of the twentieth century are literally the heirs of human history, the legatees of man's age-old effort to free himself from drudgery and material insecurity.
-/Highlight on Location 50-51. [2020-02-03 8:24:05]./
+/Highlight on Location 50-51. [2020-02-03 08:24:05]./
 *** We of this century have finally opened the prospect of --
 We of this century have finally opened the prospect of material abundance for all to enjoy—a sufficiency in the means of life without the need for grinding, day-to-day toil.
-/Highlight on Location 53-54. [2020-02-03 8:29:22]./
+/Highlight on Location 53-54. [2020-02-03 08:29:22]./
 *** the word "post-scarcity" means fundamentally more than a --
 the word "post-scarcity" means fundamentally more than a mere abundance of the means of life: it decidedly includes the kind of life these means support. The human relationships and psyche of the individual in a post-scarcity society must fully reflect the freedom, security and self-expression that this abundance makes possible. Post-scarcity society, in short, is the fulfillment of the social and cultural potentialities latent in a technology of abundance.
-/Highlight on Location 67-70. [2020-02-03 8:31:33]./
+/Highlight on Location 67-70. [2020-02-03 08:31:33]./
 *** Put simply: under capitalism we must try to achieve a --
 Put simply: under capitalism we must try to achieve a level of abundance that renders abundance meaningless and permits us to take possession of ourselves as free people, capable of choosing the lifeways that suit us.
 /Highlight on Location 541-542. [2020-02-03 18:12:37]./
@@ -2527,25 +2527,25 @@ It is now possible to conceive of man's future experience in terms of a coher 55
 /Highlight on Location 641-647. [2020-02-04 22:44:37]./
 *** Men do not remove their ties of bondage and become fully --
 Men do not remove their ties of bondage and become fully human merely by divesting themselves of social domination and obtaining freedom in its abstract form. They must also be free concretely: free from material want, from toil, from the burden of devoting the greater part of their time—indeed, the greater part of their lives—to the struggle with necessity. To have seen these material preconditions for human freedom, to have emphasized that freedom presupposes free time and the material abundance for abolishing free time as a social privilege, is the great contribution of Karl Marx to modern revolutionary theory.
-/Highlight on Location 648-652. [2020-02-05 8:43:04]./
+/Highlight on Location 648-652. [2020-02-05 08:43:04]./
 *** Men do not remove their ties of bondage and become fully --
 Men do not remove their ties of bondage and become fully human merely by divesting themselves of social domination and obtaining freedom in its abstract form. They must also be free concretely: free from material want, from toil, from the burden of devoting the greater part of their time—indeed, the greater part of their lives—to the struggle with necessity. To have seen these
-/Highlight on Location 648-651. [2020-02-05 8:43:06]./
+/Highlight on Location 648-651. [2020-02-05 08:43:06]./
 *** Men do not remove their ties of bondage and become fully --
 Men do not remove their ties of bondage and become fully human merely by divesting themselves of social domination and obtaining freedom in its abstract form. They must also be free concretely: free from material want, from toil, from the burden of devoting the greater part of their time—indeed, the greater part of their lives—to the struggle with necessity. To have seen these material preconditions for human freedom, to have emphasized that freedom presupposes free time and the material abundance for abolishing free time as a social privilege, is the great contribution of Karl Marx to modern revolutionary theory.
-/Highlight on Location 648-652. [2020-02-05 8:43:15]./
+/Highlight on Location 648-652. [2020-02-05 08:43:15]./
 *** If it is true that technological progress enlarges the --
 If it is true that technological progress enlarges the historical potentiality for freedom, it is also true that the bourgeois control of technology reinforces the established organization of society and everyday life.
-/Highlight on Location 654-656. [2020-02-05 8:43:48]./
+/Highlight on Location 654-656. [2020-02-05 08:43:48]./
 *** Technology and the resources of abundance furnish --
 Technology and the resources of abundance furnish capitalism with the means for assimilating large sections of society to the established system of hierarchy and authority.
-/Highlight on Location 656-657. [2020-02-05 8:43:56]./
+/Highlight on Location 656-657. [2020-02-05 08:43:56]./
 *** They provide the system with the weaponry, the detecting --
 They provide the system with the weaponry, the detecting devices and the propaganda media for the threat as well as the reality of massive repression.
-/Highlight on Location 657-658. [2020-02-05 8:44:04]./
+/Highlight on Location 657-658. [2020-02-05 08:44:04]./
 *** By their centralistic nature, the resources of abundance --
 By their centralistic nature, the resources of abundance reinforce the monopolistic, centralistic and bureaucratic tendencies in the political apparatus. In short, they furnish the state with historically unprecedented means for manipulating and mobilizing the entire environment of life—and for perpetuating hierarchy, exploitation and unfreedom.
-/Highlight on Location 658-661. [2020-02-05 8:44:23]./
+/Highlight on Location 658-661. [2020-02-05 08:44:23]./
 *** Socially, bourgeois exploitation and manipulation have --
 Socially, bourgeois exploitation and manipulation have brought everyday life to the most excruciating point of vacuity and boredom. As society has been converted into a factory and a marketplace, the very rationale of life has been reduced to production for its own sake—and consumption for its own sake.*
 /Highlight on Location 682-684. [2020-02-05 22:00:49]./
@@ -2590,43 +2590,43 @@ In seeking to change society, the revolutionist cannot avoid changes in himself 
 /Highlight on Location 808-810. [2020-02-08 18:59:25]./
 *** there can be no separation of the revolutionary process --
 there can be no separation of the revolutionary process from the revolutionary goal. A society whose fundamental aim is self-administration in all facets of life can be achieved only by self-activity. This implies a mode of administration that is always possessed by the self. The power of man over man can be destroyed only by the very process in which man acquires power over his own life and in which he not only "discovers" himself but, more meaningfully, in which he formulates his selfhood in all its social dimensions.
-/Highlight on Location 811-815. [2020-02-10 8:18:12]./
+/Highlight on Location 811-815. [2020-02-10 08:18:12]./
 *** the entire problem of power, of control from below and --
 the entire problem of power, of control from below and control from above, can be solved only if there is no above or below.
-/Highlight on Location 838-839. [2020-02-10 8:22:12]./
+/Highlight on Location 838-839. [2020-02-10 08:22:12]./
 *** What is the liberatory potential of modern technology, --
 What is the liberatory potential of modern technology, both materially and spiritually? What tendencies, if any, are reshaping the machine for use in an organic, humanoriented society?
-/Highlight on Location 1307-1309. [2020-02-10 8:35:22]./
+/Highlight on Location 1307-1309. [2020-02-10 08:35:22]./
 *** how can the new technology and resources be used in an --
 how can the new technology and resources be used in an ecological manner—that is, to promote the balance of nature, the full development of natural regions, and the creation of organic, humanistic communities?
-/Highlight on Location 1309-1310. [2020-02-10 8:35:41]./
+/Highlight on Location 1309-1310. [2020-02-10 08:35:41]./
 *** Virtually all the Utopias, theories and revolutionary --
 Virtually all the Utopias, theories and revolutionary programs of the early nineteenth century were faced with problems of necessity—of how to allocate labor and material goods at a relatively low level of technological development. These problems permeated revolutionary thought in a way comparable only to the impact of original sin on Christian theology. The fact that men would have to devote a substantial portion of their time to toil, for which they would get scant returns, formed a major premise of all socialist ideology—authoritarian and libertarian, Utopian and scientific, Marxist and anarchist.
-/Highlight on Location 1354-1358. [2020-02-10 8:49:28]./
+/Highlight on Location 1354-1358. [2020-02-10 08:49:28]./
 *** "Yes, life is a struggle. But this struggle is not between --
 "Yes, life is a struggle. But this struggle is not between man and man—it is between man and Nature; and it is each one's duty to share it."13
-/Highlight on Location 1362-1363. [2020-02-10 8:50:12]./
+/Highlight on Location 1362-1363. [2020-02-10 08:50:12]./
 *** According to Marx, the state would "wither away" as --
 According to Marx, the state would "wither away" as technology developed and enlarged the domain of freedom, granting humanity material plenty and the leisure to control its affairs directly.
-/Highlight on Location 1368-1369. [2020-02-10 8:52:11]./
+/Highlight on Location 1368-1369. [2020-02-10 08:52:11]./
 *** The distinction between pleasurable work and onerous toil --
 The distinction between pleasurable work and onerous toil should always be kept in mind.
-/Highlight on Location 1400-1400. [2020-02-10 8:59:05]./
+/Highlight on Location 1400-1400. [2020-02-10 08:59:05]./
 *** socialism was equated with a work-oriented society and --
 socialism was equated with a work-oriented society and liberty with the material security provided by full employment. The world of necessity had subtly invaded and corrupted the ideal of freedom.
-/Highlight on Location 1405-1406. [2020-02-10 9:00:30]./
+/Highlight on Location 1405-1406. [2020-02-10 09:00:30]./
 *** After thousands of years of torturous development, the --
 After thousands of years of torturous development, the countries of the Western world (and potentially all countries) are confronted by the possibility of a materially abundant, almost workless era in which most of the means of life can be provided by machines.
-/Highlight on Location 1409-1411. [2020-02-10 9:01:11]./
+/Highlight on Location 1409-1411. [2020-02-10 09:01:11]./
 *** Owing to the development of a cybernetic technology, the --
 Owing to the development of a cybernetic technology, the notion of a toil-less mode of life has become an article of faith to an ever-increasing number of young people.
-/Highlight on Location 1415-1416. [2020-02-10 9:01:59]./
+/Highlight on Location 1415-1416. [2020-02-10 09:01:59]./
 *** the real issue we face today is not whether this new --
 the real issue we face today is not whether this new technology can provide us with the means of life in a toil-less society, but whether it can help to humanize society, whether it can contribute to the creation of entirely new relationships between man and man. The demand for a guaranteed annual income is still anchored in the quantitative promise of technology—in the possibility of satisfying material needs without toil. This quantitative approach is already lagging behind technological developments that carry a new qualitative promise—the promise of decentralized, communitarian lifestyles, or what I prefer to call ecological forms of human association.*
-/Highlight on Location 1417-1421. [2020-02-10 9:04:01]./
+/Highlight on Location 1417-1421. [2020-02-10 09:04:01]./
 *** Once we transcend the concept of justice—indeed, once we --
 Once we transcend the concept of justice—indeed, once we pass from the quantitative to the qualitative potentialities of modern technology—we enter the unexplored domain of freedom, based on spontaneous organization and full access to the means of life.
-/Highlight on Location 1428-1430. [2020-02-10 9:06:22]./
+/Highlight on Location 1428-1430. [2020-02-10 09:06:22]./
 *** For the first time in history, technology has reached an --
 For the first time in history, technology has reached an open end. The potential for technological development, for providing machines as substitutes for labor is virtually unlimited. Technology has finally passed from the realm of invention to that of design—in other words, from fortuitous discoveries to systematic innovations.
 /Highlight on Location 1432-1434. [2020-02-10 17:39:22]./
@@ -2638,7 +2638,7 @@ there is no doubt that the digital computer is capable of taking over all the on
 /Highlight on Location 1513-1516. [2020-02-21 15:01:31]./
 *** The abolition of mining as a sphere of human activity --
 The abolition of mining as a sphere of human activity would symbolize, in its own way, the triumph of a liberatory technology.
-/Highlight on Location 1558-1559. [2020-02-24 7:59:08]./
+/Highlight on Location 1558-1559. [2020-02-24 07:59:08]./
 *** This much is certain: we can shift the center of economic --
 This much is certain: we can shift the center of economic power from national to local scale and from centralized bureaucratic forms to local, popular assemblies. This shift would be a revolutionary change of vast proportions, for it would create powerful economic foundations for the sovereignty and autonomy of the local community.
 /Highlight on Location 1668-1670. [2020-04-02 19:44:38]./
@@ -2689,27 +2689,27 @@ The near zero marginal cost phenomenon has already wreaked havoc on the publishi
 /Highlight on Location 170-171. [2019-12-30 20:28:31]./
 *** the schizophrenia that lies at the nucleus of the --
 the schizophrenia that lies at the nucleus of the capitalist system: the inherent entrepreneurial dynamism of competitive markets that drives productivity up and marginal costs down.
-/Highlight on Location 237-238. [2020-01-15 8:55:39]./
+/Highlight on Location 237-238. [2020-01-15 08:55:39]./
 *** A near zero marginal cost society is the optimally --
 A near zero marginal cost society is the optimally efficient state for promoting the general welfare and represents the ultimate triumph of capitalism. Its moment of triumph, however, also marks its inescapable passage from the world stage. While capitalism is far from putting itself out of business, it’s apparent that as it brings us ever closer to a near zero marginal cost society, its once unchallenged prowess is diminishing, making way for an entirely new way of organizing economic life in an age characterized by abundance rather than scarcity.
-/Highlight on Location 276-279. [2020-01-15 9:05:33]./
+/Highlight on Location 276-279. [2020-01-15 09:05:33]./
 *** a paradigm as a system of beliefs and assumptions that --
 a paradigm as a system of beliefs and assumptions that operate together to establish an integrated and unified worldview that is so convincing and compelling that it is regarded as tantamount to reality itself.
-/Highlight on Location 288-289. [2020-01-15 9:07:45]./
+/Highlight on Location 288-289. [2020-01-15 09:07:45]./
 *** this unquestioning acceptance, and refusal to envision --
 this unquestioning acceptance, and refusal to envision alternative explanations, leads to a festering of inconsistencies that pile up until a tipping point is reached where the existing paradigm is torn apart and replaced with a new explanatory paradigm better able to marshal the anomalies, insights, and new developments into a comprehensive new narrative.
-/Highlight on Location 293-296. [2020-01-15 9:09:04]./
+/Highlight on Location 293-296. [2020-01-15 09:09:04]./
 * Rutger Bregman
 ** Utopia for Realists
 *** we blame collective problems like unemployment, --
     we blame collective problems like unemployment, dissatisfaction, and depression on the individual. If success is a choice, then so is failure.
-    /Highlight on Location 240-241. [2017-01-25 7:56:33]./
+    /Highlight on Location 240-241. [2017-01-25 07:56:33]./
 *** And why is more than 60% of your income dependent on the --
 And why is more than 60% of your income dependent on the country where you just happen to have been born?34
-/Highlight on Location 294-295. [2017-01-25 8:05:44]./
+/Highlight on Location 294-295. [2017-01-25 08:05:44]./
 *** To be able to fill leisure intelligently is the last --
 To be able to fill leisure intelligently is the last product of civilization.
-/Highlight on Location 311-311. [2017-01-25 8:07:57]./
+/Highlight on Location 311-311. [2017-01-25 08:07:57]./
 *** So where has all that time gone? It’s quite simple, --
 So where has all that time gone? It’s quite simple, really. Time is money. Economic growth can yield either more leisure or more consumption. From 1850 until 1980, we got both, but since then, it is mostly consumption that has increased.
 /Highlight on Location 455-457. [2017-01-25 10:09:46]./
@@ -2748,13 +2748,13 @@ utopias are initially attacked on three grounds: futility (it’s not possible),
 /Highlight on Location 815-817. [2017-01-25 18:22:32]./
 *** See it as a dividend on progress, made possible by the --
 See it as a dividend on progress, made possible by the blood, sweat, and tears of past generations.
-/Highlight on Location 869-869. [2017-01-26 7:59:39]./
+/Highlight on Location 869-869. [2017-01-26 07:59:39]./
 *** In the end, only a fraction of our prosperity is due to --
 In the end, only a fraction of our prosperity is due to our own exertions. We, the inhabitants of the Land of Plenty, are rich thanks to the institutions, the knowledge, and the social capital amassed for us by our forebears. This wealth belongs to us all. And a basic income allows all of us to share it.
-/Highlight on Location 869-871. [2017-01-26 7:59:53]./
+/Highlight on Location 869-871. [2017-01-26 07:59:53]./
 *** Labor is becoming less and less scarce. --
 Labor is becoming less and less scarce.
-/Highlight on Location 894-894. [2017-01-26 8:03:28]./
+/Highlight on Location 894-894. [2017-01-26 08:03:28]./
 *** “On mechanical slavery, on the slavery of the machine, the --
 “On mechanical slavery, on the slavery of the machine, the future of the world depends.” However, there’s something else that is equally vital to the future of our world, and that’s a mechanism for redistribution.
 /Highlight on Location 1090-1091. [2017-01-26 10:05:29]./
@@ -2814,16 +2814,16 @@ the myth of the lazy poor.
 /Highlight on Location 1483-1483. [2017-01-26 23:11:02]./
 *** No longer would there be such a thing as the “deserving” --
 No longer would there be such a thing as the “deserving” or “undeserving” poor. Rooted in the old Elizabethan Poor Law, this historical distinction is, to this day, one of the main obstacles to a world without poverty.
-/Highlight on Location 1615-1617. [2017-01-27 7:59:08]./
+/Highlight on Location 1615-1617. [2017-01-27 07:59:08]./
 *** Arguments once used in support of basic income (the old --
 Arguments once used in support of basic income (the old system was inefficient, expensive, demeaning) came to be leveled against the welfare state in its entirety.
-/Highlight on Location 1619-1621. [2017-01-27 7:59:38]./
+/Highlight on Location 1619-1621. [2017-01-27 07:59:38]./
 *** In other words, the fact that something is difficult does --
 In other words, the fact that something is difficult does not automatically make it valuable.
-/Highlight on Location 1764-1765. [2017-01-27 8:19:09]./
+/Highlight on Location 1764-1765. [2017-01-27 08:19:09]./
 *** The government isn’t the only one redistributing wealth. --
 The government isn’t the only one redistributing wealth. The financial sector does it, too, but without a democratic mandate.
-/Highlight on Location 1768-1769. [2017-01-27 8:19:43]./
+/Highlight on Location 1768-1769. [2017-01-27 08:19:43]./
 *** Intelligent people are highly practiced in finding --
 Intelligent people are highly practiced in finding arguments, experts, and studies that underpin their preexisting beliefs,
 /Highlight on Location 2515-2516. [2017-01-27 10:12:40]./
@@ -2897,43 +2897,43 @@ git add is a multipurpose command—you use it to begin tracking new files, to s
 /Highlight on Location 867-869. [2020-02-04 22:52:15]./
 *** the commit records the snapshot you set up in your staging --
 the commit records the snapshot you set up in your staging area.
-/Highlight on Location 1080-1081. [2020-02-05 8:19:12]./
+/Highlight on Location 1080-1081. [2020-02-05 08:19:12]./
 *** if you wanted to find the last commit that added or --
 if you wanted to find the last commit that added or removed a reference to a specific function, you could call:               $ git log --Sfunction_name
-/Highlight on Location 1360-1361. [2020-02-06 8:20:02]./
+/Highlight on Location 1360-1361. [2020-02-06 08:20:02]./
 *** Some people refer to Git’s branching model as its “killer --
 Some people refer to Git’s branching model as its “killer feature,” and it certainly sets Git apart in the VCS community.
-/Highlight on Location 1810-1811. [2020-02-06 8:49:45]./
+/Highlight on Location 1810-1811. [2020-02-06 08:49:45]./
 *** Git doesn’t store data as a series of changesets or --
 Git doesn’t store data as a series of changesets or differences, but instead as a series of snapshots.
-/Highlight on Location 1816-1817. [2020-02-07 8:26:44]./
+/Highlight on Location 1816-1817. [2020-02-07 08:26:44]./
 *** Staging the files checksums each one --
 Staging the files checksums each one
-/Highlight on Location 1821-1822. [2020-02-07 8:33:44]./
+/Highlight on Location 1821-1822. [2020-02-07 08:33:44]./
 *** Staging the files checksums each one (the SHA-1 hash we --
 Staging the files checksums each one (the SHA-1 hash we mentioned in Chapter
-/Highlight on Location 1821-1822. [2020-02-07 8:34:08]./
+/Highlight on Location 1821-1822. [2020-02-07 08:34:08]./
 *** Staging the files checksums each one (the SHA-1 hash we --
 Staging the files checksums each one (the SHA-1 hash we mentioned in Chapter 1), stores that version of the file in the Git repository (Git refers to them as blobs), and adds that checksum to the staging area:
-/Highlight on Location 1821-1823. [2020-02-07 8:34:13]./
+/Highlight on Location 1821-1823. [2020-02-07 08:34:13]./
 *** A branch in Git is simply a lightweight movable pointer to --
 A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master. As you start making commits, you’re given a master branch that points to the last commit you made. Every time you commit, it moves forward automatically.
-/Highlight on Location 1835-1836. [2020-02-07 8:41:07]./
+/Highlight on Location 1835-1836. [2020-02-07 08:41:07]./
 *** How does Git know what branch you’re currently on? It --
 How does Git know what branch you’re currently on? It keeps a special pointer called HEAD.
-/Highlight on Location 1847-1847. [2020-02-07 8:42:03]./
+/Highlight on Location 1847-1847. [2020-02-07 08:42:03]./
 *** In Git, this is a pointer to the local branch you’re --
 In Git, this is a pointer to the local branch you’re currently on.
-/Highlight on Location 1848-1849. [2020-02-07 8:42:13]./
+/Highlight on Location 1848-1849. [2020-02-07 08:42:13]./
 *** SWITCHING BRANCHES CHANGES FILES IN YOUR WORKING DIRECTORY --
 SWITCHING BRANCHES CHANGES FILES IN YOUR WORKING DIRECTORY
-/Highlight on Location 1879-1879. [2020-02-07 8:43:49]./
+/Highlight on Location 1879-1879. [2020-02-07 08:43:49]./
 *** Because a branch in Git is in actuality a simple file that --
 Because a branch in Git is in actuality a simple file that contains the 40 character SHA-1 checksum of the commit it points to, branches are cheap to create and destroy.
-/Highlight on Location 1900-1901. [2020-02-07 8:44:58]./
+/Highlight on Location 1900-1901. [2020-02-07 08:44:58]./
 *** Because a branch in Git is in actuality a simple file that --
 Because a branch in Git is in actuality a simple file that contains the 40 character SHA-1 checksum of the commit it points to, branches are cheap to create and destroy. Creating a new branch is as quick and simple as writing 41 bytes to a file (40 characters and a newline).
-/Highlight on Location 1900-1902. [2020-02-07 8:45:10]./
+/Highlight on Location 1900-1902. [2020-02-07 08:45:10]./
 *** when you switch branches, Git resets your working --
 when you switch branches, Git resets your working directory to look like it did the last time you committed on that branch. It adds, removes, and modifies files automatically to make sure your working copy is what the branch looked like on your last commit to
 /Highlight on Location 1946-1947. [2020-02-07 17:21:20]./
@@ -2978,10 +2978,10 @@ A remote repository is generally a bare repository—a Git repository that has n
 /Highlight on Location 2468-2471. [2020-02-20 18:37:12]./
 *** You work on your web site and do some commits. Doing so --
 You work on your web site and do some commits. Doing so moves the iss53 branch forward, because you have it checked out (that is, your HEAD is pointing to it):
-/Highlight on Location 1929-1930. [2020-02-21 8:34:50]./
+/Highlight on Location 1929-1930. [2020-02-21 08:34:50]./
 *** if your working directory or staging area has uncommitted --
 if your working directory or staging area has uncommitted changes that conflict with the branch you’re checking out, Git won’t let you switch branches.
-/Highlight on Location 1939-1940. [2020-02-21 8:36:30]./
+/Highlight on Location 1939-1940. [2020-02-21 08:36:30]./
 * Shaila Catherine
 ** Wisdom Wide and Deep
 *** A deliberate and wise application of attention is the root --
@@ -3000,16 +3000,16 @@ self- actualization, the need to fulfill one’s unique potential.
 /Highlight on Location 1818-1819. [2019-09-15 23:14:01]./
 *** A schema is a model of, or theory about, some part of the --
 A schema is a model of, or theory about, some part of the world. It is “a kind of informal, private unarticulated theory about the nature of events, objects, or situations which we face. The total set of schemas we have available for interpreting our world,” writes the Stanford psychologist David Rumelhart, “in a sense constitutes our private theory of the nature of reality.”4
-/Highlight on Location 1832-1835. [2019-09-17 8:58:32]./
+/Highlight on Location 1832-1835. [2019-09-17 08:58:32]./
 *** “Dreams are real while they last, can we say more of --
 “Dreams are real while they last, can we say more of life?”1
-/Highlight on Location 2429-2430. [2019-09-17 9:16:58]./
+/Highlight on Location 2429-2430. [2019-09-17 09:16:58]./
 *** Peak performers, he found, were relaxed, confident, --
 Peak performers, he found, were relaxed, confident, optimistic, focused on the present, highly energized, extremely aware of the environment, in control, and completely in touch with their powers and skills.1
-/Highlight on Location 2697-2699. [2019-09-17 9:19:13]./
+/Highlight on Location 2697-2699. [2019-09-17 09:19:13]./
 *** Dreams are the most vivid type of mental imagery most --
 Dreams are the most vivid type of mental imagery most people are likely to experience. The more the mental rehearsal of a skill feels like the real thing, the greater the effect it is likely to have on waking performance.
-/Highlight on Location 2712-2713. [2019-09-17 9:23:22]./
+/Highlight on Location 2712-2713. [2019-09-17 09:23:22]./
 *** “sensory-motor skills which have already been mastered in --
 “sensory-motor skills which have already been mastered in their rough outlines can be optimized by using lucid dreams.”
 /Highlight on Location 2768-2769. [2019-09-21 17:52:12]./
@@ -3092,43 +3092,43 @@ Do what you know right now, that will make you know more and more.
 /32-32 页的标注. [2019-01-13 19:00:39]./
 *** If you decide right now --
 If you decide right now
-/43-43 页的标注. [2019-01-15 9:19:12]./
+/43-43 页的标注. [2019-01-15 09:19:12]./
 *** Honestly make a decision “I’ll not harm myself and I will --
 Honestly make a decision “I’ll not harm myself and I will not harm anybody else”, with sincerity
-/43-43 页的标注. [2019-01-15 9:19:27]./
+/43-43 页的标注. [2019-01-15 09:19:27]./
 *** Each aspect of our life is connected with other aspects of --
 Each aspect of our life is connected with other aspects of our life
-/44-44 页的标注. [2019-01-15 9:20:36]./
+/44-44 页的标注. [2019-01-15 09:20:36]./
 *** Whatever you do, it will affect your meditation, either in --
 Whatever you do, it will affect your meditation, either in a good way or in a bad way.
-/44-44 页的标注. [2019-01-15 9:20:56]./
+/44-44 页的标注. [2019-01-15 09:20:56]./
 *** What counts is how we live our daily life. How --
 What counts is how we live our daily life. How constructively we use the resources that we have and how lovingly we treat the people around us
-/45-45 页的标注. [2019-01-15 9:22:51]./
+/45-45 页的标注. [2019-01-15 09:22:51]./
 *** What counts is how we live our daily life. How --
 What counts is how we live our daily life. How constructively we use the resources that we have and how lovingly we treat the people around us. The two keys to successful living are attunement to spirituality and service to our fellow man, the two go together
-/45-45 页的标注. [2019-01-15 9:23:18]./
+/45-45 页的标注. [2019-01-15 09:23:18]./
 *** If you keep meditating you’ll find your own answers. --
 If you keep meditating you’ll find your own answers.
 /49-49 页的标注. [2019-01-16 19:57:40]./
 *** Sometimes you don’t even know where you are sitting --
 Sometimes you don’t even know where you are sitting whether you are facing east or west, we don’t know that anymore. Sometimes very strange feelings happen; you don’t even know who you are sometimes, because who you are is another idea you created in your mind. But to get to that point you need to have deep insight of anatta (non soul, non self
-/55-55 页的标注. [2019-01-18 8:10:56]./
+/55-55 页的标注. [2019-01-18 08:10:56]./
 *** Sometimes you don’t even know where you are sitting --
 Sometimes you don’t even know where you are sitting whether you are facing east or west, we don’t know that anymore. Sometimes very strange feelings happen; you don’t even know who you are sometimes, because who you are is another idea you created in your mind. But to get to that point you need to have deep insight of anatta (non soul, non self
-/55-55 页的标注. [2019-01-18 8:11:02]./
+/55-55 页的标注. [2019-01-18 08:11:02]./
 *** Sometimes you don’t even know where you are sitting --
 Sometimes you don’t even know where you are sitting whether you are facing east or west, we don’t know that anymore. Sometimes very strange feelings happen; you don’t even know who you are sometimes, because who you are is another idea you created in your mind. But to get to that point you need to have deep insight of anatta (non soul, non self
-/55-55 页的标注. [2019-01-18 8:11:06]./
+/55-55 页的标注. [2019-01-18 08:11:06]./
 *** When your mind has developed this wisdom of anatta, --
 When your mind has developed this wisdom of anatta, sometimes you don’t
-/55-55 页的标注. [2019-01-18 8:11:29]./
+/55-55 页的标注. [2019-01-18 08:11:29]./
 *** When your mind has developed this wisdom of anatta, --
 When your mind has developed this wisdom of anatta, sometimes you don’t
-/55-55 页的标注. [2019-01-18 8:11:34]./
+/55-55 页的标注. [2019-01-18 08:11:34]./
 *** When your mind has developed this wisdom of anatta, --
 When your mind has developed this wisdom of anatta, sometimes you don’t even know your name
-/55-55 页的标注. [2019-01-18 8:11:37]./
+/55-55 页的标注. [2019-01-18 08:11:37]./
 ** Unknown
 *** the context in which BDD was born. It was a response to a --
 the context in which BDD was born. It was a response to a triple conundrum: programmers didn’t want to write tests; testers didn’t want programmers writing tests; and business stakeholders didn’t see any value in anything that wasn’t production code. I didn’t think I was inventing a methodology—I was just trying to teach TDD to a bunch of programmers without scaring off the testers.
@@ -3219,25 +3219,25 @@ A complex problem, like discovering ways to delight clients, is best solved by a
 /Highlight on Location 963-965. [2020-03-09 18:40:44]./
 *** When teams practice BDD, on the other hand, team members --
 When teams practice BDD, on the other hand, team members build up a shared appreciation of the users’ needs, as well as a sense of common ownership and engagement in the solution.
-/Highlight on Location 981-982. [2020-03-12 8:29:54]./
+/Highlight on Location 981-982. [2020-03-12 08:29:54]./
 *** A BDD team knows that they won’t know everything upfront, --
 A BDD team knows that they won’t know everything upfront, no matter how long they spend writing specifications. As we discussed earlier, the biggest thing slowing developers down in a software project is understanding what they need to build. Rather than attempting
-/Highlight on Location 983-985. [2020-03-12 8:30:10]./
+/Highlight on Location 983-985. [2020-03-12 08:30:10]./
 *** Embrace Uncertainty A BDD team knows that they won’t know --
 Embrace Uncertainty A BDD team knows that they won’t know everything upfront, no matter how long they spend writing specifications. As we discussed earlier, the biggest thing slowing developers down in a software project is understanding what they need to build. Rather than attempting to lock down the specifications at the start of the project, BDD practitioners assume that the requirements, or more precisely, their understanding of the requirements, will evolve and change throughout the life of a project. They try to get early feedback from the users and stakeholders to ensure that they’re on track, and change tack accordingly, instead of waiting until the end of the project to see if their assumptions about the business requirements were correct.
-/Highlight on Location 982-988. [2020-03-12 8:30:32]./
+/Highlight on Location 982-988. [2020-03-12 08:30:32]./
 *** Very often, the most effective way to see if users like a --
 Very often, the most effective way to see if users like a feature is to build it and show it to them as early as possible. With this in mind, experienced BDD teams prioritize the features that will deliver value, will improve their understanding of what features the users really need, and will help them understand how best to build and deliver these features.
-/Highlight on Location 988-990. [2020-03-12 8:30:52]./
+/Highlight on Location 988-990. [2020-03-12 08:30:52]./
 *** Illustrate Features with Concrete Examples When a team --
 Illustrate Features with Concrete Examples When a team practicing BDD decides to implement a feature, they work together with users and other stakeholders to define stories and scenarios of what users expect this feature to deliver. In particular, the users help define a set of concrete examples that illustrate key outcomes of the feature
-/Highlight on Location 991-993. [2020-03-12 8:33:13]./
+/Highlight on Location 991-993. [2020-03-12 08:33:13]./
 *** Examples are also a great way to explore and expand your --
 Examples are also a great way to explore and expand your knowledge. When a user proposes an example of how a feature should behave, project team members often ask for extra examples to illustrate corner cases, explore edge cases, or clarify assumptions. Testers are particularly good at this, which is why it’s so valuable for them to be involved at this stage of the project.
-/Highlight on Location 1005-1007. [2020-03-12 8:34:36]./
+/Highlight on Location 1005-1007. [2020-03-12 08:34:36]./
 *** Don’t write automated tests, write executable --
 Don’t write automated tests, write executable specifications
-/Highlight on Location 1050-1051. [2020-03-13 7:40:54]./
+/Highlight on Location 1050-1051. [2020-03-13 07:40:54]./
 *** These executable specifications also become a single --
 These executable specifications also become a single source of truth, providing reference documentation for how features should be implemented.
 /Highlight on Location 1074-1075. [2020-03-14 11:03:12]./
@@ -3350,13 +3350,13 @@ the networked environment makes possible a new modality of organizing production
 ** é¦æ¸¯é©æ°è«IFREE
 *** 1980 年代的「民主回歸論」，設想中國大陸在經濟改革後，會逐步走上民主之 --
 1980 年代的「民主回歸論」，設想中國大陸在經濟改革後，會逐步走上民主之 路；同時寄希望於港陸之間的良性互動，會為香港帶來更大的民主空間 —— 這是香港前途的「第一種想像
-/Highlight on page 12-12. [2020-01-03 9:07:18]./
+/Highlight on page 12-12. [2020-01-03 09:07:18]./
 *** 2012 年以來，「獨立建國論」興起，從城邦建國、到香港獨立，都設想了中共 --
 2012 年以來，「獨立建國論」興起，從城邦建國、到香港獨立，都設想了中共 政權即將崩潰，令香港可以擺脫北京控制，自決政治未來 —— 這是香港前途 的「第二種想像
-/Highlight on page 12-12. [2020-01-03 9:08:00]./
+/Highlight on page 12-12. [2020-01-03 09:08:00]./
 *** 2015 年，當「第一種想像」被人大決定壓垮了、而「第二種想像」 仿似是在政 --
 2015 年，當「第一種想像」被人大決定壓垮了、而「第二種想像」 仿似是在政 治預言之時，結合了威權政治和經濟實力的天朝宗主，已經全面壓境席捲我城 —— 我城已處於存亡之秋，難道我們仍然只能囿於這兩種想像，坐看我城崩 塌？
-/Highlight on page 12-12. [2020-01-03 9:08:41]./
+/Highlight on page 12-12. [2020-01-03 09:08:41]./
 *** 近年北京走向「天朝主義」，駐港機構加緊干預香 港的自治事務，以無孔不入的國家機器為槓桿，將香港推向「選舉專制政 --
 近年北京走向「天朝主義」，駐港機構加緊干預香 港的自治事務，以無孔不入的國家機器為槓桿，將香港推向「選舉專制政 體」，各種「政治操控」包括選舉操控、媒體操控、政治檢控及統戰滲透等等 籠罩我城，令一國兩制名存實亡，核心價值面臨崩潰
 /Highlight on page 13-13. [2020-01-03 14:20:26]./
@@ -3407,13 +3407,13 @@ the networked environment makes possible a new modality of organizing production
 ** The Little Book That Beats the Market
 *** Another problem with these simple methods is that, though --
  Another problem with these simple methods is that, though they work well, they work far better with smallerand medium-capitalization stocks than with larger stocks. This should not be surprising, either. Companies that are
- /Highlight on page 172-172. [2019-09-09 8:34:32]./
+ /Highlight on page 172-172. [2019-09-09 08:34:32]./
 *** too small for professionals to buy and that are not large --
  too small for professionals to buy and that are not large enough to generate sufficient commission revenue to justify analyst coverage are more likely to be ignored or misunderstood. As a result, they are more likely to present opportunities to find bargain-priced stocks. This was the case in the magic formula study. The formula achieved the greatest performance with the smallest-capitalization stocks studied.
- /Highlight on page 173-173. [2019-09-09 8:34:47]./
+ /Highlight on page 173-173. [2019-09-09 08:34:47]./
 *** To utilize the magic formula strategy successfully, you --
  To utilize the magic formula strategy successfully, you must understand only two basic concepts. First, buying good companies at bargain prices makes sense. On average, this is what the magic formula does. Second, it can take Mr. Market several years to recognize a bargain. Therefore, the magic formula strategy requires patience
- /Highlight on page 161-161. [2019-09-09 8:50:08]./
+ /Highlight on page 161-161. [2019-09-09 08:50:08]./
 * Updike, John, Thoreau, Henry David, Shanley, J. Lyndon
 ** Walden
 *** Most of the luxuries, and many of the so called comforts --
@@ -3428,31 +3428,31 @@ Almost anything carried to its logical extreme becomes depressing, if not carcin
 ** How to Read a Book (A Touchstone book)
 *** There is a sense in which we moderns are inundated with --
 There is a sense in which we moderns are inundated with facts to the detriment of understanding.
-/Highlight on Location 220-220. [2019-09-03 8:45:06]./
+/Highlight on Location 220-220. [2019-09-03 08:45:06]./
 *** Reading and listening are thought of as receiving --
 Reading and listening are thought of as receiving communication from someone who is actively engaged in giving or sending it. The mistake here is to suppose that receiving communication is like receiving a blow or a legacy or a judgment from the court. On the contrary, the reader or listener is much more like the catcher in a game of baseball.
-/Highlight on Location 238-240. [2019-09-03 8:47:19]./
+/Highlight on Location 238-240. [2019-09-03 08:47:19]./
 *** Successful communication occurs in any case where what the --
 Successful communication occurs in any case where what the writer wanted to have received finds its way into the reader’s possession.
-/Highlight on Location 249-250. [2019-09-03 8:48:55]./
+/Highlight on Location 249-250. [2019-09-03 08:48:55]./
 *** there is initial inequality in understanding. The writer --
 there is initial inequality in understanding. The writer must be “superior” to the reader in understanding, and his book must convey in readable form the insights he possesses and his potential readers lack.
-/Highlight on Location 304-305. [2019-09-03 9:01:11]./
+/Highlight on Location 304-305. [2019-09-03 09:01:11]./
 *** we can learn only from our “betters.” We must know who --
 we can learn only from our “betters.” We must know who they are and how to learn from them.
-/Highlight on Location 307-308. [2019-09-03 9:01:20]./
+/Highlight on Location 307-308. [2019-09-03 09:01:20]./
 *** all of us, without exception, can learn to read better and --
 all of us, without exception, can learn to read better and gradually gain more by our efforts through applying them to more rewarding materials.
-/Highlight on Location 309-310. [2019-09-03 9:02:10]./
+/Highlight on Location 309-310. [2019-09-03 09:02:10]./
 *** Our subject, then, is the art of reading good books when --
 Our subject, then, is the art of reading good books when understanding is the aim you have in view.
-/Highlight on Location 321-322. [2019-09-03 9:03:26]./
+/Highlight on Location 321-322. [2019-09-03 09:03:26]./
 *** If, however, you ask a book a question, you must answer it --
 If, however, you ask a book a question, you must answer it yourself. In this respect a book is like nature or the world. When you question it, it answers you only to the extent that you
-/Highlight on Location 380-382. [2019-09-03 9:12:26]./
+/Highlight on Location 380-382. [2019-09-03 09:12:26]./
 *** If, however, you ask a book a question, you must answer it --
 If, however, you ask a book a question, you must answer it yourself. In this respect a book is like nature or the world. When you question it, it answers you only to the extent that you
-/Highlight on Location 380-382. [2019-09-03 9:12:31]./
+/Highlight on Location 380-382. [2019-09-03 09:12:31]./
 *** for those of us who are not in school, and indeed also for --
 for those of us who are not in school, and indeed also for those of us who are when we try to read books that are not required or assigned, our continuing education depends mainly on books alone, read without a teacher’s help. Therefore if we are disposed to go on learning and discovering, we must know how to make books teach us well.
 /Highlight on Location 386-388. [2019-09-03 13:35:03]./
@@ -3494,40 +3494,40 @@ In tackling a difficult book for the first time, read it through without ever st
 /Highlight on Location 678-679. [2019-09-03 21:16:16]./
 *** Many books are hardly worth even skimming; some should be --
 Many books are hardly worth even skimming; some should be read quickly; and a few should be read at a rate, usually quite slow, that allows for complete comprehension.
-/Highlight on Location 717-718. [2019-09-04 8:21:49]./
+/Highlight on Location 717-718. [2019-09-04 08:21:49]./
 *** Every book should be read no more slowly than it deserves, --
 Every book should be read no more slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension.
-/Highlight on Location 774-775. [2019-09-04 8:31:27]./
+/Highlight on Location 774-775. [2019-09-04 08:31:27]./
 *** Skimming or pre-reading a book is always a good idea; it --
 Skimming or pre-reading a book is always a good idea; it is necessary when you do not know, as is often the case, whether the book you have in hand is worth reading carefully. You will find that out by skimming
-/Highlight on Location 776-778. [2019-09-04 8:32:43]./
+/Highlight on Location 776-778. [2019-09-04 08:32:43]./
 *** Skimming or pre-reading a book is always a good idea; it --
 Skimming or pre-reading a book is always a good idea; it is necessary when you do not know, as is often the case, whether the book you have in hand is worth reading carefully. You will find that out by skimming it.
-/Highlight on Location 776-778. [2019-09-04 8:32:49]./
+/Highlight on Location 776-778. [2019-09-04 08:32:49]./
 *** do not try to understand every word or page of a difficult --
 do not try to understand every word or page of a difficult book the first time through. This is the most important rule of all; it is the essence of inspectional reading.
-/Highlight on Location 779-780. [2019-09-04 8:33:09]./
+/Highlight on Location 779-780. [2019-09-04 08:33:09]./
 *** prescription for active reading. It is: Ask questions --
 prescription for active reading. It is: Ask questions while you read—questions that you yourself must try to answer in the course of reading.
-/Highlight on Location 812-813. [2019-09-04 8:37:18]./
+/Highlight on Location 812-813. [2019-09-04 08:37:18]./
 *** There are four main questions you must ask about any --
 There are four main questions you must ask about any book.I 1. WHAT IS THE BOOK ABOUT AS A WHOLE?
-/Highlight on Location 814-816. [2019-09-04 8:37:52]./
+/Highlight on Location 814-816. [2019-09-04 08:37:52]./
 *** 2. WHAT IS BEING SAID IN DETAIL, AND HOW? --
 2. WHAT IS BEING SAID IN DETAIL, AND HOW?
-/Highlight on Location 817-818. [2019-09-04 8:38:19]./
+/Highlight on Location 817-818. [2019-09-04 08:38:19]./
 *** 3. IS THE BOOK TRUE, IN WHOLE OR PART? You --
 3. IS THE BOOK TRUE, IN WHOLE OR PART? You
-/Highlight on Location 819-819. [2019-09-04 8:39:07]./
+/Highlight on Location 819-819. [2019-09-04 08:39:07]./
 *** 3. IS THE BOOK TRUE, IN WHOLE OR PART? --
 3. IS THE BOOK TRUE, IN WHOLE OR PART?
-/Highlight on Location 819-819. [2019-09-04 8:39:12]./
+/Highlight on Location 819-819. [2019-09-04 08:39:12]./
 *** 4. WHAT OF IT? --
 4. WHAT OF IT?
-/Highlight on Location 822-822. [2019-09-04 8:39:30]./
+/Highlight on Location 822-822. [2019-09-04 08:39:30]./
 *** Reading a book on any level beyond the elementary is --
 Reading a book on any level beyond the elementary is essentially an effort on your part to ask it questions (and to answer them to the best of your ability).
-/Highlight on Location 826-827. [2019-09-04 8:40:56]./
+/Highlight on Location 826-827. [2019-09-04 08:40:56]./
 *** there are novelists who do not know the difference between --
 there are novelists who do not know the difference between fiction and sociology.
 /Highlight on Location 1129-1130. [2019-09-04 18:06:37]./
@@ -3545,25 +3545,25 @@ This difference in method always reveals itself in philo sophical and scientific
 /Highlight on Location 1178-1179. [2019-09-04 20:13:30]./
 *** RULE 2. STATE THE UNITY OF THE WHOLE BOOK IN A SINGLE --
 RULE 2. STATE THE UNITY OF THE WHOLE BOOK IN A SINGLE SENTENCE, OR AT MOST A FEW SENTENCES (A SHORT PARAGRAPH).
-/Highlight on Location 1211-1213. [2019-09-05 8:41:14]./
+/Highlight on Location 1211-1213. [2019-09-05 08:41:14]./
 *** second rule of analytical reading can be expressed as --
 second rule of analytical reading can be expressed as follows: RULE 2. STATE THE UNITY OF THE WHOLE BOOK IN A SINGLE SENTENCE, OR AT MOST A FEW SENTENCES (A SHORT PARAGRAPH).
-/Highlight on Location 1211-1213. [2019-09-05 8:41:24]./
+/Highlight on Location 1211-1213. [2019-09-05 08:41:24]./
 *** The second rule of analytical reading can be expressed as --
 The second rule of analytical reading can be expressed as follows: RULE 2. STATE THE UNITY OF THE WHOLE BOOK IN A SINGLE SENTENCE, OR AT MOST A FEW SENTENCES (A SHORT PARAGRAPH).
-/Highlight on Location 1211-1213. [2019-09-05 8:41:31]./
+/Highlight on Location 1211-1213. [2019-09-05 08:41:31]./
 *** The most readable book is an architectural achievement on --
 The most readable book is an architectural achievement on the part of the author. The best books are those that have the most intelligible structure.
-/Highlight on Location 1241-1242. [2019-09-05 8:46:03]./
+/Highlight on Location 1241-1242. [2019-09-05 08:46:03]./
 *** the best books are also the most readable. --
 the best books are also the most readable.
-/Highlight on Location 1244-1244. [2019-09-05 8:46:26]./
+/Highlight on Location 1244-1244. [2019-09-05 08:46:26]./
 *** In the eighteenth century, writers had the habit of --
 In the eighteenth century, writers had the habit of composing elaborate titles that told the reader what the whole book was about.
-/Highlight on Location 1266-1267. [2019-09-05 8:49:43]./
+/Highlight on Location 1266-1267. [2019-09-05 08:49:43]./
 *** A scientific or philosophical writer has no reason to keep --
 A scientific or philosophical writer has no reason to keep you in suspense. In fact, the less suspense he keeps you in, the more likely you are to sustain the effort of reading him through.
-/Highlight on Location 1273-1274. [2019-09-05 8:51:29]./
+/Highlight on Location 1273-1274. [2019-09-05 08:51:29]./
 *** you must learn to forget the separate acts in order to --
 you must learn to forget the separate acts in order to perform all of them, and indeed any of them, well. But in order to forget them as separate acts, you have to learn them first as separate acts.
 /Highlight on Location 932-934. [2019-09-23 17:49:07]./
@@ -3650,52 +3650,52 @@ RULE 3. SET FORTH THE MAJOR PARTS OF THE BOOK, AND SHOW HOW THESE ARE ORGANIZED 
 /Highlight on Location 1226-1227. [2019-09-24 13:59:50]./
 *** A good book, like a good house, is an orderly arrangement --
 A good book, like a good house, is an orderly arrangement of parts.
-/Highlight on Location 1238-1238. [2019-09-25 8:59:20]./
+/Highlight on Location 1238-1238. [2019-09-25 08:59:20]./
 *** As houses are more or less livable, so books are more or --
 As houses are more or less livable, so books are more or less readable.
-/Highlight on Location 1241-1241. [2019-09-25 8:59:55]./
+/Highlight on Location 1241-1241. [2019-09-25 08:59:55]./
 *** To recognize this is to learn what it means to say that --
 To recognize this is to learn what it means to say that there are only a small number of plots in the world.
-/Highlight on Location 1263-1264. [2019-09-25 9:04:04]./
+/Highlight on Location 1263-1264. [2019-09-25 09:04:04]./
 *** Sometimes the author tells you the unity of his plan in --
 Sometimes the author tells you the unity of his plan in his preface. In this respect, expository books differ radically from fiction.
-/Highlight on Location 1272-1273. [2019-09-25 9:06:41]./
+/Highlight on Location 1272-1273. [2019-09-25 09:06:41]./
 *** Darwin’s The Origin of Species --
 Darwin’s The Origin of Species
-/Highlight on Location 1305-1305. [2019-09-25 9:16:10]./
+/Highlight on Location 1305-1305. [2019-09-25 09:16:10]./
 *** This is an account of the variation of living things --
 This is an account of the variation of living things during the course of countless generations and the way in which this results in new groupings of plants and animals; it treats both of the variability of domesticated animals and of variability under natural conditions, showing how such factors as the struggle for existence and natural selection operate to bring about and sustain such groupings; it argues that species are not fixed and immutable groups, but that they are merely varieties in transition from a less to a more marked and permanent status, supporting this argument by evidences from extinct animals found in the earth’s crust, and from comparative embryology and anatomy.
-/Highlight on Location 1306-1311. [2019-09-25 9:16:17]./
+/Highlight on Location 1306-1311. [2019-09-25 09:16:17]./
 *** Adam Smith’s The Wealth of Nations. --
 Adam Smith’s The Wealth of Nations.
-/Highlight on Location 1296-1296. [2019-09-25 9:16:28]./
+/Highlight on Location 1296-1296. [2019-09-25 09:16:28]./
 *** This is an inquiry into the source of national wealth in --
 This is an inquiry into the source of national wealth in any economy that is built on a division of labor, considering the relation of the wages paid labor, the profits returned to capital, and the rent owed the landowner, as the prime factors in the price of commodities. It discusses the various ways in which capital can be more or less gainfully employed, and relates the origin and use of money to the accumulation and employment of capital. Examining the development of opulence in different nations and under different conditions, it compares the several systems of political economy, and argues for the beneficence of free trade.
-/Highlight on Location 1298-1302. [2019-09-25 9:16:34]./
+/Highlight on Location 1298-1302. [2019-09-25 09:16:34]./
 *** Aristotle’s Ethics --
 Aristotle’s Ethics
-/Highlight on Location 1290-1291. [2019-09-25 9:16:51]./
+/Highlight on Location 1290-1291. [2019-09-25 09:16:51]./
 *** This is an inquiry into the nature of human happiness and --
 This is an inquiry into the nature of human happiness and an analysis of the conditions under which happiness may be gained or lost, with an indication of what men must do in their conduct and thinking in order to become happy or to avoid unhappiness, the principal emphasis being placed on the cultivation of the virtues, both moral and intellectual, although other goods are also recognized as necessary for happiness, such as wealth, health, friends, and a just society in which to live.
-/Highlight on Location 1291-1295. [2019-09-25 9:16:55]./
+/Highlight on Location 1291-1295. [2019-09-25 09:16:55]./
 *** Locke’s Essay Concerning Human Understanding --
 Locke’s Essay Concerning Human Understanding
-/Highlight on Location 1313-1314. [2019-09-25 9:21:51]./
+/Highlight on Location 1313-1314. [2019-09-25 09:21:51]./
 *** “an inquiry into the origin, certainty and extent of human --
 “an inquiry into the origin, certainty and extent of human knowledge, together with the grounds and degrees of belief, opinion and assent.”
-/Highlight on Location 1315-1315. [2019-09-25 9:21:57]./
+/Highlight on Location 1315-1315. [2019-09-25 09:21:57]./
 *** will be shown, we would add, that there are no innate --
 will be shown, we would add, that there are no innate
-/Highlight on Location 1317-1317. [2019-09-25 9:22:09]./
+/Highlight on Location 1317-1317. [2019-09-25 09:22:09]./
 *** it will be shown, we would add, that there are no innate --
 it will be shown, we would add, that there are no innate ideas, but that all human knowledge is acquired from experience; and language will be discussed as a medium for the expression of thought, its proper use and most familiar abuses to be indicated. There are two things we want you to note before we proceed. The first is how frequently you can expect the author, especially a good one, to help you to state the plan of his book. Despite that fact, most readers are at a total loss if you ask them to say briefly what the whole book is about. Partly this is owing to the widespread inability to speak concise English sentences. Partly it is owing to neglect of this rule in reading. But it also indicates that many readers pay as little attention to the author’s introductory words as they ordinarily do to his title.
-/Highlight on Location 1317-1322. [2019-09-25 9:22:20]./
+/Highlight on Location 1317-1322. [2019-09-25 09:22:20]./
 *** A unity can be variously stated. --
 A unity can be variously stated.
-/Highlight on Location 1324-1324. [2019-09-25 9:22:38]./
+/Highlight on Location 1324-1324. [2019-09-25 09:22:38]./
 *** One statement is better than another, of course, in --
 One statement is better than another, of course, in proportion as it is brief, accurate, and comprehensive.
-/Highlight on Location 1324-1325. [2019-09-25 9:23:26]./
+/Highlight on Location 1324-1325. [2019-09-25 09:23:26]./
 *** The second rule directs your attention toward the unity, --
 The second rule directs your attention toward the unity, the third toward the complexity, of a book.
 /Highlight on Location 1335-1336. [2019-09-25 18:00:33]./
@@ -3947,37 +3947,37 @@ discovering the author’s terms, propositions, and arguments.
 /Highlight on Location 1803-1804. [2019-10-06 21:42:31]./
 *** The greatest error you can make in applying these rules is --
 The greatest error you can make in applying these rules is to suppose that a one-to-one relationship exists between the elements of language and those of thought or knowledge.
-/Highlight on Location 1820-1822. [2019-10-08 9:20:36]./
+/Highlight on Location 1820-1822. [2019-10-08 09:20:36]./
 *** Propositions are the answers to questions. --
 Propositions are the answers to questions.
-/Highlight on Location 1826-1826. [2019-10-08 9:23:24]./
+/Highlight on Location 1826-1826. [2019-10-08 09:23:24]./
 *** RULE 5. FIND THE IMPORTANT WORDS AND COME TO TERMS. --
 RULE 5. FIND THE IMPORTANT WORDS AND COME TO TERMS.
-/Highlight on Location 1867-1867. [2019-10-09 9:12:53]./
+/Highlight on Location 1867-1867. [2019-10-09 09:12:53]./
 *** RULE 6. MARK THE MOST IMPORTANT SENTENCES IN A BOOK AND --
 RULE 6. MARK THE MOST IMPORTANT SENTENCES IN A BOOK AND DISCOVER THE PROPOSITIONS THEY CONTAIN.
-/Highlight on Location 1868-1869. [2019-10-09 9:13:02]./
+/Highlight on Location 1868-1869. [2019-10-09 09:13:02]./
 *** RULE 7. LOCATE OR CONSTRUCT THE BASIC ARGUMENTS IN THE --
 RULE 7. LOCATE OR CONSTRUCT THE BASIC ARGUMENTS IN THE BOOK BY FINDING THEM IN THE CONNECTION OF SENTENCES.
-/Highlight on Location 1869-1870. [2019-10-09 9:13:09]./
+/Highlight on Location 1869-1870. [2019-10-09 09:13:09]./
 *** From the author’s point of view, the important sentences --
 From the author’s point of view, the important sentences are the ones that express the judgments on which his whole argument rests.
-/Highlight on Location 1883-1884. [2019-10-09 9:15:48]./
+/Highlight on Location 1883-1884. [2019-10-09 09:15:48]./
 *** the heart of his communication lies in the major --
 the heart of his communication lies in the major affirmations and denials he is making, and the reasons he gives for so doing.
-/Highlight on Location 1886-1887. [2019-10-09 9:16:13]./
+/Highlight on Location 1886-1887. [2019-10-09 09:16:13]./
 *** how essential a part of reading it is to be perplexed and --
 how essential a part of reading it is to be perplexed and know it. Wonder is the beginning of wisdom in learning from books as well as from nature.
-/Highlight on Location 1905-1906. [2019-10-09 9:19:17]./
+/Highlight on Location 1905-1906. [2019-10-09 09:19:17]./
 *** wrong sentences. They pause over the sentences that --
 wrong sentences. They pause over the sentences that interest them rather than the ones that puzzle them.
-/Highlight on Location 1924-1924. [2019-10-09 9:24:36]./
+/Highlight on Location 1924-1924. [2019-10-09 09:24:36]./
 *** this is one of the greatest obstacles to reading a book --
 this is one of the greatest obstacles to reading a book that is not completely contemporary. Any old book contains facts that are somewhat surprising because they are different from what we know. But when you are reading for understanding it is not that kind of novelty that you are seeking. Your interest in the author himself, or in his language, or in the world in which he wrote, is one thing; your concern to understand his ideas is quite another.
-/Highlight on Location 1925-1928. [2019-10-09 9:24:57]./
+/Highlight on Location 1925-1928. [2019-10-09 09:24:57]./
 *** “State in your own words!” That suggests the best test we --
 “State in your own words!” That suggests the best test we know for telling whether you have understood the proposition or propositions in the sentence.
-/Highlight on Location 1944-1945. [2019-10-09 9:34:04]./
+/Highlight on Location 1944-1945. [2019-10-09 09:34:04]./
 *** another formulation of RULE 7, as follows: FIND IF YOU CAN --
 another formulation of RULE 7, as follows: FIND IF YOU CAN THE PARAGRAPHS IN A BOOK THAT STATE ITS IMPORTANT ARGUMENTS; BUT IF THE ARGUMENTS ARE NOT THUS EXPRESSED, YOUR TASK IS TO CONSTRUCT THEM, BY TAKING A SENTENCE FROM THIS PARAGRAPH, AND ONE FROM THAT, UNTIL YOU HAVE GATHERED TOGETHER THE SEQUENCE OF SENTENCES THAT STATE THE PROPOSITIONS THAT COMPOSE THE ARGUMENT.
 /Highlight on Location 2005-2008. [2019-10-28 18:49:55]./
@@ -3998,34 +3998,34 @@ One of the most familiar tricks of the orator or propagandist is to leave certai
 /Highlight on Location 2027-2028. [2019-10-28 18:54:52]./
 *** In the literature of science, this distinction is observed --
 In the literature of science, this distinction is observed whenever the difference is emphasized between the proof of a proposition by reasoning and its establishment by experiment.
-/Highlight on Location 2047-2048. [2019-10-29 9:26:17]./
+/Highlight on Location 2047-2048. [2019-10-29 09:26:17]./
 *** In the third place, observe what things the author says he --
 In the third place, observe what things the author says he must assume, what he says can be proved or otherwise evidenced, and what need not be proved because it is self-evident.
-/Highlight on Location 2052-2054. [2019-10-29 9:26:27]./
+/Highlight on Location 2052-2054. [2019-10-29 09:26:27]./
 *** legerdemain. Rabbits are being pulled out of a hat. You --
 legerdemain. Rabbits are being pulled out of a hat. You put
-/Highlight on Location 2062-2062. [2019-10-29 9:28:31]./
+/Highlight on Location 2062-2062. [2019-10-29 09:28:31]./
 *** Which of the problems that the author tried to solve did --
 Which of the problems that the author tried to solve did he succeed in solving?
-/Highlight on Location 2091-2091. [2019-10-29 9:33:10]./
+/Highlight on Location 2091-2091. [2019-10-29 09:33:10]./
 *** RULE 8. FIND OUT WHAT THE AUTHOR’S SOLUTIONS ARE. --
 RULE 8. FIND OUT WHAT THE AUTHOR’S SOLUTIONS ARE.
-/Highlight on Location 2094-2095. [2019-10-29 9:33:20]./
+/Highlight on Location 2094-2095. [2019-10-29 09:33:20]./
 *** In the course of solving these, did he raise any new ones? --
 In the course of solving these, did he raise any new ones? Of the problems that he failed to solve, old or new, which did the author himself know he had failed on?
-/Highlight on Location 2091-2092. [2019-10-29 9:34:26]./
+/Highlight on Location 2091-2092. [2019-10-29 09:34:26]./
 *** The Second Stage of Analytical Reading, or Rules for --
 The Second Stage of Analytical Reading, or Rules for Finding What a Book Says (Interpreting Its Contents) 5. Come to terms with the author by interpreting his key words. 6. Grasp the author’s leading propositions by dealing with his most important sentences. 7. Know the author’s arguments, by finding them in, or constructing them out of, sequences of sentences. 8. Determine which of his problems the author has solved, and which he has not; and as to the latter, decide which the author knew he had failed to solve.
-/Highlight on Location 2107-2112. [2019-10-29 9:38:40]./
+/Highlight on Location 2107-2112. [2019-10-29 09:38:40]./
 *** Teachability as a Virtue --
 Teachability as a Virtue
-/Highlight on Location 2141-2142. [2019-10-29 9:43:35]./
+/Highlight on Location 2141-2142. [2019-10-29 09:43:35]./
 *** It is true that a book that can enlighten its readers, and --
 It is true that a book that can enlighten its readers, and is in this sense superior to them, should not be criticized by them until they understand it. When they do, they have elevated themselves almost to equality with the author. Now they are fit to exercise the rights and privileges of their new position.
-/Highlight on Location 2153-2155. [2019-10-29 9:51:29]./
+/Highlight on Location 2153-2155. [2019-10-29 09:51:29]./
 *** The most teachable reader is, therefore, the most --
 The most teachable reader is, therefore, the most critical.
-/Highlight on Location 2159-2160. [2019-10-29 9:55:58]./
+/Highlight on Location 2159-2160. [2019-10-29 09:55:58]./
 *** RULE 9. YOU MUST BE ABLE TO SAY, WITH REASONABLE --
 RULE 9. YOU MUST BE ABLE TO SAY, WITH REASONABLE CERTAINTY, “I UNDERSTAND,” BEFORE YOU CAN SAY ANY ONE OF THE FOLLOWING THINGS: “I AGREE,” OR “I DISAGREE,” OR “I SUSPEND JUDGMENT.”
 /Highlight on Location 2196-2198. [2019-10-29 10:04:26]./
@@ -4204,10 +4204,10 @@ earned.
 /Highlight on Location 1000-1000. [2017-01-04 21:14:47]./
 *** While it may not initially appear so, this point in the --
 While it may not initially appear so, this point in the program is very encouraging. So far your financial life has had very little direction or consciousness.
-/Highlight on Location 1088-1089. [2017-01-05 7:50:19]./
+/Highlight on Location 1088-1089. [2017-01-05 07:50:19]./
 *** For example, the majority of individual investors probably --
 For example, the majority of individual investors probably have no business being in the stock market.
-/Highlight on Location 1190-1191. [2017-01-05 8:05:02]./
+/Highlight on Location 1190-1191. [2017-01-05 08:05:02]./
 *** Do you believe that without a costly Ph.D. you are doomed --
 Do you believe that without a costly Ph.D. you are doomed to failure?
 /Highlight on Location 1245-1246. [2017-01-05 15:15:35]./
@@ -4240,13 +4240,13 @@ If you use a debit card for every purchase, you have a perfect record.
 /Highlight on Location 1614-1615. [2017-01-06 12:14:59]./
 *** Just notice that translating dollars into hours of your --
 Just notice that translating dollars into hours of your life reveals the real trade-offs you are making for your style of living.
-/Highlight on Location 1919-1920. [2017-01-09 7:48:04]./
+/Highlight on Location 1919-1920. [2017-01-09 07:48:04]./
 *** You learn to make your financial choices independently of --
 You learn to make your financial choices independently of what advertising and industry have decided would be good for their business.
-/Highlight on Location 2399-2400. [2017-01-10 8:02:21]./
+/Highlight on Location 2399-2400. [2017-01-10 08:02:21]./
 *** You are free of the humiliation of being manipulated into --
 You are free of the humiliation of being manipulated into spending your life energy on things that don’t bring you fulfillment.
-/Highlight on Location 2400-2401. [2017-01-10 8:02:43]./
+/Highlight on Location 2400-2401. [2017-01-10 08:02:43]./
 *** How Do We Find Our Purpose? --
 How Do We Find Our Purpose?
 /Highlight on Location 2490-2490. [2017-01-10 14:34:29]./
@@ -4275,13 +4275,13 @@ If that is so, then asking the question “What would this expenditure look like
 ** What the Buddha Taught: Revised and Expanded Edition with Texts from Suttas and Dhammapada
 *** consequently the country will be peaceful and --
 consequently the country will be peaceful and
-/#1538-1538的标注. [2019-01-09 7:48:45]./
+/#1538-1538的标注. [2019-01-09 07:48:45]./
 *** You should forget yourself completely, and lose yourself --
 You should forget yourself completely, and lose yourself in what you do.
-/#1371-1372的标注. [2019-03-12 9:45:16]./
+/#1371-1372的标注. [2019-03-12 09:45:16]./
 *** All great work—artistic, poetic, intellectual or --
 All great work—artistic, poetic, intellectual or spiritual—is produced at those moments when its creators are lost completely in their actions, when they forget themselves altogether, and are free from self-consciousness.
-/#1374-1375的标注. [2019-03-12 9:45:41]./
+/#1374-1375的标注. [2019-03-12 09:45:41]./
 *** The young prince lived in his palace with every luxury at --
 The young prince lived in his palace with every luxury at his command. But all of a sudden, confronted with the reality of life and the suffering of mankind, he decided to find the solution—the way out of this universal suffering.
 /Highlight on Location 167-169. [2019-10-30 19:20:57]./
@@ -4299,19 +4299,19 @@ Man’s position, according to Buddhism, is supreme. Man is his own master, and 
 /Highlight on Location 189-190. [2019-10-30 19:25:51]./
 *** The root of all evil is ignorance --
 The root of all evil is ignorance
-/Highlight on Location 221-222. [2019-10-31 9:26:27]./
+/Highlight on Location 221-222. [2019-10-31 09:26:27]./
 *** Violence in any form, under any pretext whatsoever, is --
 Violence in any form, under any pretext whatsoever, is absolutely against the teaching of the Buddha. The question
-/Highlight on Location 253-254. [2019-10-31 9:35:13]./
+/Highlight on Location 253-254. [2019-10-31 09:35:13]./
 *** Violence in any form, under any pretext whatsoever, is --
 Violence in any form, under any pretext whatsoever, is absolutely against the teaching of the Buddha.
-/Highlight on Location 253-254. [2019-10-31 9:35:17]./
+/Highlight on Location 253-254. [2019-10-31 09:35:17]./
 *** Truth needs no label: it is neither Buddhist, Christian, --
 Truth needs no label: it is neither Buddhist, Christian, Hindu nor Moslem. It is not the monopoly of anybody.
-/Highlight on Location 258-259. [2019-10-31 9:37:11]./
+/Highlight on Location 258-259. [2019-10-31 09:37:11]./
 *** To the seeker after Truth it is immaterial from where an --
 To the seeker after Truth it is immaterial from where an idea comes.
-/Highlight on Location 268-268. [2019-10-31 9:38:28]./
+/Highlight on Location 268-268. [2019-10-31 09:38:28]./
 *** Why, Māluṅkyaputta, have I not explained them? Because it --
 Why, Māluṅkyaputta, have I not explained them? Because it is not useful, it is not fundamentally connected with the spiritual holy life, is not conducive to aversion, detachment, cessation, tranquillity, deep penetration, full realization, Nirvāṇa. That is why I have not told you about them.
 /Highlight on Location 407-409. [2019-10-31 10:12:35]./
@@ -4415,13 +4415,13 @@ Nobody thinks about it, but statistically they’re in more danger than Watney r
 /Highlight on Location 1985-1986. [2019-12-15 22:40:38]./
 *** No mere luxury, the centripetal gravity of Hermes kept --
 No mere luxury, the centripetal gravity of Hermes kept them fit. Without it, they would have spent their first week on Mars barely able to walk. Zero-g exercise regimens could keep the heart and bones healthy, but none had been devised that would give them full function from Sol
-/Highlight on Location 2240-2241. [2019-12-16 8:52:08]./
+/Highlight on Location 2240-2241. [2019-12-16 08:52:08]./
 *** No mere luxury, the centripetal gravity of Hermes kept --
 No mere luxury, the centripetal gravity of Hermes kept them fit. Without it, they would have spent their first week on Mars barely able to walk. Zero-g exercise regimens could keep the heart and bones healthy, but none had been devised that would give them full function from Sol 1.
-/Highlight on Location 2240-2241. [2019-12-16 8:52:13]./
+/Highlight on Location 2240-2241. [2019-12-16 08:52:13]./
 *** They say once you grow crops somewhere, you have --
 They say once you grow crops somewhere, you have officially “colonized” it. So technically, I colonized Mars.
-/Highlight on Location 2285-2286. [2019-12-16 9:01:18]./
+/Highlight on Location 2285-2286. [2019-12-16 09:01:18]./
 *** Amazingly, some of the bacteria survived. The population --
 Amazingly, some of the bacteria survived. The population is strong and growing. That’s pretty impressive, when you consider it was exposed to near-vacuum and subarctic temperatures for over twenty-four hours. My guess is pockets of ice formed around some of the bacteria, leaving a bubble of survivable pressure inside, and the cold wasn’t quite enough to kill them. With hundreds of millions of bacteria, it only takes one survivor to stave off extinction. Life is amazingly tenacious. They don’t want to die any more than I do.
 /Highlight on Location 3508-3513. [2019-12-17 18:08:27]./
@@ -4445,7 +4445,7 @@ It’s amazing; this valley wasn’t made by a river slowly carving it away. It 
 /Highlight on Location 4472-4473. [2019-12-17 23:35:06]./
 *** I started the day with some nothin’ tea. Nothin’ tea is --
 I started the day with some nothin’ tea. Nothin’ tea is easy to make. First, get some hot water, then add nothin’. I experimented with potato skin tea a few weeks ago. The less said about that the better.
-/Highlight on Location 4960-4961. [2019-12-18 8:51:10]./
+/Highlight on Location 4960-4961. [2019-12-18 08:51:10]./
 *** there’s no way to test the ascent stage. Once you light --
 there’s no way to test the ascent stage. Once you light it, it’s lit.
 /Highlight on Location 5260-5260. [2019-12-18 17:44:00]./
@@ -4503,16 +4503,16 @@ The cost for my survival must have been hundreds of millions of dollars. All to 
 ** 高手：精英的见识和我们的时代
 *** 精英爱谈论想法，而普通人爱谈论人和东 --
 精英爱谈论想法，而普通人爱谈论人和东
-/Highlight on page 4. [2019-08-28 5:26:48]./
+/Highlight on page 4. [2019-08-28 05:26:48]./
 *** 精英爱谈论想法，而普通人爱谈论人和东西 --
 精英爱谈论想法，而普通人爱谈论人和东西
-/Highlight on page 4. [2019-08-28 5:26:56]./
+/Highlight on page 4. [2019-08-28 05:26:56]./
 *** 既然现代世界跟我们的直觉、心灵鸡汤、寓言故事和成语典故都非常不同，那么我们就想用精英的眼光和思维方式去理解、玩转和改 --
 既然现代世界跟我们的直觉、心灵鸡汤、寓言故事和成语典故都非常不同，那么我们就想用精英的眼光和思维方式去理解、玩转和改变这个世界。
-/Highlight on page 5. [2019-08-28 5:29:48]./
+/Highlight on page 5. [2019-08-28 05:29:48]./
 *** 相对于普通人，精英更相信规则，更能跟陌生人合作，更善于理解抽象概念，更愿意探索未知，更能承担风险 --
 相对于普通人，精英更相信规则，更能跟陌生人合作，更善于理解抽象概念，更愿意探索未知，更能承担风险
-/Highlight on page 50. [2019-10-16 8:27:56]./
+/Highlight on page 50. [2019-10-16 08:27:56]./
 * 余華
 ** 兄弟
 *** 还 --
@@ -4526,7 +4526,7 @@ The cost for my survival must have been hundreds of millions of dollars. All to 
 /Bookmark on Location 3201. [2017-01-24 17:59:27]./
 *** 真是佛靠金装，人靠衣装啊 --
 真是佛靠金装，人靠衣装啊
-/Highlight on Location 3835-3835. [2017-01-31 7:59:16]./
+/Highlight on Location 3835-3835. [2017-01-31 07:59:16]./
 *** 近墨者黑，近朱者赤 --
 近墨者黑，近朱者赤
 /Highlight on Location 4243-4243. [2017-01-31 18:16:14]./
@@ -4588,16 +4588,16 @@ passive aggressive
 ** 許三觀賣血記
 *** 在水裡 --
 在水裡
-/#580-580的标注. [2019-08-25 3:27:29]./
+/#580-580的标注. [2019-08-25 03:27:29]./
 *** 將鐵鉤 --
 將鐵鉤
-/#583-583的标注. [2019-08-25 3:28:53]./
+/#583-583的标注. [2019-08-25 03:28:53]./
 *** 死豬不怕開水燙 --
 死豬不怕開水燙
-/#975-976的标注. [2019-08-25 5:10:58]./
+/#975-976的标注. [2019-08-25 05:10:58]./
 *** 比一個月沒有拉屎還要難受 --
 比一個月沒有拉屎還要難受
-/#1004-1004的标注. [2019-08-25 5:22:08]./
+/#1004-1004的标注. [2019-08-25 05:22:08]./
 *** 脫褲子放屁，多此一舉 --
 脫褲子放屁，多此一舉
 /#1238-1238的标注. [2019-08-25 10:16:13]./
@@ -4642,13 +4642,13 @@ gghhh
 /Highlight on Location 2162-2162. [2019-08-25 19:02:49]./
 *** 我快活到五十歲了，做人是什麼滋味，我也全知道了，我就是死了也可以說是賺了 --
 我快活到五十歲了，做人是什麼滋味，我也全知道了，我就是死了也可以說是賺了
-/Highlight on Location 2428-2429. [2019-08-26 5:29:32]./
+/Highlight on Location 2428-2429. [2019-08-26 05:29:32]./
 *** 一口吃不成個大胖子 --
 一口吃不成個大胖子
-/Highlight on Location 2556-2556. [2019-08-27 5:07:25]./
+/Highlight on Location 2556-2556. [2019-08-27 05:07:25]./
 *** 親兄弟明算帳 --
 親兄弟明算帳
-/Highlight on Location 2639-2639. [2019-08-27 9:51:08]./
+/Highlight on Location 2639-2639. [2019-08-27 09:51:08]./
 *** 吃不飽飯睡覺來補 --
 吃不飽飯睡覺來補
 /Highlight on Location 2669-2669. [2019-08-27 10:02:50]./
@@ -4695,7 +4695,7 @@ gghhh
 ** 厚黑学
 *** 大人不计小人过”、“宰相肚里能撑船 --
 大人不计小人过”、“宰相肚里能撑船
-/Highlight on Location 77-77. [2019-11-06 9:40:22]./
+/Highlight on Location 77-77. [2019-11-06 09:40:22]./
 * 東野圭吾
 ** 嫌疑犯Ｘ的獻身
 *** 學長也對理工科有自卑情結嗎？ --
@@ -4857,10 +4857,10 @@ gghhh
 ** 推拿
 *** 人就是这样，一旦有了信仰，他就有决心与毅力去浪费时光。 --
 人就是这样，一旦有了信仰，他就有决心与毅力去浪费时光。
-/Highlight on Location 1695-1695. [2017-08-21 7:10:47]./
+/Highlight on Location 1695-1695. [2017-08-21 07:10:47]./
 *** 抖擞 --
 抖擞
-/Highlight on Location 1821-1822. [2017-08-23 5:14:52]./
+/Highlight on Location 1821-1822. [2017-08-23 05:14:52]./
 *** 隋 --
 隋
 /Highlight on Location 3446-3446. [2018-02-22 10:13:26]./
@@ -4927,55 +4927,55 @@ gghhh
 /Highlight on Location 81-81. [2019-11-20 20:57:47]./
 *** 我们生活的目标，简而言之我们的人生观，是谁提供的 --
 我们生活的目标，简而言之我们的人生观，是谁提供的
-/Highlight on Location 178-178. [2019-11-21 9:25:52]./
+/Highlight on Location 178-178. [2019-11-21 09:25:52]./
 *** 我们生活的目标，简而言之我们的人生观，是谁提供的？ --
 我们生活的目标，简而言之我们的人生观，是谁提供的？
-/Highlight on Location 178-178. [2019-11-21 9:25:59]./
+/Highlight on Location 178-178. [2019-11-21 09:25:59]./
 *** 政治家都曾经是人生观的权威制定者 --
 政治家都曾经是人生观的权威制定者
-/Highlight on Location 179-179. [2019-11-21 9:26:19]./
+/Highlight on Location 179-179. [2019-11-21 09:26:19]./
 *** 国家对于国民已经不是有趣的存在 --
 国家对于国民已经不是有趣的存在
-/Highlight on Location 186-186. [2019-11-21 9:27:30]./
+/Highlight on Location 186-186. [2019-11-21 09:27:30]./
 *** 人头马一开，好事自然来 --
 人头马一开，好事自然来
-/Highlight on Location 198-199. [2019-11-21 9:32:23]./
+/Highlight on Location 198-199. [2019-11-21 09:32:23]./
 *** 如果把好生活作为人生观来鼓吹的话，商人必将成为这话语的最终垄断者 --
 如果把好生活作为人生观来鼓吹的话，商人必将成为这话语的最终垄断者
-/Highlight on Location 199-199. [2019-11-21 9:32:42]./
+/Highlight on Location 199-199. [2019-11-21 09:32:42]./
 *** 人类各个民族曾经提出过的几乎所有的主导人生观，都是建立在人类历史的这一基调之上的，都折射出此种生存状况的基本氛围：生 --
 人类各个民族曾经提出过的几乎所有的主导人生观，都是建立在人类历史的这一基调之上的，都折射出此种生存状况的基本氛围：生存是严酷而艰难的。
-/Highlight on Location 207-208. [2019-11-21 9:35:02]./
+/Highlight on Location 207-208. [2019-11-21 09:35:02]./
 *** 君子居无求安，食无求饱 --
 君子居无求安，食无求饱
-/Highlight on Location 209-209. [2019-11-21 9:35:25]./
+/Highlight on Location 209-209. [2019-11-21 09:35:25]./
 *** 孟子说：“生于忧患，死于安乐。 --
 孟子说：“生于忧患，死于安乐。
-/Highlight on Location 209-209. [2019-11-21 9:35:57]./
+/Highlight on Location 209-209. [2019-11-21 09:35:57]./
 *** 人有享不了的福，没有受不了的苦 --
 人有享不了的福，没有受不了的苦
-/Highlight on Location 211-211. [2019-11-21 9:36:54]./
+/Highlight on Location 211-211. [2019-11-21 09:36:54]./
 *** 人生有两种悲剧：一种是没有得到你心里想要的东西；另一种是得到了。 --
 人生有两种悲剧：一种是没有得到你心里想要的东西；另一种是得到了。
-/Highlight on Location 220-220. [2019-11-21 9:39:34]./
+/Highlight on Location 220-220. [2019-11-21 09:39:34]./
 *** 我们以往建立在温饱未解决之上的价值观和人生观，不是将被掀桌子、卷地毯、全军覆没吗 --
 我们以往建立在温饱未解决之上的价值观和人生观，不是将被掀桌子、卷地毯、全军覆没吗
-/Highlight on Location 224-225. [2019-11-21 9:40:30]./
+/Highlight on Location 224-225. [2019-11-21 09:40:30]./
 *** 怎样填补生活意义的真空，成了一大问题 --
 怎样填补生活意义的真空，成了一大问题
-/Highlight on Location 227-227. [2019-11-21 9:40:58]./
+/Highlight on Location 227-227. [2019-11-21 09:40:58]./
 *** 如果某一种行为不利于生存和繁衍，该行为将随着其载体被淘汰而消亡 --
 如果某一种行为不利于生存和繁衍，该行为将随着其载体被淘汰而消亡
-/Highlight on Location 247-248. [2019-11-21 9:46:57]./
+/Highlight on Location 247-248. [2019-11-21 09:46:57]./
 *** 自然选择没有使人快乐的意图，而我们基因的远期利益常常是要由一些不愉快的经历来保护的。 --
 自然选择没有使人快乐的意图，而我们基因的远期利益常常是要由一些不愉快的经历来保护的。
-/Highlight on Location 250-251. [2019-11-21 9:48:14]./
+/Highlight on Location 250-251. [2019-11-21 09:48:14]./
 *** 将电极放在三只老鼠的下脑丘，老鼠面前放置三个杠杆，压第一个杠杆释放食物，压第二个释放饮料，压第三个释放迅速而短暂的快 --
 将电极放在三只老鼠的下脑丘，老鼠面前放置三个杠杆，压第一个杠杆释放食物，压第二个释放饮料，压第三个释放迅速而短暂的快感，老鼠很快分辨出三个杠杆并只选择第三个，直到饿死。（
-/Highlight on Location 268-270. [2019-11-21 9:57:36]./
+/Highlight on Location 268-270. [2019-11-21 09:57:36]./
 *** 一味沉溺对快乐的追求将带来灭顶之灾 --
 一味沉溺对快乐的追求将带来灭顶之灾
-/Highlight on Location 270-271. [2019-11-21 9:58:36]./
+/Highlight on Location 270-271. [2019-11-21 09:58:36]./
 *** 快乐必须足够短暂，以使我们可以将注意力集中到下一项任务 --
 快乐必须足够短暂，以使我们可以将注意力集中到下一项任务
 /Highlight on Location 277-278. [2019-11-21 10:01:41]./
@@ -5035,34 +5035,34 @@ gghhh
 /Highlight on Location 384-385. [2019-11-21 22:59:55]./
 *** 思想家有两种：一种是宣扬一个大思想，另一种有无穷的不同凡响的大小思想 --
 思想家有两种：一种是宣扬一个大思想，另一种有无穷的不同凡响的大小思想
-/Highlight on Location 401-402. [2019-11-22 9:38:59]./
+/Highlight on Location 401-402. [2019-11-22 09:38:59]./
 *** 山崎正和 1984/1988：柔性个人主义 --
 山崎正和 1984/1988：柔性个人主义
-/Highlight on Location 413-413. [2019-11-22 9:42:33]./
+/Highlight on Location 413-413. [2019-11-22 09:42:33]./
 *** 文明国家的活力，不仅来自年轻人生物意义上的朝气，也来自高龄群体因社会经历而具有的多样性。人们在相互间的游戏中发现了生 --
 文明国家的活力，不仅来自年轻人生物意义上的朝气，也来自高龄群体因社会经历而具有的多样性。人们在相互间的游戏中发现了生活的意义，在与具体人的具体游戏之前是不知道的。进入二十世纪后，趣味的领导阶层销声匿迹，大众只好左顾右盼，相互模仿。炫耀性消费的前提是，社会在价值观上是同质的。银制的餐具不是工具，是道具，是反工具。 威廉斯，乔治 1962／2001：《适应与自然选择》，上海科学技术出版社 现代进化论思想的经典之作。
-/Highlight on Location 414-419. [2019-11-22 9:45:16]./
+/Highlight on Location 414-419. [2019-11-22 09:45:16]./
 *** 文明国家的活力，不仅来自年轻人生物意义上的朝气，也来自高龄群体因社会经历而具有的多样性。人们在相互间的游戏中发现了生 --
 文明国家的活力，不仅来自年轻人生物意义上的朝气，也来自高龄群体因社会经历而具有的多样性。人们在相互间的游戏中发现了生活的意义，在与具体人的具体游戏之前是不知道的
-/Highlight on Location 414-416. [2019-11-22 9:45:32]./
+/Highlight on Location 414-416. [2019-11-22 09:45:32]./
 *** 文明靠创造不同于暴力和劳作的刺激行为，及从事和享受这些活动的技巧组成。最刺激的良性行为要求最高的技巧，不幸最渴望强刺 --
 文明靠创造不同于暴力和劳作的刺激行为，及从事和享受这些活动的技巧组成。最刺激的良性行为要求最高的技巧，不幸最渴望强刺激的人大多不能和不愿学习这些技巧
-/Highlight on Location 430-432. [2019-11-22 9:50:21]./
+/Highlight on Location 430-432. [2019-11-22 09:50:21]./
 *** 个人舒适、社会舒适、刺激。经济学家只注重第一种。 --
 个人舒适、社会舒适、刺激。经济学家只注重第一种。
-/Highlight on Location 434-434. [2019-11-22 9:51:38]./
+/Highlight on Location 434-434. [2019-11-22 09:51:38]./
 *** 消费者的需求和满足的来源可分为三个范畴：个人舒适、社会舒适、刺激。经济学家只注重第一种。原因或许是它简单。社会舒适和 --
 消费者的需求和满足的来源可分为三个范畴：个人舒适、社会舒适、刺激。经济学家只注重第一种。原因或许是它简单。社会舒适和刺激则可以多样的方式和目标来满足。兴奋源上的差别是民族、阶级、教育因素决定的，不是先天而是习惯、接触、训练导致的。教育不能改变人的本能，但可以给并未减少的本能提供新的渠道。社会应该资助人们接触艺术，接触艺术教育。
-/Highlight on Location 434-437. [2019-11-22 9:51:50]./
+/Highlight on Location 434-437. [2019-11-22 09:51:50]./
 *** 广义的经济民主应该既包括生产权，也包括消费权 --
 广义的经济民主应该既包括生产权，也包括消费权
-/Highlight on Location 496-496. [2019-11-25 9:28:11]./
+/Highlight on Location 496-496. [2019-11-25 09:28:11]./
 *** 大异其趣。 --
 大异其趣。
-/Highlight on Location 502-502. [2019-11-25 9:56:48]./
+/Highlight on Location 502-502. [2019-11-25 09:56:48]./
 *** 工业拥有了复制的能力 --
 工业拥有了复制的能力
-/Highlight on Location 503-503. [2019-11-25 9:58:56]./
+/Highlight on Location 503-503. [2019-11-25 09:58:56]./
 *** 销售比生产更要紧 --
 销售比生产更要紧
 /Highlight on Location 506-506. [2019-11-25 10:00:16]./
@@ -5161,16 +5161,16 @@ gghhh
 /Highlight on Location 3055-3056. [2019-12-10 12:51:24]./
 *** 越是地位高的人的工作，游戏性越强；越是地位低的人的工作，越是同游戏呈现尖锐的对立 --
 越是地位高的人的工作，游戏性越强；越是地位低的人的工作，越是同游戏呈现尖锐的对立
-/Highlight on Location 3066-3067. [2019-12-10 9:24:55]./
+/Highlight on Location 3066-3067. [2019-12-10 09:24:55]./
 *** 工作者从中得到的乐趣越多，他所得到的薪水也越 --
 工作者从中得到的乐趣越多，他所得到的薪水也越
-/Highlight on Location 3068-3068. [2019-12-10 9:25:45]./
+/Highlight on Location 3068-3068. [2019-12-10 09:25:45]./
 *** 工作者从中得到的乐趣越多，他所得到的薪水也越高。 --
 工作者从中得到的乐趣越多，他所得到的薪水也越高。
-/Highlight on Location 3068-3068. [2019-12-10 9:25:50]./
+/Highlight on Location 3068-3068. [2019-12-10 09:25:50]./
 *** 社会阶层的划分除了收入、社会声望等因素外，还有一点值得参考，就是工作中的趣味性 --
 社会阶层的划分除了收入、社会声望等因素外，还有一点值得参考，就是工作中的趣味性
-/Highlight on Location 3069-3070. [2019-12-10 9:26:21]./
+/Highlight on Location 3069-3070. [2019-12-10 09:26:21]./
 ** 神似祖先 (视点文丛)
 *** 一个伟大学科之所以伟大，在于它拥有两种影响。第一种影响源于它自身的内容，即它对世界的某一方面的认识。第二种影响源自它 --
 一个伟大学科之所以伟大，在于它拥有两种影响。第一种影响源于它自身的内容，即它对世界的某一方面的认识。第二种影响源自它的方法论和哲学观，它将极大地改变我们的世界观
@@ -5219,28 +5219,28 @@ gghhh
 /Highlight on Location 191-191. [2019-11-08 01:17:10]./
 *** 达尔文的“共同祖先说”不仅颠覆了神创论，而且颠覆了每个物种是被单独创造出来的学说 --
 达尔文的“共同祖先说”不仅颠覆了神创论，而且颠覆了每个物种是被单独创造出来的学说
-/Highlight on Location 200-201. [2019-11-08 9:34:51]./
+/Highlight on Location 200-201. [2019-11-08 09:34:51]./
 *** 尔文提出的其实是“适应”，不是“进步” --
 尔文提出的其实是“适应”，不是“进步”
-/Highlight on Location 204-204. [2019-11-08 9:35:49]./
+/Highlight on Location 204-204. [2019-11-08 09:35:49]./
 *** 达尔文否定了进化可以预测，从而在生命、社会、历史的领域中打消了“预测”的狂言，提升了“解释”的地位 --
 达尔文否定了进化可以预测，从而在生命、社会、历史的领域中打消了“预测”的狂言，提升了“解释”的地位
-/Highlight on Location 209-210. [2019-11-08 9:39:56]./
+/Highlight on Location 209-210. [2019-11-08 09:39:56]./
 *** 达尔文对超长时段的研究还使人们认识到，对知识的进步，观察与实验同样重要 --
 达尔文对超长时段的研究还使人们认识到，对知识的进步，观察与实验同样重要
-/Highlight on Location 210-210. [2019-11-08 9:41:40]./
+/Highlight on Location 210-210. [2019-11-08 09:41:40]./
 *** 而实验曾经被物理学为代表的科学视为压倒一切的手段 --
 而实验曾经被物理学为代表的科学视为压倒一切的手段
-/Highlight on Location 210-211. [2019-11-08 9:42:29]./
+/Highlight on Location 210-211. [2019-11-08 09:42:29]./
 *** 纨绔子弟 --
 纨绔子弟
-/Highlight on Location 221-221. [2019-11-08 9:45:50]./
+/Highlight on Location 221-221. [2019-11-08 09:45:50]./
 *** 当时英国的海军考察往往兼顾博物学 --
 当时英国的海军考察往往兼顾博物学
-/Highlight on Location 227-227. [2019-11-08 9:52:16]./
+/Highlight on Location 227-227. [2019-11-08 09:52:16]./
 *** 当时英国社会生活中沿袭的是严格的等级制 --
 当时英国社会生活中沿袭的是严格的等级制
-/Highlight on Location 228-229. [2019-11-08 9:55:17]./
+/Highlight on Location 228-229. [2019-11-08 09:55:17]./
 *** 1839年1月（30岁），也就是形成了进化论思想雏形的第二年，达尔文结 --
 1839年1月（30岁），也就是形成了进化论思想雏形的第二年，达尔文结
 /Highlight on Location 262-263. [2019-11-08 16:23:10]./
@@ -5324,19 +5324,19 @@ gghhh
 /Highlight on Location 420-421. [2019-11-12 12:01:43]./
 *** 人们对自然选择的另一个误解是它可以造就完美。完美的观念同样是神创论的遗产。它同变化、竞争、偶然性、机会主义这些现象天 --
 人们对自然选择的另一个误解是它可以造就完美。完美的观念同样是神创论的遗产。它同变化、竞争、偶然性、机会主义这些现象天然地不相和谐
-/Highlight on Location 422-423. [2019-11-12 9:30:57]./
+/Highlight on Location 422-423. [2019-11-12 09:30:57]./
 *** 以物理学家为代表的科学家在很长时间里，并不认为进化论是具有现代科学特征的理论。因为在物理学中，预测不仅是可能的，而且 --
 以物理学家为代表的科学家在很长时间里，并不认为进化论是具有现代科学特征的理论。因为在物理学中，预测不仅是可能的，而且往往要用预测来检验理论的正确。更由于物理学三百余年来在方法论中对现代科学乃至现代生活的巨大影响，人们对预测趋之若鹜：一方面在诸多事物上期待着科学的预测；另一方面将预测看做检验理论的试金石。
-/Highlight on Location 468-471. [2019-11-12 9:44:00]./
+/Highlight on Location 468-471. [2019-11-12 09:44:00]./
 *** 一种持续了几百年或者甚至几千年之久的趋势，可以在十年之内改变，或者甚至比那还迅速 --
 一种持续了几百年或者甚至几千年之久的趋势，可以在十年之内改变，或者甚至比那还迅速
-/Highlight on Location 488-489. [2019-11-12 9:49:39]./
+/Highlight on Location 488-489. [2019-11-12 09:49:39]./
 *** 科学极大地改变了人类历史，而科学的发现是不可预测的，所以人类的历史不能预测 --
 科学极大地改变了人类历史，而科学的发现是不可预测的，所以人类的历史不能预测
-/Highlight on Location 492-493. [2019-11-12 9:50:56]./
+/Highlight on Location 492-493. [2019-11-12 09:50:56]./
 *** 社会之中居然有一个领域，其运转的机制与自然选择如此相似，简直就是天造地设的一副对子。那就是市场，就是市场选择的机制 --
 社会之中居然有一个领域，其运转的机制与自然选择如此相似，简直就是天造地设的一副对子。那就是市场，就是市场选择的机制
-/Highlight on Location 496-498. [2019-11-12 9:56:15]./
+/Highlight on Location 496-498. [2019-11-12 09:56:15]./
 *** 在这两种机制中，谁能中选事先都是不知道的。所以严格的预测是不成立的，解释却是可以的，解释是由结果推导过程。这种性质的 --
 在这两种机制中，谁能中选事先都是不知道的。所以严格的预测是不成立的，解释却是可以的，解释是由结果推导过程。这种性质的解释还有意义吗？有意义
 /Highlight on Location 504-505. [2019-11-12 10:01:22]./
@@ -5346,31 +5346,31 @@ gghhh
 ** 语镜子:语言是社会生活的一面镜子
 *** 语言与基因在此点上颇为相似，其中沉淀着过往的事实，很多信息全然不见史册。我们本以为永远也无从打捞了，而今方知我们还有 --
 语言与基因在此点上颇为相似，其中沉淀着过往的事实，很多信息全然不见史册。我们本以为永远也无从打捞了，而今方知我们还有一个，不对，有两个尘封至今的数据库：一个是基因，另一个是语言
-/Highlight on Location 97-98. [2019-11-07 9:38:57]./
+/Highlight on Location 97-98. [2019-11-07 09:38:57]./
 *** 语言是世间最神奇的事物，它同祖先一样古老，它伴人类一起成长，它又像孩子一样充满了生机 --
 语言是世间最神奇的事物，它同祖先一样古老，它伴人类一起成长，它又像孩子一样充满了生机
-/Highlight on Location 104-105. [2019-11-07 9:40:03]./
+/Highlight on Location 104-105. [2019-11-07 09:40:03]./
 *** 语言就是历史的积淀。几乎可以从每一个词汇、每一个名称中探寻到一段故事 --
 语言就是历史的积淀。几乎可以从每一个词汇、每一个名称中探寻到一段故事
-/Highlight on Location 112-113. [2019-11-07 9:41:48]./
+/Highlight on Location 112-113. [2019-11-07 09:41:48]./
 *** 至秦废贝行钱 --
 至秦废贝行钱
-/Highlight on Location 117-117. [2019-11-07 9:43:18]./
+/Highlight on Location 117-117. [2019-11-07 09:43:18]./
 *** 从不同民族的语言特征可以看到不同民族的差异 --
 从不同民族的语言特征可以看到不同民族的差异
-/Highlight on Location 142-143. [2019-11-07 9:49:49]./
+/Highlight on Location 142-143. [2019-11-07 09:49:49]./
 *** 用进废退 --
 用进废退
-/Highlight on Location 149-149. [2019-11-07 9:51:32]./
+/Highlight on Location 149-149. [2019-11-07 09:51:32]./
 *** 不周令人侧目 --
 不周令人侧目
-/Highlight on Location 155-155. [2019-11-07 9:54:22]./
+/Highlight on Location 155-155. [2019-11-07 09:54:22]./
 *** 礼数不周令人侧 --
 礼数不周令人侧
-/Highlight on Location 155-155. [2019-11-07 9:54:49]./
+/Highlight on Location 155-155. [2019-11-07 09:54:49]./
 *** 礼数不周令人侧目 --
 礼数不周令人侧目
-/Highlight on Location 155-155. [2019-11-07 9:54:54]./
+/Highlight on Location 155-155. [2019-11-07 09:54:54]./
 *** 用社会学冲突学派的理论来解释，与外部的冲突会増进一个团体内部的团结 --
 用社会学冲突学派的理论来解释，与外部的冲突会増进一个团体内部的团结
 /Highlight on Location 199-200. [2019-11-07 10:12:09]./
@@ -5436,7 +5436,7 @@ gghhh
 /#5744-5744的标注. [2019-07-24 20:16:52]./
 *** 悉数毙命。 --
 悉数毙命。
-/#6050-6050的标注. [2019-07-25 7:51:41]./
+/#6050-6050的标注. [2019-07-25 07:51:41]./
 *** 龙波知道，鱼肠一向自负 --
 龙波知道，鱼肠一向自负
 /#6458-6458的标注. [2019-07-25 22:29:37]./
