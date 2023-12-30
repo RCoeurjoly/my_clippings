@@ -906,10 +906,10 @@ They'd walked away from the old B&B when those assholes had shown up, and pulled
 /Highlight on Location 2416-2419. [2019-12-03 10:03:03]./
 *** one reason to get into uploading is your overwhelming --
 one reason to get into uploading is your overwhelming existential terror at the thought of dying.
-/Highlight on Location 2623-2624. [2019-12-08 1:32:11]./
+/Highlight on Location 2623-2624. [2019-12-08 01:32:11]./
 *** Iceweasel tried to learn to relax. The B&B didn't need --
 Iceweasel tried to learn to relax. The B&B didn't need that much work to keep going. A chart making the rounds in their social-spaces showed how if everyone put in an eight hour shift every three days, they'd have double the hours they needed. One crew was ideologically committed to doing nothing, creating a "safe space" for "post-work." She understood. Sitting on her ass, especially in public, made her feel guilty. Unworkers were moral cover for people experimenting with doing SFO for a day or a month (or a year).
-/Highlight on Location 2625-2628. [2019-12-08 1:34:09]./
+/Highlight on Location 2625-2628. [2019-12-08 01:34:09]./
 *** the sense that they added our research to theirs, but we --
 the sense that they added our research to theirs, but we never saw what they made of our work.
 /Highlight on Location 2649-2649. [2019-12-10 9:58:41]./
@@ -1398,10 +1398,10 @@ People love to win. If you’re not totally clear about the purpose of what you�
 /#1165-1166的标注. [2019-02-03 12:38:54]./
 *** If you’re not sure why you’re doing something, you can --
 If you’re not sure why you’re doing something, you can never do enough of it.
-/#1196-1196的标注. [2019-02-03 1:44:16]./
+/#1196-1196的标注. [2019-02-03 01:44:16]./
 *** “How will I know when this is off-purpose?” --
 “How will I know when this is off-purpose?”
-/#1202-1202的标注. [2019-02-03 1:44:51]./
+/#1202-1202的标注. [2019-02-03 01:44:51]./
 *** In order most productively to access the conscious and --
 In order most productively to access the conscious and unconscious resources available to you, you must have a clear picture in your mind of what success would look, sound, and feel like.
 /#1218-1219的标注. [2019-02-03 15:15:35]./
@@ -5195,28 +5195,28 @@ gghhh
 /Highlight on Location 129-129. [2019-11-08 12:45:40]./
 *** 事实比想象更离奇 --
 事实比想象更离奇
-/Highlight on Location 167-167. [2019-11-08 1:01:16]./
+/Highlight on Location 167-167. [2019-11-08 01:01:16]./
 *** 生物学是解开人类本性之谜的一个关键，如果忽视了它所提供的那些快捷有效的原则，其损失之大就不是社会科学家负担得起的了 --
 生物学是解开人类本性之谜的一个关键，如果忽视了它所提供的那些快捷有效的原则，其损失之大就不是社会科学家负担得起的了
-/Highlight on Location 172-173. [2019-11-08 1:04:03]./
+/Highlight on Location 172-173. [2019-11-08 01:04:03]./
 *** 千年之交 --
 千年之交
-/Highlight on Location 177-177. [2019-11-08 1:06:56]./
+/Highlight on Location 177-177. [2019-11-08 01:06:56]./
 *** 钦佩 --
 钦佩
-/Highlight on Location 179-179. [2019-11-08 1:07:56]./
+/Highlight on Location 179-179. [2019-11-08 01:07:56]./
 *** 爱因斯坦的理论其实没有走出物理学界。就理论高度而言，他无疑开辟了与牛顿有别的另一个物理学时代。但是就对知识界乃至公众 --
 爱因斯坦的理论其实没有走出物理学界。就理论高度而言，他无疑开辟了与牛顿有别的另一个物理学时代。但是就对知识界乃至公众世界观的影响来说，他肯定赶不上牛顿。而对一个思想家之影响力的判定，应该更取决于对社会而不是学科专业的影响
-/Highlight on Location 180-182. [2019-11-08 1:09:31]./
+/Highlight on Location 180-182. [2019-11-08 01:09:31]./
 *** 马克思的贡献在三个方面。其一是唯物主义 --
 马克思的贡献在三个方面。其一是唯物主义
-/Highlight on Location 184-184. [2019-11-08 1:12:13]./
+/Highlight on Location 184-184. [2019-11-08 01:12:13]./
 *** 其二是阶级斗争的学说。这是解释社会生活与历史的非常重要的维度之一，但绝不是唯一的维度，而马克思自觉不自觉地拒绝了其他 --
 其二是阶级斗争的学说。这是解释社会生活与历史的非常重要的维度之一，但绝不是唯一的维度，而马克思自觉不自觉地拒绝了其他一些解释。其三，社会主义理论（包括他对资本主义的批判）
-/Highlight on Location 189-190. [2019-11-08 1:12:56]./
+/Highlight on Location 189-190. [2019-11-08 01:12:56]./
 *** 我以为它将同资本主义思潮共始终， --
 我以为它将同资本主义思潮共始终，
-/Highlight on Location 191-191. [2019-11-08 1:17:10]./
+/Highlight on Location 191-191. [2019-11-08 01:17:10]./
 *** 达尔文的“共同祖先说”不仅颠覆了神创论，而且颠覆了每个物种是被单独创造出来的学说 --
 达尔文的“共同祖先说”不仅颠覆了神创论，而且颠覆了每个物种是被单独创造出来的学说
 /Highlight on Location 200-201. [2019-11-08 9:34:51]./
